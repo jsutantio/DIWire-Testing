@@ -1,0 +1,4611 @@
+##### GCode file: C:\Users\pensa\Documents\AirBend1_8_012716.txt
+
+##### Begin Iteration # 1  at Fri Jan 29 16:28:04 EST 2016
+
+1	1	Sending to tinyG: g90
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+2	2	Sending to tinyG: g0x-10
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+3	3	Sending to tinyG: g0z0
+serialEvent(): inString = {"r":{},"f":[1,0,5]}
+4	4	Sending to tinyG: g0x350
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+5	5	Sending to tinyG: g0x335
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+6	6	Sending to tinyG: g0z180
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+7	7	Sending to tinyG: g0x370
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+8	8	Sending to tinyG: g91
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+9	9	Sending to tinyG: g0y160
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+10	10	Sending to tinyG: g90
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+11	11	Sending to tinyG: g0z0
+serialEvent(): inString = {"sr":{"line":0,"posx":18.349,"vel":6187.88,"dist":0,"stat":5}}
+serialEvent(): posx = 18.349
+serialEvent(): line = 0
+serialEvent(): inString = {"r":{},"f":[1,0,5]}
+12	12	Sending to tinyG: g0x10
+serialEvent(): inString = {"r":{},"f":[1,0,6]}
+13	13	Sending to tinyG: g0x25
+serialEvent(): inString = {"r":{},"f":[1,0,6]}
+14	14	Sending to tinyG: g0z180
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+15	15	Sending to tinyG: g91
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+16	16	Sending to tinyG: g0y160
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+Sending to tinyG: n10000 (end marker)
+serialEvent(): inString = {"sr":{"posx":-8.622,"vel":2651.91}}
+serialEvent(): posx = -8.622
+serialEvent(): inString = {"r":{},"f":[1,0,20]}
+serialEvent(): inString = {"sr":{"posx":-10.000,"posz":172.979,"vel":9801.60}}
+serialEvent(): posx = -10.0
+serialEvent(): posz = 172.979
+serialEvent(): inString = {"sr":{"posz":70.310,"vel":30067.24}}
+serialEvent(): posz = 70.31
+serialEvent(): inString = {"sr":{"posz":0.423,"vel":1487.62}}
+serialEvent(): posz = 0.423
+serialEvent(): inString = {"sr":{"posx":-2.554,"posz":0.000,"vel":6473.00}}
+serialEvent(): posx = -2.554
+serialEvent(): posz = 0.0
+serialEvent(): inString = {"sr":{"posx":28.417,"vel":7500.00}}
+serialEvent(): posx = 28.417
+serialEvent(): inString = {"sr":{"posx":59.713}}
+serialEvent(): posx = 59.713
+serialEvent(): inString = {"sr":{"posx":90.822}}
+serialEvent(): posx = 90.822
+serialEvent(): inString = {"sr":{"posx":122.305}}
+serialEvent(): posx = 122.305
+serialEvent(): inString = {"sr":{"posx":153.602}}
+serialEvent(): posx = 153.602
+serialEvent(): inString = {"sr":{"posx":184.900}}
+serialEvent(): posx = 184.9
+serialEvent(): inString = {"sr":{"posx":216.197}}
+serialEvent(): posx = 216.197
+serialEvent(): inString = {"sr":{"posx":247.494}}
+serialEvent(): posx = 247.494
+serialEvent(): inString = {"sr":{"posx":278.604}}
+serialEvent(): posx = 278.604
+serialEvent(): inString = {"sr":{"posx":310.088}}
+serialEvent(): posx = 310.088
+serialEvent(): inString = {"sr":{"posx":341.215,"vel":6897.97}}
+serialEvent(): posx = 341.215
+serialEvent(): inString = {"sr":{"posx":349.858,"vel":554.50}}
+serialEvent(): posx = 349.858
+serialEvent(): inString = {"sr":{"posx":335.984,"vel":2014.27}}
+serialEvent(): posx = 335.984
+serialEvent(): inString = {"sr":{"posx":335.000,"posz":9.481,"vel":11859.14}}
+serialEvent(): posx = 335.0
+serialEvent(): posz = 9.481
+serialEvent(): inString = {"sr":{"posz":116.404,"vel":29642.69}}
+serialEvent(): posz = 116.404
+serialEvent(): inString = {"sr":{"posz":179.822,"vel":805.63}}
+serialEvent(): posz = 179.822
+serialEvent(): inString = {"sr":{"posx":343.957,"posz":180.000,"vel":6897.96}}
+serialEvent(): posx = 343.957
+serialEvent(): posz = 180.0
+serialEvent(): inString = {"sr":{"posx":369.312,"vel":1695.81}}
+serialEvent(): posx = 369.312
+serialEvent(): inString = {"sr":{"posx":370.000,"posy":412485.188,"vel":5597.14,"dist":1}}
+serialEvent(): posx = 370.0
+serialEvent(): posy = 412485.2
+serialEvent(): inString = {"sr":{"posy":412515.812,"vel":7500.00}}
+serialEvent(): posy = 412515.8
+serialEvent(): inString = {"sr":{"posy":412547.125}}
+serialEvent(): posy = 412547.12
+serialEvent(): inString = {"sr":{"posy":412578.438}}
+serialEvent(): posy = 412578.44
+serialEvent(): inString = {"sr":{"posy":412609.750}}
+serialEvent(): posy = 412609.75
+serialEvent(): inString = {"sr":{"posy":412638.031,"vel":3378.45}}
+serialEvent(): posy = 412638.03
+serialEvent(): inString = {"sr":{"posy":412640.000,"posz":175.185,"vel":7866.47,"dist":0}}
+serialEvent(): posy = 412640.0
+serialEvent(): posz = 175.185
+serialEvent(): inString = {"sr":{"posz":77.857,"vel":30310.40}}
+serialEvent(): posz = 77.857
+serialEvent(): inString = {"sr":{"posz":0.906,"vel":2537.88}}
+serialEvent(): posz = 0.906
+serialEvent(): inString = {"sr":{"posx":364.106,"posz":0.000,"vel":5871.05}}
+serialEvent(): posx = 364.106
+serialEvent(): posz = 0.0
+serialEvent(): inString = {"sr":{"posx":333.269,"vel":7500.00}}
+serialEvent(): posx = 333.269
+serialEvent(): inString = {"sr":{"posx":301.972}}
+serialEvent(): posx = 301.972
+serialEvent(): inString = {"sr":{"posx":270.675}}
+serialEvent(): posx = 270.675
+serialEvent(): inString = {"sr":{"posx":239.377}}
+serialEvent(): posx = 239.377
+serialEvent(): inString = {"sr":{"posx":208.080}}
+serialEvent(): posx = 208.08
+serialEvent(): inString = {"sr":{"posx":176.783}}
+serialEvent(): posx = 176.783
+serialEvent(): inString = {"sr":{"posx":145.673}}
+serialEvent(): posx = 145.673
+serialEvent(): inString = {"sr":{"posx":114.189}}
+serialEvent(): posx = 114.189
+serialEvent(): inString = {"sr":{"posx":82.893}}
+serialEvent(): posx = 82.893
+serialEvent(): inString = {"sr":{"posx":51.597}}
+serialEvent(): posx = 51.597
+serialEvent(): inString = {"sr":{"posx":20.369,"vel":7203.02}}
+serialEvent(): posx = 20.369
+serialEvent(): inString = {"sr":{"posx":10.049,"vel":260.30}}
+serialEvent(): posx = 10.049
+serialEvent(): inString = {"sr":{"posx":23.494,"vel":2651.51}}
+serialEvent(): posx = 23.494
+serialEvent(): inString = {"sr":{"posx":25.000,"posz":6.776,"vel":9579.74}}
+serialEvent(): posx = 25.0
+serialEvent(): posz = 6.776
+serialEvent(): inString = {"sr":{"posz":108.938,"vel":30101.49}}
+serialEvent(): posz = 108.938
+serialEvent(): inString = {"sr":{"posz":179.540,"vel":1578.63}}
+serialEvent(): posz = 179.54
+serialEvent(): inString = {"sr":{"posy":412647.219,"posz":180.000,"vel":6418.66,"dist":1}}
+serialEvent(): posy = 412647.22
+serialEvent(): posz = 180.0
+serialEvent(): inString = {"sr":{"posy":412678.250,"vel":7500.00}}
+serialEvent(): posy = 412678.25
+serialEvent(): inString = {"sr":{"posy":412709.562}}
+serialEvent(): posy = 412709.56
+serialEvent(): inString = {"sr":{"posy":412740.875}}
+serialEvent(): posy = 412740.88
+serialEvent(): inString = {"sr":{"posy":412772.000}}
+serialEvent(): posy = 412772.0
+serialEvent(): inString = {"sr":{"posy":412798.938,"vel":2342.78}}
+serialEvent(): posy = 412798.94
+serialEvent(): inString = {"sr":{"line":10000,"posy":412800.000,"vel":0.00,"stat":3}}
+serialEvent(): posy = 412800.0
+serialEvent(): line = 10000
+
+##### Completed Iteration # 1  time: 14.338secs  Total time: 14.342001secs  at Fri Jan 29 16:28:18 EST 2016
+
+
+
+
+##### Begin Iteration # 2  at Fri Jan 29 16:28:18 EST 2016
+
+17	1	Sending to tinyG: g90
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+18	2	Sending to tinyG: g0x-10
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+19	3	Sending to tinyG: g0z0
+serialEvent(): inString = {"r":{},"f":[1,0,5]}
+20	4	Sending to tinyG: g0x350
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+21	5	Sending to tinyG: g0x335
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+22	6	Sending to tinyG: g0z180
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+23	7	Sending to tinyG: g0x370
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+24	8	Sending to tinyG: g91
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+25	9	Sending to tinyG: g0y160
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+26	10	Sending to tinyG: g90
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+27	11	Sending to tinyG: g0z0
+serialEvent(): inString = {"sr":{"line":0,"posx":18.349,"vel":6247.54,"dist":0,"stat":5}}
+serialEvent(): posx = 18.349
+serialEvent(): line = 0
+serialEvent(): inString = {"r":{},"f":[1,0,5]}
+28	12	Sending to tinyG: g0x10
+serialEvent(): inString = {"r":{},"f":[1,0,6]}
+29	13	Sending to tinyG: g0x25
+serialEvent(): inString = {"r":{},"f":[1,0,6]}
+30	14	Sending to tinyG: g0z180
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+31	15	Sending to tinyG: g91
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+32	16	Sending to tinyG: g0y160
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+Sending to tinyG: n10001 (end marker)
+serialEvent(): inString = {"sr":{"posx":-8.622,"vel":2651.91}}
+serialEvent(): posx = -8.622
+serialEvent(): inString = {"r":{},"f":[1,0,20]}
+serialEvent(): inString = {"sr":{"posx":-10.000,"posz":172.979,"vel":9801.60}}
+serialEvent(): posx = -10.0
+serialEvent(): posz = 172.979
+serialEvent(): inString = {"sr":{"posz":70.310,"vel":30067.24}}
+serialEvent(): posz = 70.31
+serialEvent(): inString = {"sr":{"posz":0.423,"vel":1487.62}}
+serialEvent(): posz = 0.423
+serialEvent(): inString = {"sr":{"posx":-2.554,"posz":0.000,"vel":6473.00}}
+serialEvent(): posx = -2.554
+serialEvent(): posz = 0.0
+serialEvent(): inString = {"sr":{"posx":28.417,"vel":7500.00}}
+serialEvent(): posx = 28.417
+serialEvent(): inString = {"sr":{"posx":59.713}}
+serialEvent(): posx = 59.713
+serialEvent(): inString = {"sr":{"posx":90.822}}
+serialEvent(): posx = 90.822
+serialEvent(): inString = {"sr":{"posx":122.305}}
+serialEvent(): posx = 122.305
+serialEvent(): inString = {"sr":{"posx":153.602}}
+serialEvent(): posx = 153.602
+serialEvent(): inString = {"sr":{"posx":184.900}}
+serialEvent(): posx = 184.9
+serialEvent(): inString = {"sr":{"posx":216.197}}
+serialEvent(): posx = 216.197
+serialEvent(): inString = {"sr":{"posx":247.494}}
+serialEvent(): posx = 247.494
+serialEvent(): inString = {"sr":{"posx":278.604}}
+serialEvent(): posx = 278.604
+serialEvent(): inString = {"sr":{"posx":309.901}}
+serialEvent(): posx = 309.901
+serialEvent(): inString = {"sr":{"posx":341.215,"vel":6897.97}}
+serialEvent(): posx = 341.215
+serialEvent(): inString = {"sr":{"posx":349.858,"vel":554.50}}
+serialEvent(): posx = 349.858
+serialEvent(): inString = {"sr":{"posx":335.984,"vel":2014.27}}
+serialEvent(): posx = 335.984
+serialEvent(): inString = {"sr":{"posx":335.000,"posz":9.481,"vel":11859.14}}
+serialEvent(): posx = 335.0
+serialEvent(): posz = 9.481
+serialEvent(): inString = {"sr":{"posz":116.404,"vel":29642.69}}
+serialEvent(): posz = 116.404
+serialEvent(): inString = {"sr":{"posz":179.822,"vel":805.63}}
+serialEvent(): posz = 179.822
+serialEvent(): inString = {"sr":{"posx":343.957,"posz":180.000,"vel":6897.96}}
+serialEvent(): posx = 343.957
+serialEvent(): posz = 180.0
+serialEvent(): inString = {"sr":{"posx":369.312,"vel":1695.81}}
+serialEvent(): posx = 369.312
+serialEvent(): inString = {"sr":{"posx":370.000,"posy":412805.188,"vel":5597.14,"dist":1}}
+serialEvent(): posx = 370.0
+serialEvent(): posy = 412805.2
+serialEvent(): inString = {"sr":{"posy":412835.812,"vel":7500.00}}
+serialEvent(): posy = 412835.8
+serialEvent(): inString = {"sr":{"posy":412867.125}}
+serialEvent(): posy = 412867.12
+serialEvent(): inString = {"sr":{"posy":412898.438}}
+serialEvent(): posy = 412898.44
+serialEvent(): inString = {"sr":{"posy":412929.750}}
+serialEvent(): posy = 412929.75
+serialEvent(): inString = {"sr":{"posy":412958.031,"vel":3378.45}}
+serialEvent(): posy = 412958.03
+serialEvent(): inString = {"sr":{"posy":412960.000,"posz":175.185,"vel":7866.47,"dist":0}}
+serialEvent(): posy = 412960.0
+serialEvent(): posz = 175.185
+serialEvent(): inString = {"sr":{"posz":77.857,"vel":30310.40}}
+serialEvent(): posz = 77.857
+serialEvent(): inString = {"sr":{"posz":0.906,"vel":2537.88}}
+serialEvent(): posz = 0.906
+serialEvent(): inString = {"sr":{"posx":364.106,"posz":0.000,"vel":5871.05}}
+serialEvent(): posx = 364.106
+serialEvent(): posz = 0.0
+serialEvent(): inString = {"sr":{"posx":333.269,"vel":7500.00}}
+serialEvent(): posx = 333.269
+serialEvent(): inString = {"sr":{"posx":301.972}}
+serialEvent(): posx = 301.972
+serialEvent(): inString = {"sr":{"posx":270.675}}
+serialEvent(): posx = 270.675
+serialEvent(): inString = {"sr":{"posx":239.377}}
+serialEvent(): posx = 239.377
+serialEvent(): inString = {"sr":{"posx":208.080}}
+serialEvent(): posx = 208.08
+serialEvent(): inString = {"sr":{"posx":176.783}}
+serialEvent(): posx = 176.783
+serialEvent(): inString = {"sr":{"posx":145.673}}
+serialEvent(): posx = 145.673
+serialEvent(): inString = {"sr":{"posx":114.189}}
+serialEvent(): posx = 114.189
+serialEvent(): inString = {"sr":{"posx":82.893}}
+serialEvent(): posx = 82.893
+serialEvent(): inString = {"sr":{"posx":51.597}}
+serialEvent(): posx = 51.597
+serialEvent(): inString = {"sr":{"posx":20.369,"vel":7203.02}}
+serialEvent(): posx = 20.369
+serialEvent(): inString = {"sr":{"posx":10.049,"vel":260.30}}
+serialEvent(): posx = 10.049
+serialEvent(): inString = {"sr":{"posx":23.494,"vel":2651.51}}
+serialEvent(): posx = 23.494
+serialEvent(): inString = {"sr":{"posx":25.000,"posz":6.776,"vel":9579.74}}
+serialEvent(): posx = 25.0
+serialEvent(): posz = 6.776
+serialEvent(): inString = {"sr":{"posz":108.938,"vel":30101.49}}
+serialEvent(): posz = 108.938
+serialEvent(): inString = {"sr":{"posz":179.540,"vel":1578.63}}
+serialEvent(): posz = 179.54
+serialEvent(): inString = {"sr":{"posy":412967.219,"posz":180.000,"vel":6418.66,"dist":1}}
+serialEvent(): posy = 412967.22
+serialEvent(): posz = 180.0
+serialEvent(): inString = {"sr":{"posy":412998.250,"vel":7500.00}}
+serialEvent(): posy = 412998.25
+serialEvent(): inString = {"sr":{"posy":413029.562}}
+serialEvent(): posy = 413029.56
+serialEvent(): inString = {"sr":{"posy":413060.875}}
+serialEvent(): posy = 413060.88
+serialEvent(): inString = {"sr":{"posy":413092.000}}
+serialEvent(): posy = 413092.0
+serialEvent(): inString = {"sr":{"posy":413118.938,"vel":2342.78}}
+serialEvent(): posy = 413118.94
+serialEvent(): inString = {"sr":{"line":10001,"posy":413120.000,"vel":0.00,"stat":3}}
+serialEvent(): posy = 413120.0
+serialEvent(): line = 10001
+
+##### Completed Iteration # 2  time: 14.340001secs  Total time: 28.682001secs  at Fri Jan 29 16:28:33 EST 2016
+
+
+
+
+##### Begin Iteration # 3  at Fri Jan 29 16:28:33 EST 2016
+
+33	1	Sending to tinyG: g90
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+34	2	Sending to tinyG: g0x-10
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+35	3	Sending to tinyG: g0z0
+serialEvent(): inString = {"r":{},"f":[1,0,5]}
+36	4	Sending to tinyG: g0x350
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+37	5	Sending to tinyG: g0x335
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+38	6	Sending to tinyG: g0z180
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+39	7	Sending to tinyG: g0x370
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+40	8	Sending to tinyG: g91
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+41	9	Sending to tinyG: g0y160
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+42	10	Sending to tinyG: g90
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+43	11	Sending to tinyG: g0z0
+serialEvent(): inString = {"sr":{"line":0,"posx":18.193,"vel":6247.54,"dist":0,"stat":5}}
+serialEvent(): posx = 18.193
+serialEvent(): line = 0
+serialEvent(): inString = {"r":{},"f":[1,0,5]}
+44	12	Sending to tinyG: g0x10
+serialEvent(): inString = {"r":{},"f":[1,0,6]}
+45	13	Sending to tinyG: g0x25
+serialEvent(): inString = {"r":{},"f":[1,0,6]}
+46	14	Sending to tinyG: g0z180
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+47	15	Sending to tinyG: g91
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+48	16	Sending to tinyG: g0y160
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+serialEvent(): inString = {"sr":{"posx":-8.622,"vel":2651.91}}
+serialEvent(): posx = -8.622
+Sending to tinyG: n10002 (end marker)
+serialEvent(): inString = {"r":{},"f":[1,0,20]}
+serialEvent(): inString = {"sr":{"posx":-10.000,"posz":172.979,"vel":9801.60}}
+serialEvent(): posx = -10.0
+serialEvent(): posz = 172.979
+serialEvent(): inString = {"sr":{"posz":70.310,"vel":30067.24}}
+serialEvent(): posz = 70.31
+serialEvent(): inString = {"sr":{"posz":0.423,"vel":1487.62}}
+serialEvent(): posz = 0.423
+serialEvent(): inString = {"sr":{"posx":-2.554,"posz":0.000,"vel":6473.00}}
+serialEvent(): posx = -2.554
+serialEvent(): posz = 0.0
+serialEvent(): inString = {"sr":{"posx":28.417,"vel":7500.00}}
+serialEvent(): posx = 28.417
+serialEvent(): inString = {"sr":{"posx":59.713}}
+serialEvent(): posx = 59.713
+serialEvent(): inString = {"sr":{"posx":90.822}}
+serialEvent(): posx = 90.822
+serialEvent(): inString = {"sr":{"posx":122.305}}
+serialEvent(): posx = 122.305
+serialEvent(): inString = {"sr":{"posx":153.602}}
+serialEvent(): posx = 153.602
+serialEvent(): inString = {"sr":{"posx":184.900}}
+serialEvent(): posx = 184.9
+serialEvent(): inString = {"sr":{"posx":216.197}}
+serialEvent(): posx = 216.197
+serialEvent(): inString = {"sr":{"posx":247.494}}
+serialEvent(): posx = 247.494
+serialEvent(): inString = {"sr":{"posx":278.604}}
+serialEvent(): posx = 278.604
+serialEvent(): inString = {"sr":{"posx":309.901}}
+serialEvent(): posx = 309.901
+serialEvent(): inString = {"sr":{"posx":341.215,"vel":6897.97}}
+serialEvent(): posx = 341.215
+serialEvent(): inString = {"sr":{"posx":349.858,"vel":554.50}}
+serialEvent(): posx = 349.858
+serialEvent(): inString = {"sr":{"posx":335.984,"vel":2014.27}}
+serialEvent(): posx = 335.984
+serialEvent(): inString = {"sr":{"posx":335.000,"posz":9.481,"vel":11859.14}}
+serialEvent(): posx = 335.0
+serialEvent(): posz = 9.481
+serialEvent(): inString = {"sr":{"posz":116.404,"vel":29642.69}}
+serialEvent(): posz = 116.404
+serialEvent(): inString = {"sr":{"posz":179.822,"vel":805.63}}
+serialEvent(): posz = 179.822
+serialEvent(): inString = {"sr":{"posx":343.957,"posz":180.000,"vel":6897.96}}
+serialEvent(): posx = 343.957
+serialEvent(): posz = 180.0
+serialEvent(): inString = {"sr":{"posx":369.312,"vel":1695.81}}
+serialEvent(): posx = 369.312
+serialEvent(): inString = {"sr":{"posx":370.000,"posy":413125.188,"vel":5597.14,"dist":1}}
+serialEvent(): posx = 370.0
+serialEvent(): posy = 413125.2
+serialEvent(): inString = {"sr":{"posy":413155.812,"vel":7500.00}}
+serialEvent(): posy = 413155.8
+serialEvent(): inString = {"sr":{"posy":413187.125}}
+serialEvent(): posy = 413187.12
+serialEvent(): inString = {"sr":{"posy":413218.438}}
+serialEvent(): posy = 413218.44
+serialEvent(): inString = {"sr":{"posy":413249.750}}
+serialEvent(): posy = 413249.75
+serialEvent(): inString = {"sr":{"posy":413278.031,"vel":3378.45}}
+serialEvent(): posy = 413278.03
+serialEvent(): inString = {"sr":{"posy":413280.000,"posz":175.185,"vel":7866.47,"dist":0}}
+serialEvent(): posy = 413280.0
+serialEvent(): posz = 175.185
+serialEvent(): inString = {"sr":{"posz":77.857,"vel":30310.40}}
+serialEvent(): posz = 77.857
+serialEvent(): inString = {"sr":{"posz":0.906,"vel":2537.88}}
+serialEvent(): posz = 0.906
+serialEvent(): inString = {"sr":{"posx":364.106,"posz":0.000,"vel":5936.79}}
+serialEvent(): posx = 364.106
+serialEvent(): posz = 0.0
+serialEvent(): inString = {"sr":{"posx":333.269,"vel":7500.00}}
+serialEvent(): posx = 333.269
+serialEvent(): inString = {"sr":{"posx":301.972}}
+serialEvent(): posx = 301.972
+serialEvent(): inString = {"sr":{"posx":270.675}}
+serialEvent(): posx = 270.675
+serialEvent(): inString = {"sr":{"posx":239.377}}
+serialEvent(): posx = 239.377
+serialEvent(): inString = {"sr":{"posx":208.080}}
+serialEvent(): posx = 208.08
+serialEvent(): inString = {"sr":{"posx":176.783}}
+serialEvent(): posx = 176.783
+serialEvent(): inString = {"sr":{"posx":145.673}}
+serialEvent(): posx = 145.673
+serialEvent(): inString = {"sr":{"posx":114.189}}
+serialEvent(): posx = 114.189
+serialEvent(): inString = {"sr":{"posx":82.893}}
+serialEvent(): posx = 82.893
+serialEvent(): inString = {"sr":{"posx":51.597}}
+serialEvent(): posx = 51.597
+serialEvent(): inString = {"sr":{"posx":20.369,"vel":7203.02}}
+serialEvent(): posx = 20.369
+serialEvent(): inString = {"sr":{"posx":10.049,"vel":260.30}}
+serialEvent(): posx = 10.049
+serialEvent(): inString = {"sr":{"posx":23.494,"vel":2651.51}}
+serialEvent(): posx = 23.494
+serialEvent(): inString = {"sr":{"posx":25.000,"posz":6.776,"vel":9579.74}}
+serialEvent(): posx = 25.0
+serialEvent(): posz = 6.776
+serialEvent(): inString = {"sr":{"posz":108.938,"vel":30101.49}}
+serialEvent(): posz = 108.938
+serialEvent(): inString = {"sr":{"posz":179.540,"vel":1578.63}}
+serialEvent(): posz = 179.54
+serialEvent(): inString = {"sr":{"posy":413287.219,"posz":180.000,"vel":6418.66,"dist":1}}
+serialEvent(): posy = 413287.22
+serialEvent(): posz = 180.0
+serialEvent(): inString = {"sr":{"posy":413318.250,"vel":7500.00}}
+serialEvent(): posy = 413318.25
+serialEvent(): inString = {"sr":{"posy":413349.562}}
+serialEvent(): posy = 413349.56
+serialEvent(): inString = {"sr":{"posy":413380.875}}
+serialEvent(): posy = 413380.88
+serialEvent(): inString = {"sr":{"posy":413412.000}}
+serialEvent(): posy = 413412.0
+serialEvent(): inString = {"sr":{"posy":413438.938,"vel":2342.78}}
+serialEvent(): posy = 413438.94
+serialEvent(): inString = {"sr":{"line":10002,"posy":413440.000,"vel":0.00,"stat":3}}
+serialEvent(): posy = 413440.0
+serialEvent(): line = 10002
+
+##### Completed Iteration # 3  time: 14.368001secs  Total time: 43.050003secs  at Fri Jan 29 16:28:47 EST 2016
+
+
+
+
+##### Begin Iteration # 4  at Fri Jan 29 16:28:47 EST 2016
+
+49	1	Sending to tinyG: g90
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+50	2	Sending to tinyG: g0x-10
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+51	3	Sending to tinyG: g0z0
+serialEvent(): inString = {"r":{},"f":[1,0,5]}
+52	4	Sending to tinyG: g0x350
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+53	5	Sending to tinyG: g0x335
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+54	6	Sending to tinyG: g0z180
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+55	7	Sending to tinyG: g0x370
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+56	8	Sending to tinyG: g91
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+57	9	Sending to tinyG: g0y160
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+58	10	Sending to tinyG: g90
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+59	11	Sending to tinyG: g0z0
+serialEvent(): inString = {"sr":{"line":0,"posx":18.656,"vel":6064.77,"dist":0,"stat":5}}
+serialEvent(): posx = 18.656
+serialEvent(): line = 0
+serialEvent(): inString = {"r":{},"f":[1,0,5]}
+60	12	Sending to tinyG: g0x10
+serialEvent(): inString = {"r":{},"f":[1,0,6]}
+61	13	Sending to tinyG: g0x25
+serialEvent(): inString = {"r":{},"f":[1,0,6]}
+62	14	Sending to tinyG: g0z180
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+63	15	Sending to tinyG: g91
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+64	16	Sending to tinyG: g0y160
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+serialEvent(): inString = {"sr":{"posx":-8.418,"vel":2890.23}}
+serialEvent(): posx = -8.418
+Sending to tinyG: n10003 (end marker)
+serialEvent(): inString = {"r":{},"f":[1,0,20]}
+serialEvent(): inString = {"sr":{"posx":-10.000,"posz":173.698,"vel":9140.79}}
+serialEvent(): posx = -10.0
+serialEvent(): posz = 173.698
+serialEvent(): inString = {"sr":{"posz":72.567,"vel":30162.89}}
+serialEvent(): posz = 72.567
+serialEvent(): inString = {"sr":{"posz":0.541,"vel":1769.96}}
+serialEvent(): posz = 0.541
+serialEvent(): inString = {"sr":{"posx":-3.035,"posz":0.000,"vel":6305.91}}
+serialEvent(): posx = -3.035
+serialEvent(): posz = 0.0
+serialEvent(): inString = {"sr":{"posx":27.855,"vel":7500.00}}
+serialEvent(): posx = 27.855
+serialEvent(): inString = {"sr":{"posx":59.151}}
+serialEvent(): posx = 59.151
+serialEvent(): inString = {"sr":{"posx":90.260}}
+serialEvent(): posx = 90.26
+serialEvent(): inString = {"sr":{"posx":121.743}}
+serialEvent(): posx = 121.743
+serialEvent(): inString = {"sr":{"posx":153.040}}
+serialEvent(): posx = 153.04
+serialEvent(): inString = {"sr":{"posx":184.337}}
+serialEvent(): posx = 184.337
+serialEvent(): inString = {"sr":{"posx":215.635}}
+serialEvent(): posx = 215.635
+serialEvent(): inString = {"sr":{"posx":246.932}}
+serialEvent(): posx = 246.932
+serialEvent(): inString = {"sr":{"posx":278.042}}
+serialEvent(): posx = 278.042
+serialEvent(): inString = {"sr":{"posx":309.526}}
+serialEvent(): posx = 309.526
+serialEvent(): inString = {"sr":{"posx":340.695,"vel":7013.09}}
+serialEvent(): posx = 340.695
+serialEvent(): inString = {"sr":{"posx":349.897,"vel":443.29}}
+serialEvent(): posx = 349.897
+serialEvent(): inString = {"sr":{"posx":336.144,"vel":2205.64}}
+serialEvent(): posx = 336.144
+serialEvent(): inString = {"sr":{"posx":335.000,"posz":8.609,"vel":11162.47}}
+serialEvent(): posx = 335.0
+serialEvent(): posz = 8.609
+serialEvent(): inString = {"sr":{"posz":114.177,"vel":29808.49}}
+serialEvent(): posz = 114.177
+serialEvent(): inString = {"sr":{"posz":179.757,"vel":1005.95}}
+serialEvent(): posz = 179.757
+serialEvent(): inString = {"sr":{"posx":343.443,"posz":180.000,"vel":6769.42}}
+serialEvent(): posx = 343.443
+serialEvent(): posz = 180.0
+serialEvent(): inString = {"sr":{"posx":369.180,"vel":1902.86}}
+serialEvent(): posx = 369.18
+serialEvent(): inString = {"sr":{"posx":370.000,"posy":413444.812,"vel":5381.16,"dist":1}}
+serialEvent(): posx = 370.0
+serialEvent(): posy = 413444.8
+serialEvent(): inString = {"sr":{"posy":413475.250,"vel":7500.00}}
+serialEvent(): posy = 413475.25
+serialEvent(): inString = {"sr":{"posy":413506.562}}
+serialEvent(): posy = 413506.56
+serialEvent(): inString = {"sr":{"posy":413537.875}}
+serialEvent(): posy = 413537.88
+serialEvent(): inString = {"sr":{"posy":413569.188}}
+serialEvent(): posy = 413569.2
+serialEvent(): inString = {"sr":{"posy":413597.750,"vel":3625.95}}
+serialEvent(): posy = 413597.75
+serialEvent(): inString = {"sr":{"posy":413600.000,"posz":175.744,"vel":7255.98,"dist":0}}
+serialEvent(): posy = 413600.0
+serialEvent(): posz = 175.744
+serialEvent(): inString = {"sr":{"posz":80.130,"vel":30346.15}}
+serialEvent(): posz = 80.13
+serialEvent(): inString = {"sr":{"posz":1.106,"vel":2913.64}}
+serialEvent(): posz = 1.106
+serialEvent(): inString = {"sr":{"posx":364.541,"posz":0.000,"vel":5667.20}}
+serialEvent(): posx = 364.541
+serialEvent(): posz = 0.0
+serialEvent(): inString = {"sr":{"posx":334.019,"vel":7500.00}}
+serialEvent(): posx = 334.019
+serialEvent(): inString = {"sr":{"posx":302.534}}
+serialEvent(): posx = 302.534
+serialEvent(): inString = {"sr":{"posx":271.237}}
+serialEvent(): posx = 271.237
+serialEvent(): inString = {"sr":{"posx":239.940}}
+serialEvent(): posx = 239.94
+serialEvent(): inString = {"sr":{"posx":208.642}}
+serialEvent(): posx = 208.642
+serialEvent(): inString = {"sr":{"posx":177.345}}
+serialEvent(): posx = 177.345
+serialEvent(): inString = {"sr":{"posx":146.235}}
+serialEvent(): posx = 146.235
+serialEvent(): inString = {"sr":{"posx":114.751}}
+serialEvent(): posx = 114.751
+serialEvent(): inString = {"sr":{"posx":83.455}}
+serialEvent(): posx = 83.455
+serialEvent(): inString = {"sr":{"posx":52.159}}
+serialEvent(): posx = 52.159
+serialEvent(): inString = {"sr":{"posx":20.910,"vel":7278.20}}
+serialEvent(): posx = 20.91
+serialEvent(): inString = {"sr":{"posx":10.032,"vel":188.72}}
+serialEvent(): posx = 10.032
+serialEvent(): inString = {"sr":{"posx":23.292,"vel":2838.57}}
+serialEvent(): posx = 23.292
+serialEvent(): inString = {"sr":{"posx":25.000,"posz":6.074,"vel":8923.84}}
+serialEvent(): posx = 25.0
+serialEvent(): posz = 6.074
+serialEvent(): inString = {"sr":{"posz":106.679,"vel":30190.17}}
+serialEvent(): posz = 106.679
+serialEvent(): inString = {"sr":{"posz":179.415,"vel":1870.30}}
+serialEvent(): posz = 179.415
+serialEvent(): inString = {"sr":{"posy":413606.750,"posz":180.000,"vel":6247.54,"dist":1}}
+serialEvent(): posy = 413606.75
+serialEvent(): posz = 180.0
+serialEvent(): inString = {"sr":{"posy":413637.688,"vel":7500.00}}
+serialEvent(): posy = 413637.7
+serialEvent(): inString = {"sr":{"posy":413669.000}}
+serialEvent(): posy = 413669.0
+serialEvent(): inString = {"sr":{"posy":413700.312}}
+serialEvent(): posy = 413700.3
+serialEvent(): inString = {"sr":{"posy":413731.438}}
+serialEvent(): posy = 413731.44
+serialEvent(): inString = {"sr":{"posy":413758.750,"vel":2573.62}}
+serialEvent(): posy = 413758.75
+serialEvent(): inString = {"sr":{"line":10003,"posy":413760.000,"vel":0.00,"stat":3}}
+serialEvent(): posy = 413760.0
+serialEvent(): line = 10003
+
+##### Completed Iteration # 4  time: 14.352secs  Total time: 57.403004secs  at Fri Jan 29 16:29:01 EST 2016
+
+
+
+
+##### Begin Iteration # 5  at Fri Jan 29 16:29:01 EST 2016
+
+65	1	Sending to tinyG: g90
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+66	2	Sending to tinyG: g0x-10
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+67	3	Sending to tinyG: g0z0
+serialEvent(): inString = {"r":{},"f":[1,0,5]}
+68	4	Sending to tinyG: g0x350
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+69	5	Sending to tinyG: g0x335
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+70	6	Sending to tinyG: g0z180
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+71	7	Sending to tinyG: g0x370
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+72	8	Sending to tinyG: g91
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+73	9	Sending to tinyG: g0y160
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+74	10	Sending to tinyG: g90
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+75	11	Sending to tinyG: g0z0
+serialEvent(): inString = {"sr":{"line":0,"posx":18.656,"vel":6064.77,"dist":0,"stat":5}}
+serialEvent(): posx = 18.656
+serialEvent(): line = 0
+serialEvent(): inString = {"r":{},"f":[1,0,5]}
+76	12	Sending to tinyG: g0x10
+serialEvent(): inString = {"r":{},"f":[1,0,6]}
+77	13	Sending to tinyG: g0x25
+serialEvent(): inString = {"r":{},"f":[1,0,6]}
+78	14	Sending to tinyG: g0z180
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+79	15	Sending to tinyG: g91
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+80	16	Sending to tinyG: g0y160
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+Sending to tinyG: n10004 (end marker)
+serialEvent(): inString = {"sr":{"posx":-8.488,"vel":2810.26}}
+serialEvent(): posx = -8.488
+serialEvent(): inString = {"r":{},"f":[1,0,20]}
+serialEvent(): inString = {"sr":{"posx":-10.000,"posz":173.464,"vel":9359.45}}
+serialEvent(): posx = -10.0
+serialEvent(): posz = 173.464
+serialEvent(): inString = {"sr":{"posz":71.814,"vel":30133.35}}
+serialEvent(): posz = 71.814
+serialEvent(): inString = {"sr":{"posz":0.499,"vel":1672.74}}
+serialEvent(): posz = 0.499
+serialEvent(): inString = {"sr":{"posx":-2.876,"posz":0.000,"vel":6362.96}}
+serialEvent(): posx = -2.876
+serialEvent(): posz = 0.0
+serialEvent(): inString = {"sr":{"posx":28.042,"vel":7500.00}}
+serialEvent(): posx = 28.042
+serialEvent(): inString = {"sr":{"posx":59.339}}
+serialEvent(): posx = 59.339
+serialEvent(): inString = {"sr":{"posx":90.635}}
+serialEvent(): posx = 90.635
+serialEvent(): inString = {"sr":{"posx":121.931}}
+serialEvent(): posx = 121.931
+serialEvent(): inString = {"sr":{"posx":153.040}}
+serialEvent(): posx = 153.04
+serialEvent(): inString = {"sr":{"posx":184.525}}
+serialEvent(): posx = 184.525
+serialEvent(): inString = {"sr":{"posx":215.822}}
+serialEvent(): posx = 215.822
+serialEvent(): inString = {"sr":{"posx":247.119}}
+serialEvent(): posx = 247.119
+serialEvent(): inString = {"sr":{"posx":278.416}}
+serialEvent(): posx = 278.416
+serialEvent(): inString = {"sr":{"posx":309.714}}
+serialEvent(): posx = 309.714
+serialEvent(): inString = {"sr":{"posx":340.695,"vel":7013.09}}
+serialEvent(): posx = 340.695
+serialEvent(): inString = {"sr":{"posx":349.885,"vel":478.93}}
+serialEvent(): posx = 349.885
+serialEvent(): inString = {"sr":{"posx":336.089,"vel":2205.64}}
+serialEvent(): posx = 336.089
+serialEvent(): inString = {"sr":{"posx":335.000,"posz":8.894,"vel":11393.64}}
+serialEvent(): posx = 335.0
+serialEvent(): posz = 8.894
+serialEvent(): inString = {"sr":{"posz":115.663,"vel":29700.77}}
+serialEvent(): posz = 115.663
+serialEvent(): inString = {"sr":{"posz":179.802,"vel":869.47}}
+serialEvent(): posz = 179.802
+serialEvent(): inString = {"sr":{"posx":343.784,"posz":180.000,"vel":6856.60}}
+serialEvent(): posx = 343.784
+serialEvent(): posz = 180.0
+serialEvent(): inString = {"sr":{"posx":369.270,"vel":1763.78}}
+serialEvent(): posx = 369.27
+serialEvent(): inString = {"sr":{"posx":370.000,"posy":413765.188,"vel":5597.14,"dist":1}}
+serialEvent(): posx = 370.0
+serialEvent(): posy = 413765.2
+serialEvent(): inString = {"sr":{"posy":413795.625,"vel":7500.00}}
+serialEvent(): posy = 413795.62
+serialEvent(): inString = {"sr":{"posy":413827.125}}
+serialEvent(): posy = 413827.12
+serialEvent(): inString = {"sr":{"posy":413858.438}}
+serialEvent(): posy = 413858.44
+serialEvent(): inString = {"sr":{"posy":413889.750}}
+serialEvent(): posy = 413889.75
+serialEvent(): inString = {"sr":{"posy":413918.031,"vel":3378.45}}
+serialEvent(): posy = 413918.03
+serialEvent(): inString = {"sr":{"posy":413920.000,"posz":174.988,"vel":7866.47,"dist":0}}
+serialEvent(): posy = 413920.0
+serialEvent(): posz = 174.988
+serialEvent(): inString = {"sr":{"posz":77.100,"vel":30295.15}}
+serialEvent(): posz = 77.1
+serialEvent(): inString = {"sr":{"posz":0.846,"vel":2418.83}}
+serialEvent(): posz = 0.846
+serialEvent(): inString = {"sr":{"posx":363.958,"posz":0.000,"vel":5936.79}}
+serialEvent(): posx = 363.958
+serialEvent(): posz = 0.0
+serialEvent(): inString = {"sr":{"posx":333.269,"vel":7500.00}}
+serialEvent(): posx = 333.269
+serialEvent(): inString = {"sr":{"posx":302.159}}
+serialEvent(): posx = 302.159
+serialEvent(): inString = {"sr":{"posx":270.675}}
+serialEvent(): posx = 270.675
+serialEvent(): inString = {"sr":{"posx":239.377}}
+serialEvent(): posx = 239.377
+serialEvent(): inString = {"sr":{"posx":208.080}}
+serialEvent(): posx = 208.08
+serialEvent(): inString = {"sr":{"posx":176.783}}
+serialEvent(): posx = 176.783
+serialEvent(): inString = {"sr":{"posx":145.486}}
+serialEvent(): posx = 145.486
+serialEvent(): inString = {"sr":{"posx":114.189}}
+serialEvent(): posx = 114.189
+serialEvent(): inString = {"sr":{"posx":83.081}}
+serialEvent(): posx = 83.081
+serialEvent(): inString = {"sr":{"posx":51.597}}
+serialEvent(): posx = 51.597
+serialEvent(): inString = {"sr":{"posx":20.369,"vel":7203.02}}
+serialEvent(): posx = 20.369
+serialEvent(): inString = {"sr":{"posx":10.049,"vel":260.30}}
+serialEvent(): posx = 10.049
+serialEvent(): inString = {"sr":{"posx":23.494,"vel":2588.39}}
+serialEvent(): posx = 23.494
+serialEvent(): inString = {"sr":{"posx":25.000,"posz":7.021,"vel":9801.60}}
+serialEvent(): posx = 25.0
+serialEvent(): posz = 7.021
+serialEvent(): inString = {"sr":{"posz":109.690,"vel":30067.24}}
+serialEvent(): posz = 109.69
+serialEvent(): inString = {"sr":{"posz":179.577,"vel":1487.62}}
+serialEvent(): posz = 179.577
+serialEvent(): inString = {"sr":{"posy":413927.375,"posz":180.000,"vel":6473.00,"dist":1}}
+serialEvent(): posy = 413927.38
+serialEvent(): posz = 180.0
+serialEvent(): inString = {"sr":{"posy":413958.438,"vel":7500.00}}
+serialEvent(): posy = 413958.44
+serialEvent(): inString = {"sr":{"posy":413989.750}}
+serialEvent(): posy = 413989.75
+serialEvent(): inString = {"sr":{"posy":414020.875}}
+serialEvent(): posy = 414020.88
+serialEvent(): inString = {"sr":{"posy":414052.375}}
+serialEvent(): posy = 414052.38
+serialEvent(): inString = {"sr":{"posy":414079.000,"vel":2267.31}}
+serialEvent(): posy = 414079.0
+serialEvent(): inString = {"sr":{"line":10004,"posy":414080.000,"vel":0.00,"stat":3}}
+serialEvent(): posy = 414080.0
+serialEvent(): line = 10004
+
+##### Completed Iteration # 5  time: 14.374001secs  Total time: 71.777secs  at Fri Jan 29 16:29:16 EST 2016
+
+
+
+
+##### Begin Iteration # 6  at Fri Jan 29 16:29:16 EST 2016
+
+81	1	Sending to tinyG: g90
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+82	2	Sending to tinyG: g0x-10
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+83	3	Sending to tinyG: g0z0
+serialEvent(): inString = {"r":{},"f":[1,0,5]}
+84	4	Sending to tinyG: g0x350
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+85	5	Sending to tinyG: g0x335
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+86	6	Sending to tinyG: g0z180
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+87	7	Sending to tinyG: g0x370
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+88	8	Sending to tinyG: g91
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+89	9	Sending to tinyG: g0y160
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+90	10	Sending to tinyG: g90
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+91	11	Sending to tinyG: g0z0
+serialEvent(): inString = {"sr":{"line":0,"posx":18.349,"vel":6247.54,"dist":0,"stat":5}}
+serialEvent(): posx = 18.349
+serialEvent(): line = 0
+serialEvent(): inString = {"r":{},"f":[1,0,5]}
+92	12	Sending to tinyG: g0x10
+serialEvent(): inString = {"r":{},"f":[1,0,6]}
+93	13	Sending to tinyG: g0x25
+serialEvent(): inString = {"r":{},"f":[1,0,6]}
+94	14	Sending to tinyG: g0z180
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+95	15	Sending to tinyG: g91
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+96	16	Sending to tinyG: g0y160
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+Sending to tinyG: n10005 (end marker)
+serialEvent(): inString = {"sr":{"posx":-8.622,"vel":2651.91}}
+serialEvent(): posx = -8.622
+serialEvent(): inString = {"r":{},"f":[1,0,20]}
+serialEvent(): inString = {"sr":{"posx":-10.000,"posz":172.979,"vel":9801.60}}
+serialEvent(): posx = -10.0
+serialEvent(): posz = 172.979
+serialEvent(): inString = {"sr":{"posz":70.310,"vel":30067.24}}
+serialEvent(): posz = 70.31
+serialEvent(): inString = {"sr":{"posz":0.423,"vel":1487.62}}
+serialEvent(): posz = 0.423
+serialEvent(): inString = {"sr":{"posx":-2.554,"posz":0.000,"vel":6473.00}}
+serialEvent(): posx = -2.554
+serialEvent(): posz = 0.0
+serialEvent(): inString = {"sr":{"posx":28.417,"vel":7500.00}}
+serialEvent(): posx = 28.417
+serialEvent(): inString = {"sr":{"posx":59.713}}
+serialEvent(): posx = 59.713
+serialEvent(): inString = {"sr":{"posx":90.822}}
+serialEvent(): posx = 90.822
+serialEvent(): inString = {"sr":{"posx":122.305}}
+serialEvent(): posx = 122.305
+serialEvent(): inString = {"sr":{"posx":153.602}}
+serialEvent(): posx = 153.602
+serialEvent(): inString = {"sr":{"posx":184.900}}
+serialEvent(): posx = 184.9
+serialEvent(): inString = {"sr":{"posx":216.197}}
+serialEvent(): posx = 216.197
+serialEvent(): inString = {"sr":{"posx":247.494}}
+serialEvent(): posx = 247.494
+serialEvent(): inString = {"sr":{"posx":278.604}}
+serialEvent(): posx = 278.604
+serialEvent(): inString = {"sr":{"posx":309.901}}
+serialEvent(): posx = 309.901
+serialEvent(): inString = {"sr":{"posx":341.215,"vel":6897.97}}
+serialEvent(): posx = 341.215
+serialEvent(): inString = {"sr":{"posx":349.858,"vel":554.50}}
+serialEvent(): posx = 349.858
+serialEvent(): inString = {"sr":{"posx":335.984,"vel":2014.27}}
+serialEvent(): posx = 335.984
+serialEvent(): inString = {"sr":{"posx":335.000,"posz":9.481,"vel":11859.14}}
+serialEvent(): posx = 335.0
+serialEvent(): posz = 9.481
+serialEvent(): inString = {"sr":{"posz":116.404,"vel":29642.69}}
+serialEvent(): posz = 116.404
+serialEvent(): inString = {"sr":{"posz":179.822,"vel":805.63}}
+serialEvent(): posz = 179.822
+serialEvent(): inString = {"sr":{"posx":343.957,"posz":180.000,"vel":6897.96}}
+serialEvent(): posx = 343.957
+serialEvent(): posz = 180.0
+serialEvent(): inString = {"sr":{"posx":369.312,"vel":1695.81}}
+serialEvent(): posx = 369.312
+serialEvent(): inString = {"sr":{"posx":370.000,"posy":414085.188,"vel":5597.14,"dist":1}}
+serialEvent(): posx = 370.0
+serialEvent(): posy = 414085.2
+serialEvent(): inString = {"sr":{"posy":414115.812,"vel":7500.00}}
+serialEvent(): posy = 414115.8
+serialEvent(): inString = {"sr":{"posy":414147.125}}
+serialEvent(): posy = 414147.12
+serialEvent(): inString = {"sr":{"posy":414178.438}}
+serialEvent(): posy = 414178.44
+serialEvent(): inString = {"sr":{"posy":414209.750}}
+serialEvent(): posy = 414209.75
+serialEvent(): inString = {"sr":{"posy":414238.031,"vel":3378.45}}
+serialEvent(): posy = 414238.03
+serialEvent(): inString = {"sr":{"posy":414240.000,"posz":175.185,"vel":7866.47,"dist":0}}
+serialEvent(): posy = 414240.0
+serialEvent(): posz = 175.185
+serialEvent(): inString = {"sr":{"posz":77.857,"vel":30310.40}}
+serialEvent(): posz = 77.857
+serialEvent(): inString = {"sr":{"posz":0.906,"vel":2537.88}}
+serialEvent(): posz = 0.906
+serialEvent(): inString = {"sr":{"posx":364.106,"posz":0.000,"vel":5936.79}}
+serialEvent(): posx = 364.106
+serialEvent(): posz = 0.0
+serialEvent(): inString = {"sr":{"posx":333.269,"vel":7500.00}}
+serialEvent(): posx = 333.269
+serialEvent(): inString = {"sr":{"posx":301.972}}
+serialEvent(): posx = 301.972
+serialEvent(): inString = {"sr":{"posx":270.675}}
+serialEvent(): posx = 270.675
+serialEvent(): inString = {"sr":{"posx":239.377}}
+serialEvent(): posx = 239.377
+serialEvent(): inString = {"sr":{"posx":208.080}}
+serialEvent(): posx = 208.08
+serialEvent(): inString = {"sr":{"posx":176.783}}
+serialEvent(): posx = 176.783
+serialEvent(): inString = {"sr":{"posx":145.673}}
+serialEvent(): posx = 145.673
+serialEvent(): inString = {"sr":{"posx":114.189}}
+serialEvent(): posx = 114.189
+serialEvent(): inString = {"sr":{"posx":82.893}}
+serialEvent(): posx = 82.893
+serialEvent(): inString = {"sr":{"posx":51.597}}
+serialEvent(): posx = 51.597
+serialEvent(): inString = {"sr":{"posx":20.369,"vel":7203.02}}
+serialEvent(): posx = 20.369
+serialEvent(): inString = {"sr":{"posx":10.049,"vel":260.30}}
+serialEvent(): posx = 10.049
+serialEvent(): inString = {"sr":{"posx":23.494,"vel":2651.51}}
+serialEvent(): posx = 23.494
+serialEvent(): inString = {"sr":{"posx":25.000,"posz":6.776,"vel":9579.74}}
+serialEvent(): posx = 25.0
+serialEvent(): posz = 6.776
+serialEvent(): inString = {"sr":{"posz":108.938,"vel":30101.49}}
+serialEvent(): posz = 108.938
+serialEvent(): inString = {"sr":{"posz":179.540,"vel":1578.63}}
+serialEvent(): posz = 179.54
+serialEvent(): inString = {"sr":{"posy":414247.219,"posz":180.000,"vel":6418.66,"dist":1}}
+serialEvent(): posy = 414247.22
+serialEvent(): posz = 180.0
+serialEvent(): inString = {"sr":{"posy":414278.250,"vel":7500.00}}
+serialEvent(): posy = 414278.25
+serialEvent(): inString = {"sr":{"posy":414309.562}}
+serialEvent(): posy = 414309.56
+serialEvent(): inString = {"sr":{"posy":414340.875}}
+serialEvent(): posy = 414340.88
+serialEvent(): inString = {"sr":{"posy":414372.000}}
+serialEvent(): posy = 414372.0
+serialEvent(): inString = {"sr":{"posy":414398.938,"vel":2342.78}}
+serialEvent(): posy = 414398.94
+serialEvent(): inString = {"sr":{"line":10005,"posy":414400.000,"vel":0.00,"stat":3}}
+serialEvent(): posy = 414400.0
+serialEvent(): line = 10005
+
+##### Completed Iteration # 6  time: 14.374001secs  Total time: 86.151secs  at Fri Jan 29 16:29:30 EST 2016
+
+
+
+
+##### Begin Iteration # 7  at Fri Jan 29 16:29:30 EST 2016
+
+97	1	Sending to tinyG: g90
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+98	2	Sending to tinyG: g0x-10
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+99	3	Sending to tinyG: g0z0
+serialEvent(): inString = {"r":{},"f":[1,0,5]}
+100	4	Sending to tinyG: g0x350
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+101	5	Sending to tinyG: g0x335
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+102	6	Sending to tinyG: g0z180
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+103	7	Sending to tinyG: g0x370
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+104	8	Sending to tinyG: g91
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+105	9	Sending to tinyG: g0y160
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+106	10	Sending to tinyG: g90
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+107	11	Sending to tinyG: g0z0
+serialEvent(): inString = {"sr":{"line":0,"posx":18.193,"vel":6247.54,"dist":0,"stat":5}}
+serialEvent(): posx = 18.193
+serialEvent(): line = 0
+serialEvent(): inString = {"r":{},"f":[1,0,5]}
+108	12	Sending to tinyG: g0x10
+serialEvent(): inString = {"r":{},"f":[1,0,6]}
+109	13	Sending to tinyG: g0x25
+serialEvent(): inString = {"r":{},"f":[1,0,6]}
+110	14	Sending to tinyG: g0z180
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+111	15	Sending to tinyG: g91
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+112	16	Sending to tinyG: g0y160
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+serialEvent(): inString = {"sr":{"posx":-8.622,"vel":2651.91}}
+serialEvent(): posx = -8.622
+Sending to tinyG: n10006 (end marker)
+serialEvent(): inString = {"r":{},"f":[1,0,20]}
+serialEvent(): inString = {"sr":{"posx":-10.000,"posz":172.979,"vel":9801.60}}
+serialEvent(): posx = -10.0
+serialEvent(): posz = 172.979
+serialEvent(): inString = {"sr":{"posz":70.310,"vel":30067.24}}
+serialEvent(): posz = 70.31
+serialEvent(): inString = {"sr":{"posz":0.423,"vel":1487.62}}
+serialEvent(): posz = 0.423
+serialEvent(): inString = {"sr":{"posx":-2.554,"posz":0.000,"vel":6473.00}}
+serialEvent(): posx = -2.554
+serialEvent(): posz = 0.0
+serialEvent(): inString = {"sr":{"posx":28.417,"vel":7500.00}}
+serialEvent(): posx = 28.417
+serialEvent(): inString = {"sr":{"posx":59.713}}
+serialEvent(): posx = 59.713
+serialEvent(): inString = {"sr":{"posx":90.822}}
+serialEvent(): posx = 90.822
+serialEvent(): inString = {"sr":{"posx":122.305}}
+serialEvent(): posx = 122.305
+serialEvent(): inString = {"sr":{"posx":153.602}}
+serialEvent(): posx = 153.602
+serialEvent(): inString = {"sr":{"posx":184.900}}
+serialEvent(): posx = 184.9
+serialEvent(): inString = {"sr":{"posx":216.197}}
+serialEvent(): posx = 216.197
+serialEvent(): inString = {"sr":{"posx":247.494}}
+serialEvent(): posx = 247.494
+serialEvent(): inString = {"sr":{"posx":278.604}}
+serialEvent(): posx = 278.604
+serialEvent(): inString = {"sr":{"posx":309.901}}
+serialEvent(): posx = 309.901
+serialEvent(): inString = {"sr":{"posx":341.215,"vel":6897.97}}
+serialEvent(): posx = 341.215
+serialEvent(): inString = {"sr":{"posx":349.858,"vel":554.50}}
+serialEvent(): posx = 349.858
+serialEvent(): inString = {"sr":{"posx":335.984,"vel":2014.27}}
+serialEvent(): posx = 335.984
+serialEvent(): inString = {"sr":{"posx":335.000,"posz":9.481,"vel":11859.14}}
+serialEvent(): posx = 335.0
+serialEvent(): posz = 9.481
+serialEvent(): inString = {"sr":{"posz":116.404,"vel":29642.69}}
+serialEvent(): posz = 116.404
+serialEvent(): inString = {"sr":{"posz":179.822,"vel":805.63}}
+serialEvent(): posz = 179.822
+serialEvent(): inString = {"sr":{"posx":343.957,"posz":180.000,"vel":6897.96}}
+serialEvent(): posx = 343.957
+serialEvent(): posz = 180.0
+serialEvent(): inString = {"sr":{"posx":369.312,"vel":1695.81}}
+serialEvent(): posx = 369.312
+serialEvent(): inString = {"sr":{"posx":370.000,"posy":414405.188,"vel":5597.14,"dist":1}}
+serialEvent(): posx = 370.0
+serialEvent(): posy = 414405.2
+serialEvent(): inString = {"sr":{"posy":414435.812,"vel":7500.00}}
+serialEvent(): posy = 414435.8
+serialEvent(): inString = {"sr":{"posy":414467.125}}
+serialEvent(): posy = 414467.12
+serialEvent(): inString = {"sr":{"posy":414498.438}}
+serialEvent(): posy = 414498.44
+serialEvent(): inString = {"sr":{"posy":414529.750}}
+serialEvent(): posy = 414529.75
+serialEvent(): inString = {"sr":{"posy":414558.031,"vel":3378.45}}
+serialEvent(): posy = 414558.03
+serialEvent(): inString = {"sr":{"posy":414560.000,"posz":175.185,"vel":7866.47,"dist":0}}
+serialEvent(): posy = 414560.0
+serialEvent(): posz = 175.185
+serialEvent(): inString = {"sr":{"posz":77.857,"vel":30310.40}}
+serialEvent(): posz = 77.857
+serialEvent(): inString = {"sr":{"posz":0.906,"vel":2537.88}}
+serialEvent(): posz = 0.906
+serialEvent(): inString = {"sr":{"posx":364.106,"posz":0.000,"vel":5871.05}}
+serialEvent(): posx = 364.106
+serialEvent(): posz = 0.0
+serialEvent(): inString = {"sr":{"posx":333.269,"vel":7500.00}}
+serialEvent(): posx = 333.269
+serialEvent(): inString = {"sr":{"posx":301.972}}
+serialEvent(): posx = 301.972
+serialEvent(): inString = {"sr":{"posx":270.675}}
+serialEvent(): posx = 270.675
+serialEvent(): inString = {"sr":{"posx":239.377}}
+serialEvent(): posx = 239.377
+serialEvent(): inString = {"sr":{"posx":208.080}}
+serialEvent(): posx = 208.08
+serialEvent(): inString = {"sr":{"posx":176.783}}
+serialEvent(): posx = 176.783
+serialEvent(): inString = {"sr":{"posx":145.673}}
+serialEvent(): posx = 145.673
+serialEvent(): inString = {"sr":{"posx":114.189}}
+serialEvent(): posx = 114.189
+serialEvent(): inString = {"sr":{"posx":82.893}}
+serialEvent(): posx = 82.893
+serialEvent(): inString = {"sr":{"posx":51.597}}
+serialEvent(): posx = 51.597
+serialEvent(): inString = {"sr":{"posx":20.369,"vel":7203.02}}
+serialEvent(): posx = 20.369
+serialEvent(): inString = {"sr":{"posx":10.049,"vel":260.30}}
+serialEvent(): posx = 10.049
+serialEvent(): inString = {"sr":{"posx":23.494,"vel":2651.51}}
+serialEvent(): posx = 23.494
+serialEvent(): inString = {"sr":{"posx":25.000,"posz":6.776,"vel":9579.74}}
+serialEvent(): posx = 25.0
+serialEvent(): posz = 6.776
+serialEvent(): inString = {"sr":{"posz":108.938,"vel":30101.49}}
+serialEvent(): posz = 108.938
+serialEvent(): inString = {"sr":{"posz":179.540,"vel":1578.63}}
+serialEvent(): posz = 179.54
+serialEvent(): inString = {"sr":{"posy":414567.219,"posz":180.000,"vel":6418.66,"dist":1}}
+serialEvent(): posy = 414567.22
+serialEvent(): posz = 180.0
+serialEvent(): inString = {"sr":{"posy":414598.250,"vel":7500.00}}
+serialEvent(): posy = 414598.25
+serialEvent(): inString = {"sr":{"posy":414629.562}}
+serialEvent(): posy = 414629.56
+serialEvent(): inString = {"sr":{"posy":414660.875}}
+serialEvent(): posy = 414660.88
+serialEvent(): inString = {"sr":{"posy":414692.000}}
+serialEvent(): posy = 414692.0
+serialEvent(): inString = {"sr":{"posy":414718.938,"vel":2342.78}}
+serialEvent(): posy = 414718.94
+serialEvent(): inString = {"sr":{"line":10006,"posy":414720.000,"vel":0.00,"stat":3}}
+serialEvent(): posy = 414720.0
+serialEvent(): line = 10006
+
+##### Completed Iteration # 7  time: 14.365001secs  Total time: 100.51601secs  at Fri Jan 29 16:29:44 EST 2016
+
+
+
+
+##### Begin Iteration # 8  at Fri Jan 29 16:29:44 EST 2016
+
+113	1	Sending to tinyG: g90
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+114	2	Sending to tinyG: g0x-10
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+115	3	Sending to tinyG: g0z0
+serialEvent(): inString = {"r":{},"f":[1,0,5]}
+116	4	Sending to tinyG: g0x350
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+117	5	Sending to tinyG: g0x335
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+118	6	Sending to tinyG: g0z180
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+119	7	Sending to tinyG: g0x370
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+120	8	Sending to tinyG: g91
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+121	9	Sending to tinyG: g0y160
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+122	10	Sending to tinyG: g90
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+123	11	Sending to tinyG: g0z0
+serialEvent(): inString = {"sr":{"line":0,"posx":18.349,"vel":6187.88,"dist":0,"stat":5}}
+serialEvent(): posx = 18.349
+serialEvent(): line = 0
+serialEvent(): inString = {"r":{},"f":[1,0,5]}
+124	12	Sending to tinyG: g0x10
+serialEvent(): inString = {"r":{},"f":[1,0,6]}
+125	13	Sending to tinyG: g0x25
+serialEvent(): inString = {"r":{},"f":[1,0,6]}
+126	14	Sending to tinyG: g0z180
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+127	15	Sending to tinyG: g91
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+128	16	Sending to tinyG: g0y160
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+Sending to tinyG: n10007 (end marker)
+serialEvent(): inString = {"sr":{"posx":-8.556,"vel":2730.81}}
+serialEvent(): posx = -8.556
+serialEvent(): inString = {"r":{},"f":[1,0,20]}
+serialEvent(): inString = {"sr":{"posx":-10.000,"posz":173.224,"vel":9579.74}}
+serialEvent(): posx = -10.0
+serialEvent(): posz = 173.224
+serialEvent(): inString = {"sr":{"posz":71.062,"vel":30101.49}}
+serialEvent(): posz = 71.062
+serialEvent(): inString = {"sr":{"posz":0.499,"vel":1672.74}}
+serialEvent(): posz = 0.499
+serialEvent(): inString = {"sr":{"posx":-2.876,"posz":0.000,"vel":6418.66}}
+serialEvent(): posx = -2.876
+serialEvent(): posz = 0.0
+serialEvent(): inString = {"sr":{"posx":28.229,"vel":7500.00}}
+serialEvent(): posx = 28.229
+serialEvent(): inString = {"sr":{"posx":59.526}}
+serialEvent(): posx = 59.526
+serialEvent(): inString = {"sr":{"posx":90.822}}
+serialEvent(): posx = 90.822
+serialEvent(): inString = {"sr":{"posx":122.118}}
+serialEvent(): posx = 122.118
+serialEvent(): inString = {"sr":{"posx":153.415}}
+serialEvent(): posx = 153.415
+serialEvent(): inString = {"sr":{"posx":184.525}}
+serialEvent(): posx = 184.525
+serialEvent(): inString = {"sr":{"posx":216.009}}
+serialEvent(): posx = 216.009
+serialEvent(): inString = {"sr":{"posx":247.307}}
+serialEvent(): posx = 247.307
+serialEvent(): inString = {"sr":{"posx":278.604}}
+serialEvent(): posx = 278.604
+serialEvent(): inString = {"sr":{"posx":309.901}}
+serialEvent(): posx = 309.901
+serialEvent(): inString = {"sr":{"posx":341.043,"vel":6937.84}}
+serialEvent(): posx = 341.043
+serialEvent(): inString = {"sr":{"posx":349.872,"vel":516.00}}
+serialEvent(): posx = 349.872
+serialEvent(): inString = {"sr":{"posx":336.036,"vel":2141.72}}
+serialEvent(): posx = 336.036
+serialEvent(): inString = {"sr":{"posx":335.000,"posz":8.894,"vel":11393.64}}
+serialEvent(): posx = 335.0
+serialEvent(): posz = 8.894
+serialEvent(): inString = {"sr":{"posz":114.921,"vel":29756.02}}
+serialEvent(): posz = 114.921
+serialEvent(): inString = {"sr":{"posz":179.780,"vel":936.23}}
+serialEvent(): posz = 179.78
+serialEvent(): inString = {"sr":{"posx":343.613,"posz":180.000,"vel":6813.75}}
+serialEvent(): posx = 343.613
+serialEvent(): posz = 180.0
+serialEvent(): inString = {"sr":{"posx":369.226,"vel":1832.80}}
+serialEvent(): posx = 369.226
+serialEvent(): inString = {"sr":{"posx":370.000,"posy":414724.938,"vel":5454.08,"dist":1}}
+serialEvent(): posx = 370.0
+serialEvent(): posy = 414724.94
+serialEvent(): inString = {"sr":{"posy":414755.438,"vel":7500.00}}
+serialEvent(): posy = 414755.44
+serialEvent(): inString = {"sr":{"posy":414786.750}}
+serialEvent(): posy = 414786.75
+serialEvent(): inString = {"sr":{"posy":414818.062}}
+serialEvent(): posy = 414818.06
+serialEvent(): inString = {"sr":{"posy":414849.375}}
+serialEvent(): posy = 414849.38
+serialEvent(): inString = {"sr":{"posy":414877.844,"vel":3543.32}}
+serialEvent(): posy = 414877.84
+serialEvent(): inString = {"sr":{"posy":414880.000,"posz":175.376,"vel":7457.36,"dist":0}}
+serialEvent(): posy = 414880.0
+serialEvent(): posz = 175.376
+serialEvent(): inString = {"sr":{"posz":79.372,"vel":30335.81}}
+serialEvent(): posz = 79.372
+serialEvent(): inString = {"sr":{"posz":1.036,"vel":2785.30}}
+serialEvent(): posz = 1.036
+serialEvent(): inString = {"sr":{"posx":364.398,"posz":0.000,"vel":5804.19}}
+serialEvent(): posx = 364.398
+serialEvent(): posz = 0.0
+serialEvent(): inString = {"sr":{"posx":333.644,"vel":7500.00}}
+serialEvent(): posx = 333.644
+serialEvent(): inString = {"sr":{"posx":302.347}}
+serialEvent(): posx = 302.347
+serialEvent(): inString = {"sr":{"posx":271.049}}
+serialEvent(): posx = 271.049
+serialEvent(): inString = {"sr":{"posx":239.752}}
+serialEvent(): posx = 239.752
+serialEvent(): inString = {"sr":{"posx":208.455}}
+serialEvent(): posx = 208.455
+serialEvent(): inString = {"sr":{"posx":177.158}}
+serialEvent(): posx = 177.158
+serialEvent(): inString = {"sr":{"posx":146.048}}
+serialEvent(): posx = 146.048
+serialEvent(): inString = {"sr":{"posx":114.564}}
+serialEvent(): posx = 114.564
+serialEvent(): inString = {"sr":{"posx":83.268}}
+serialEvent(): posx = 83.268
+serialEvent(): inString = {"sr":{"posx":51.972}}
+serialEvent(): posx = 51.972
+serialEvent(): inString = {"sr":{"posx":20.729,"vel":7254.57}}
+serialEvent(): posx = 20.729
+serialEvent(): inString = {"sr":{"posx":10.037,"vel":211.12}}
+serialEvent(): posx = 10.037
+serialEvent(): inString = {"sr":{"posx":23.361,"vel":2776.66}}
+serialEvent(): posx = 23.361
+serialEvent(): inString = {"sr":{"posx":25.000,"posz":6.302,"vel":9140.79}}
+serialEvent(): posx = 25.0
+serialEvent(): posz = 6.302
+serialEvent(): inString = {"sr":{"posz":107.433,"vel":30162.89}}
+serialEvent(): posz = 107.433
+serialEvent(): inString = {"sr":{"posz":179.459,"vel":1769.96}}
+serialEvent(): posz = 179.459
+serialEvent(): inString = {"sr":{"posy":414886.906,"posz":180.000,"vel":6305.91,"dist":1}}
+serialEvent(): posy = 414886.9
+serialEvent(): posz = 180.0
+serialEvent(): inString = {"sr":{"posy":414917.875,"vel":7500.00}}
+serialEvent(): posy = 414917.88
+serialEvent(): inString = {"sr":{"posy":414949.188}}
+serialEvent(): posy = 414949.2
+serialEvent(): inString = {"sr":{"posy":414980.500}}
+serialEvent(): posy = 414980.5
+serialEvent(): inString = {"sr":{"posy":415011.625}}
+serialEvent(): posy = 415011.62
+serialEvent(): inString = {"sr":{"posy":415038.812,"vel":2495.97}}
+serialEvent(): posy = 415038.8
+serialEvent(): inString = {"sr":{"line":10007,"posy":415040.000,"vel":0.00,"stat":3}}
+serialEvent(): posy = 415040.0
+serialEvent(): line = 10007
+
+##### Completed Iteration # 8  time: 14.354001secs  Total time: 114.87secs  at Fri Jan 29 16:29:59 EST 2016
+
+
+
+
+##### Begin Iteration # 9  at Fri Jan 29 16:29:59 EST 2016
+
+129	1	Sending to tinyG: g90
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+130	2	Sending to tinyG: g0x-10
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+131	3	Sending to tinyG: g0z0
+serialEvent(): inString = {"r":{},"f":[1,0,5]}
+132	4	Sending to tinyG: g0x350
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+133	5	Sending to tinyG: g0x335
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+134	6	Sending to tinyG: g0z180
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+135	7	Sending to tinyG: g0x370
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+136	8	Sending to tinyG: g91
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+137	9	Sending to tinyG: g0y160
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+138	10	Sending to tinyG: g90
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+139	11	Sending to tinyG: g0z0
+serialEvent(): inString = {"sr":{"line":0,"posx":18.349,"vel":6247.54,"dist":0,"stat":5}}
+serialEvent(): posx = 18.349
+serialEvent(): line = 0
+serialEvent(): inString = {"r":{},"f":[1,0,5]}
+140	12	Sending to tinyG: g0x10
+serialEvent(): inString = {"r":{},"f":[1,0,6]}
+141	13	Sending to tinyG: g0x25
+serialEvent(): inString = {"r":{},"f":[1,0,6]}
+142	14	Sending to tinyG: g0z180
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+143	15	Sending to tinyG: g91
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+144	16	Sending to tinyG: g0y160
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+Sending to tinyG: n10008 (end marker)
+serialEvent(): inString = {"sr":{"posx":-8.622,"vel":2651.91}}
+serialEvent(): posx = -8.622
+serialEvent(): inString = {"r":{},"f":[1,0,20]}
+serialEvent(): inString = {"sr":{"posx":-10.000,"posz":172.979,"vel":9801.60}}
+serialEvent(): posx = -10.0
+serialEvent(): posz = 172.979
+serialEvent(): inString = {"sr":{"posz":70.310,"vel":30067.24}}
+serialEvent(): posz = 70.31
+serialEvent(): inString = {"sr":{"posz":0.423,"vel":1487.62}}
+serialEvent(): posz = 0.423
+serialEvent(): inString = {"sr":{"posx":-2.554,"posz":0.000,"vel":6473.00}}
+serialEvent(): posx = -2.554
+serialEvent(): posz = 0.0
+serialEvent(): inString = {"sr":{"posx":28.417,"vel":7500.00}}
+serialEvent(): posx = 28.417
+serialEvent(): inString = {"sr":{"posx":59.713}}
+serialEvent(): posx = 59.713
+serialEvent(): inString = {"sr":{"posx":90.822}}
+serialEvent(): posx = 90.822
+serialEvent(): inString = {"sr":{"posx":122.305}}
+serialEvent(): posx = 122.305
+serialEvent(): inString = {"sr":{"posx":153.602}}
+serialEvent(): posx = 153.602
+serialEvent(): inString = {"sr":{"posx":184.900}}
+serialEvent(): posx = 184.9
+serialEvent(): inString = {"sr":{"posx":216.197}}
+serialEvent(): posx = 216.197
+serialEvent(): inString = {"sr":{"posx":247.494}}
+serialEvent(): posx = 247.494
+serialEvent(): inString = {"sr":{"posx":278.604}}
+serialEvent(): posx = 278.604
+serialEvent(): inString = {"sr":{"posx":309.901}}
+serialEvent(): posx = 309.901
+serialEvent(): inString = {"sr":{"posx":341.215,"vel":6897.97}}
+serialEvent(): posx = 341.215
+serialEvent(): inString = {"sr":{"posx":349.858,"vel":554.50}}
+serialEvent(): posx = 349.858
+serialEvent(): inString = {"sr":{"posx":335.984,"vel":2014.27}}
+serialEvent(): posx = 335.984
+serialEvent(): inString = {"sr":{"posx":335.000,"posz":9.481,"vel":11859.14}}
+serialEvent(): posx = 335.0
+serialEvent(): posz = 9.481
+serialEvent(): inString = {"sr":{"posz":116.404,"vel":29642.69}}
+serialEvent(): posz = 116.404
+serialEvent(): inString = {"sr":{"posz":179.822,"vel":805.63}}
+serialEvent(): posz = 179.822
+serialEvent(): inString = {"sr":{"posx":343.957,"posz":180.000,"vel":6897.96}}
+serialEvent(): posx = 343.957
+serialEvent(): posz = 180.0
+serialEvent(): inString = {"sr":{"posx":369.312,"vel":1695.81}}
+serialEvent(): posx = 369.312
+serialEvent(): inString = {"sr":{"posx":370.000,"posy":415045.188,"vel":5597.14,"dist":1}}
+serialEvent(): posx = 370.0
+serialEvent(): posy = 415045.2
+serialEvent(): inString = {"sr":{"posy":415075.812,"vel":7500.00}}
+serialEvent(): posy = 415075.8
+serialEvent(): inString = {"sr":{"posy":415107.125}}
+serialEvent(): posy = 415107.12
+serialEvent(): inString = {"sr":{"posy":415138.438}}
+serialEvent(): posy = 415138.44
+serialEvent(): inString = {"sr":{"posy":415169.750}}
+serialEvent(): posy = 415169.75
+serialEvent(): inString = {"sr":{"posy":415198.031,"vel":3378.45}}
+serialEvent(): posy = 415198.03
+serialEvent(): inString = {"sr":{"posy":415200.000,"posz":175.185,"vel":7660.87,"dist":0}}
+serialEvent(): posy = 415200.0
+serialEvent(): posz = 175.185
+serialEvent(): inString = {"sr":{"posz":77.857,"vel":30310.40}}
+serialEvent(): posz = 77.857
+serialEvent(): inString = {"sr":{"posz":0.906,"vel":2537.88}}
+serialEvent(): posz = 0.906
+serialEvent(): inString = {"sr":{"posx":364.106,"posz":0.000,"vel":5936.79}}
+serialEvent(): posx = 364.106
+serialEvent(): posz = 0.0
+serialEvent(): inString = {"sr":{"posx":333.457,"vel":7500.00}}
+serialEvent(): posx = 333.457
+serialEvent(): inString = {"sr":{"posx":301.972}}
+serialEvent(): posx = 301.972
+serialEvent(): inString = {"sr":{"posx":270.675}}
+serialEvent(): posx = 270.675
+serialEvent(): inString = {"sr":{"posx":239.377}}
+serialEvent(): posx = 239.377
+serialEvent(): inString = {"sr":{"posx":208.080}}
+serialEvent(): posx = 208.08
+serialEvent(): inString = {"sr":{"posx":176.783}}
+serialEvent(): posx = 176.783
+serialEvent(): inString = {"sr":{"posx":145.673}}
+serialEvent(): posx = 145.673
+serialEvent(): inString = {"sr":{"posx":114.189}}
+serialEvent(): posx = 114.189
+serialEvent(): inString = {"sr":{"posx":82.893}}
+serialEvent(): posx = 82.893
+serialEvent(): inString = {"sr":{"posx":51.597}}
+serialEvent(): posx = 51.597
+serialEvent(): inString = {"sr":{"posx":20.369,"vel":7203.02}}
+serialEvent(): posx = 20.369
+serialEvent(): inString = {"sr":{"posx":10.049,"vel":260.30}}
+serialEvent(): posx = 10.049
+serialEvent(): inString = {"sr":{"posx":23.494,"vel":2651.51}}
+serialEvent(): posx = 23.494
+serialEvent(): inString = {"sr":{"posx":25.000,"posz":6.776,"vel":9579.74}}
+serialEvent(): posx = 25.0
+serialEvent(): posz = 6.776
+serialEvent(): inString = {"sr":{"posz":108.938,"vel":30101.49}}
+serialEvent(): posz = 108.938
+serialEvent(): inString = {"sr":{"posz":179.540,"vel":1578.63}}
+serialEvent(): posz = 179.54
+serialEvent(): inString = {"sr":{"posy":415207.219,"posz":180.000,"vel":6418.66,"dist":1}}
+serialEvent(): posy = 415207.22
+serialEvent(): posz = 180.0
+serialEvent(): inString = {"sr":{"posy":415238.250,"vel":7500.00}}
+serialEvent(): posy = 415238.25
+serialEvent(): inString = {"sr":{"posy":415269.562}}
+serialEvent(): posy = 415269.56
+serialEvent(): inString = {"sr":{"posy":415300.875}}
+serialEvent(): posy = 415300.88
+serialEvent(): inString = {"sr":{"posy":415332.000}}
+serialEvent(): posy = 415332.0
+serialEvent(): inString = {"sr":{"posy":415358.938,"vel":2342.78}}
+serialEvent(): posy = 415358.94
+serialEvent(): inString = {"sr":{"line":10008,"posy":415360.000,"vel":0.00,"stat":3}}
+serialEvent(): posy = 415360.0
+serialEvent(): line = 10008
+
+##### Completed Iteration # 9  time: 14.360001secs  Total time: 129.23001secs  at Fri Jan 29 16:30:13 EST 2016
+
+
+
+
+##### Begin Iteration # 10  at Fri Jan 29 16:30:13 EST 2016
+
+145	1	Sending to tinyG: g90
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+146	2	Sending to tinyG: g0x-10
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+147	3	Sending to tinyG: g0z0
+serialEvent(): inString = {"r":{},"f":[1,0,5]}
+148	4	Sending to tinyG: g0x350
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+149	5	Sending to tinyG: g0x335
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+150	6	Sending to tinyG: g0z180
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+151	7	Sending to tinyG: g0x370
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+152	8	Sending to tinyG: g91
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+153	9	Sending to tinyG: g0y160
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+154	10	Sending to tinyG: g90
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+155	11	Sending to tinyG: g0z0
+serialEvent(): inString = {"sr":{"line":0,"posx":18.193,"vel":6247.54,"dist":0,"stat":5}}
+serialEvent(): posx = 18.193
+serialEvent(): line = 0
+serialEvent(): inString = {"r":{},"f":[1,0,5]}
+156	12	Sending to tinyG: g0x10
+serialEvent(): inString = {"r":{},"f":[1,0,6]}
+157	13	Sending to tinyG: g0x25
+serialEvent(): inString = {"r":{},"f":[1,0,6]}
+158	14	Sending to tinyG: g0z180
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+159	15	Sending to tinyG: g91
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+160	16	Sending to tinyG: g0y160
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+serialEvent(): inString = {"sr":{"posx":-8.622,"vel":2651.91}}
+serialEvent(): posx = -8.622
+Sending to tinyG: n10009 (end marker)
+serialEvent(): inString = {"r":{},"f":[1,0,20]}
+serialEvent(): inString = {"sr":{"posx":-10.000,"posz":172.979,"vel":9801.60}}
+serialEvent(): posx = -10.0
+serialEvent(): posz = 172.979
+serialEvent(): inString = {"sr":{"posz":70.310,"vel":30067.24}}
+serialEvent(): posz = 70.31
+serialEvent(): inString = {"sr":{"posz":0.423,"vel":1487.62}}
+serialEvent(): posz = 0.423
+serialEvent(): inString = {"sr":{"posx":-2.554,"posz":0.000,"vel":6473.00}}
+serialEvent(): posx = -2.554
+serialEvent(): posz = 0.0
+serialEvent(): inString = {"sr":{"posx":28.417,"vel":7500.00}}
+serialEvent(): posx = 28.417
+serialEvent(): inString = {"sr":{"posx":59.713}}
+serialEvent(): posx = 59.713
+serialEvent(): inString = {"sr":{"posx":90.822}}
+serialEvent(): posx = 90.822
+serialEvent(): inString = {"sr":{"posx":122.305}}
+serialEvent(): posx = 122.305
+serialEvent(): inString = {"sr":{"posx":153.602}}
+serialEvent(): posx = 153.602
+serialEvent(): inString = {"sr":{"posx":184.900}}
+serialEvent(): posx = 184.9
+serialEvent(): inString = {"sr":{"posx":216.197}}
+serialEvent(): posx = 216.197
+serialEvent(): inString = {"sr":{"posx":247.494}}
+serialEvent(): posx = 247.494
+serialEvent(): inString = {"sr":{"posx":278.604}}
+serialEvent(): posx = 278.604
+serialEvent(): inString = {"sr":{"posx":309.901}}
+serialEvent(): posx = 309.901
+serialEvent(): inString = {"sr":{"posx":341.215,"vel":6897.97}}
+serialEvent(): posx = 341.215
+serialEvent(): inString = {"sr":{"posx":349.858,"vel":554.50}}
+serialEvent(): posx = 349.858
+serialEvent(): inString = {"sr":{"posx":335.984,"vel":2014.27}}
+serialEvent(): posx = 335.984
+serialEvent(): inString = {"sr":{"posx":335.000,"posz":9.481,"vel":11859.14}}
+serialEvent(): posx = 335.0
+serialEvent(): posz = 9.481
+serialEvent(): inString = {"sr":{"posz":116.404,"vel":29642.69}}
+serialEvent(): posz = 116.404
+serialEvent(): inString = {"sr":{"posz":179.822,"vel":805.63}}
+serialEvent(): posz = 179.822
+serialEvent(): inString = {"sr":{"posx":343.957,"posz":180.000,"vel":6897.96}}
+serialEvent(): posx = 343.957
+serialEvent(): posz = 180.0
+serialEvent(): inString = {"sr":{"posx":369.312,"vel":1695.81}}
+serialEvent(): posx = 369.312
+serialEvent(): inString = {"sr":{"posx":370.000,"posy":415365.188,"vel":5597.14,"dist":1}}
+serialEvent(): posx = 370.0
+serialEvent(): posy = 415365.2
+serialEvent(): inString = {"sr":{"posy":415395.812,"vel":7500.00}}
+serialEvent(): posy = 415395.8
+serialEvent(): inString = {"sr":{"posy":415427.125}}
+serialEvent(): posy = 415427.12
+serialEvent(): inString = {"sr":{"posy":415458.438}}
+serialEvent(): posy = 415458.44
+serialEvent(): inString = {"sr":{"posy":415489.750}}
+serialEvent(): posy = 415489.75
+serialEvent(): inString = {"sr":{"posy":415518.031,"vel":3378.45}}
+serialEvent(): posy = 415518.03
+serialEvent(): inString = {"sr":{"posy":415520.000,"posz":175.185,"vel":7866.47,"dist":0}}
+serialEvent(): posy = 415520.0
+serialEvent(): posz = 175.185
+serialEvent(): inString = {"sr":{"posz":77.857,"vel":30310.40}}
+serialEvent(): posz = 77.857
+serialEvent(): inString = {"sr":{"posz":0.906,"vel":2418.83}}
+serialEvent(): posz = 0.906
+serialEvent(): inString = {"sr":{"posx":364.106,"posz":0.000,"vel":5936.79}}
+serialEvent(): posx = 364.106
+serialEvent(): posz = 0.0
+serialEvent(): inString = {"sr":{"posx":333.269,"vel":7500.00}}
+serialEvent(): posx = 333.269
+serialEvent(): inString = {"sr":{"posx":301.972}}
+serialEvent(): posx = 301.972
+serialEvent(): inString = {"sr":{"posx":270.675}}
+serialEvent(): posx = 270.675
+serialEvent(): inString = {"sr":{"posx":239.377}}
+serialEvent(): posx = 239.377
+serialEvent(): inString = {"sr":{"posx":208.080}}
+serialEvent(): posx = 208.08
+serialEvent(): inString = {"sr":{"posx":176.783}}
+serialEvent(): posx = 176.783
+serialEvent(): inString = {"sr":{"posx":145.673}}
+serialEvent(): posx = 145.673
+serialEvent(): inString = {"sr":{"posx":114.189}}
+serialEvent(): posx = 114.189
+serialEvent(): inString = {"sr":{"posx":82.893}}
+serialEvent(): posx = 82.893
+serialEvent(): inString = {"sr":{"posx":51.597}}
+serialEvent(): posx = 51.597
+serialEvent(): inString = {"sr":{"posx":20.369,"vel":7203.02}}
+serialEvent(): posx = 20.369
+serialEvent(): inString = {"sr":{"posx":10.049,"vel":260.30}}
+serialEvent(): posx = 10.049
+serialEvent(): inString = {"sr":{"posx":23.494,"vel":2651.51}}
+serialEvent(): posx = 23.494
+serialEvent(): inString = {"sr":{"posx":25.000,"posz":6.776,"vel":9579.74}}
+serialEvent(): posx = 25.0
+serialEvent(): posz = 6.776
+serialEvent(): inString = {"sr":{"posz":108.938,"vel":30101.49}}
+serialEvent(): posz = 108.938
+serialEvent(): inString = {"sr":{"posz":179.540,"vel":1578.63}}
+serialEvent(): posz = 179.54
+serialEvent(): inString = {"sr":{"posy":415527.219,"posz":180.000,"vel":6418.66,"dist":1}}
+serialEvent(): posy = 415527.22
+serialEvent(): posz = 180.0
+serialEvent(): inString = {"sr":{"posy":415558.250,"vel":7500.00}}
+serialEvent(): posy = 415558.25
+serialEvent(): inString = {"sr":{"posy":415589.562}}
+serialEvent(): posy = 415589.56
+serialEvent(): inString = {"sr":{"posy":415620.875}}
+serialEvent(): posy = 415620.88
+serialEvent(): inString = {"sr":{"posy":415652.000}}
+serialEvent(): posy = 415652.0
+serialEvent(): inString = {"sr":{"posy":415678.938,"vel":2342.78}}
+serialEvent(): posy = 415678.94
+serialEvent(): inString = {"sr":{"line":10009,"posy":415680.000,"vel":0.00,"stat":3}}
+serialEvent(): posy = 415680.0
+serialEvent(): line = 10009
+
+##### Completed Iteration # 10  time: 14.351001secs  Total time: 143.582secs  at Fri Jan 29 16:30:27 EST 2016
+
+
+
+
+##### Begin Iteration # 11  at Fri Jan 29 16:30:27 EST 2016
+
+161	1	Sending to tinyG: g90
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+162	2	Sending to tinyG: g0x-10
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+163	3	Sending to tinyG: g0z0
+serialEvent(): inString = {"r":{},"f":[1,0,5]}
+164	4	Sending to tinyG: g0x350
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+165	5	Sending to tinyG: g0x335
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+166	6	Sending to tinyG: g0z180
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+167	7	Sending to tinyG: g0x370
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+168	8	Sending to tinyG: g91
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+169	9	Sending to tinyG: g0y160
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+170	10	Sending to tinyG: g90
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+serialEvent(): inString = {"sr":{"line":0,"posx":18.349,"vel":6247.54,"dist":0,"stat":5}}
+serialEvent(): posx = 18.349
+serialEvent(): line = 0
+171	11	Sending to tinyG: g0z0
+serialEvent(): inString = {"r":{},"f":[1,0,5]}
+172	12	Sending to tinyG: g0x10
+serialEvent(): inString = {"r":{},"f":[1,0,6]}
+173	13	Sending to tinyG: g0x25
+serialEvent(): inString = {"r":{},"f":[1,0,6]}
+174	14	Sending to tinyG: g0z180
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+175	15	Sending to tinyG: g91
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+176	16	Sending to tinyG: g0y160
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+serialEvent(): inString = {"sr":{"posx":-8.622,"vel":2651.91}}
+serialEvent(): posx = -8.622
+Sending to tinyG: n10010 (end marker)
+serialEvent(): inString = {"r":{},"f":[1,0,20]}
+serialEvent(): inString = {"sr":{"posx":-10.000,"posz":172.979,"vel":9801.60}}
+serialEvent(): posx = -10.0
+serialEvent(): posz = 172.979
+serialEvent(): inString = {"sr":{"posz":70.310,"vel":30067.24}}
+serialEvent(): posz = 70.31
+serialEvent(): inString = {"sr":{"posz":0.423,"vel":1487.62}}
+serialEvent(): posz = 0.423
+serialEvent(): inString = {"sr":{"posx":-2.554,"posz":0.000,"vel":6473.00}}
+serialEvent(): posx = -2.554
+serialEvent(): posz = 0.0
+serialEvent(): inString = {"sr":{"posx":28.417,"vel":7500.00}}
+serialEvent(): posx = 28.417
+serialEvent(): inString = {"sr":{"posx":59.713}}
+serialEvent(): posx = 59.713
+serialEvent(): inString = {"sr":{"posx":90.822}}
+serialEvent(): posx = 90.822
+serialEvent(): inString = {"sr":{"posx":122.305}}
+serialEvent(): posx = 122.305
+serialEvent(): inString = {"sr":{"posx":153.602}}
+serialEvent(): posx = 153.602
+serialEvent(): inString = {"sr":{"posx":184.900}}
+serialEvent(): posx = 184.9
+serialEvent(): inString = {"sr":{"posx":216.197}}
+serialEvent(): posx = 216.197
+serialEvent(): inString = {"sr":{"posx":247.494}}
+serialEvent(): posx = 247.494
+serialEvent(): inString = {"sr":{"posx":278.604}}
+serialEvent(): posx = 278.604
+serialEvent(): inString = {"sr":{"posx":309.901}}
+serialEvent(): posx = 309.901
+serialEvent(): inString = {"sr":{"posx":341.215,"vel":6897.97}}
+serialEvent(): posx = 341.215
+serialEvent(): inString = {"sr":{"posx":349.858,"vel":554.50}}
+serialEvent(): posx = 349.858
+serialEvent(): inString = {"sr":{"posx":335.984,"vel":2014.27}}
+serialEvent(): posx = 335.984
+serialEvent(): inString = {"sr":{"posx":335.000,"posz":9.481,"vel":11859.14}}
+serialEvent(): posx = 335.0
+serialEvent(): posz = 9.481
+serialEvent(): inString = {"sr":{"posz":116.404,"vel":29642.69}}
+serialEvent(): posz = 116.404
+serialEvent(): inString = {"sr":{"posz":179.822,"vel":805.63}}
+serialEvent(): posz = 179.822
+serialEvent(): inString = {"sr":{"posx":343.957,"posz":180.000,"vel":6897.96}}
+serialEvent(): posx = 343.957
+serialEvent(): posz = 180.0
+serialEvent(): inString = {"sr":{"posx":369.312,"vel":1695.81}}
+serialEvent(): posx = 369.312
+serialEvent(): inString = {"sr":{"posx":370.000,"posy":415685.188,"vel":5597.14,"dist":1}}
+serialEvent(): posx = 370.0
+serialEvent(): posy = 415685.2
+serialEvent(): inString = {"sr":{"posy":415715.812,"vel":7500.00}}
+serialEvent(): posy = 415715.8
+serialEvent(): inString = {"sr":{"posy":415747.125}}
+serialEvent(): posy = 415747.12
+serialEvent(): inString = {"sr":{"posy":415778.438}}
+serialEvent(): posy = 415778.44
+serialEvent(): inString = {"sr":{"posy":415809.750}}
+serialEvent(): posy = 415809.75
+serialEvent(): inString = {"sr":{"posy":415838.031,"vel":3378.45}}
+serialEvent(): posy = 415838.03
+serialEvent(): inString = {"sr":{"posy":415840.000,"posz":175.185,"vel":7866.47,"dist":0}}
+serialEvent(): posy = 415840.0
+serialEvent(): posz = 175.185
+serialEvent(): inString = {"sr":{"posz":77.857,"vel":30310.40}}
+serialEvent(): posz = 77.857
+serialEvent(): inString = {"sr":{"posz":0.906,"vel":2537.88}}
+serialEvent(): posz = 0.906
+serialEvent(): inString = {"sr":{"posx":364.106,"posz":0.000,"vel":5936.79}}
+serialEvent(): posx = 364.106
+serialEvent(): posz = 0.0
+serialEvent(): inString = {"sr":{"posx":333.269,"vel":7500.00}}
+serialEvent(): posx = 333.269
+serialEvent(): inString = {"sr":{"posx":301.972}}
+serialEvent(): posx = 301.972
+serialEvent(): inString = {"sr":{"posx":270.675}}
+serialEvent(): posx = 270.675
+serialEvent(): inString = {"sr":{"posx":239.377}}
+serialEvent(): posx = 239.377
+serialEvent(): inString = {"sr":{"posx":208.080}}
+serialEvent(): posx = 208.08
+serialEvent(): inString = {"sr":{"posx":176.783}}
+serialEvent(): posx = 176.783
+serialEvent(): inString = {"sr":{"posx":145.673}}
+serialEvent(): posx = 145.673
+serialEvent(): inString = {"sr":{"posx":114.189}}
+serialEvent(): posx = 114.189
+serialEvent(): inString = {"sr":{"posx":82.893}}
+serialEvent(): posx = 82.893
+serialEvent(): inString = {"sr":{"posx":51.597}}
+serialEvent(): posx = 51.597
+serialEvent(): inString = {"sr":{"posx":20.369,"vel":7203.02}}
+serialEvent(): posx = 20.369
+serialEvent(): inString = {"sr":{"posx":10.049,"vel":260.30}}
+serialEvent(): posx = 10.049
+serialEvent(): inString = {"sr":{"posx":23.494,"vel":2651.51}}
+serialEvent(): posx = 23.494
+serialEvent(): inString = {"sr":{"posx":25.000,"posz":6.776,"vel":9579.74}}
+serialEvent(): posx = 25.0
+serialEvent(): posz = 6.776
+serialEvent(): inString = {"sr":{"posz":108.938,"vel":30101.49}}
+serialEvent(): posz = 108.938
+serialEvent(): inString = {"sr":{"posz":179.540,"vel":1578.63}}
+serialEvent(): posz = 179.54
+serialEvent(): inString = {"sr":{"posy":415847.219,"posz":180.000,"vel":6418.66,"dist":1}}
+serialEvent(): posy = 415847.22
+serialEvent(): posz = 180.0
+serialEvent(): inString = {"sr":{"posy":415878.250,"vel":7500.00}}
+serialEvent(): posy = 415878.25
+serialEvent(): inString = {"sr":{"posy":415909.562}}
+serialEvent(): posy = 415909.56
+serialEvent(): inString = {"sr":{"posy":415940.875}}
+serialEvent(): posy = 415940.88
+serialEvent(): inString = {"sr":{"posy":415972.000}}
+serialEvent(): posy = 415972.0
+serialEvent(): inString = {"sr":{"posy":415998.938,"vel":2342.78}}
+serialEvent(): posy = 415998.94
+serialEvent(): inString = {"sr":{"line":10010,"posy":416000.000,"vel":0.00,"stat":3}}
+serialEvent(): posy = 416000.0
+serialEvent(): line = 10010
+
+##### Completed Iteration # 11  time: 14.354001secs  Total time: 157.936secs  at Fri Jan 29 16:30:42 EST 2016
+
+
+
+
+##### Begin Iteration # 12  at Fri Jan 29 16:30:42 EST 2016
+
+177	1	Sending to tinyG: g90
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+178	2	Sending to tinyG: g0x-10
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+179	3	Sending to tinyG: g0z0
+serialEvent(): inString = {"r":{},"f":[1,0,5]}
+180	4	Sending to tinyG: g0x350
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+181	5	Sending to tinyG: g0x335
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+182	6	Sending to tinyG: g0z180
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+183	7	Sending to tinyG: g0x370
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+184	8	Sending to tinyG: g91
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+185	9	Sending to tinyG: g0y160
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+186	10	Sending to tinyG: g90
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+187	11	Sending to tinyG: g0z0
+serialEvent(): inString = {"sr":{"line":0,"posx":18.349,"vel":6247.54,"dist":0,"stat":5}}
+serialEvent(): posx = 18.349
+serialEvent(): line = 0
+serialEvent(): inString = {"r":{},"f":[1,0,5]}
+188	12	Sending to tinyG: g0x10
+serialEvent(): inString = {"r":{},"f":[1,0,6]}
+189	13	Sending to tinyG: g0x25
+serialEvent(): inString = {"r":{},"f":[1,0,6]}
+190	14	Sending to tinyG: g0z180
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+191	15	Sending to tinyG: g91
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+192	16	Sending to tinyG: g0y160
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+Sending to tinyG: n10011 (end marker)
+serialEvent(): inString = {"sr":{"posx":-8.622,"vel":2651.91}}
+serialEvent(): posx = -8.622
+serialEvent(): inString = {"r":{},"f":[1,0,20]}
+serialEvent(): inString = {"sr":{"posx":-10.000,"posz":172.979,"vel":9801.60}}
+serialEvent(): posx = -10.0
+serialEvent(): posz = 172.979
+serialEvent(): inString = {"sr":{"posz":70.310,"vel":30067.24}}
+serialEvent(): posz = 70.31
+serialEvent(): inString = {"sr":{"posz":0.423,"vel":1487.62}}
+serialEvent(): posz = 0.423
+serialEvent(): inString = {"sr":{"posx":-2.554,"posz":0.000,"vel":6473.00}}
+serialEvent(): posx = -2.554
+serialEvent(): posz = 0.0
+serialEvent(): inString = {"sr":{"posx":28.417,"vel":7500.00}}
+serialEvent(): posx = 28.417
+serialEvent(): inString = {"sr":{"posx":59.713}}
+serialEvent(): posx = 59.713
+serialEvent(): inString = {"sr":{"posx":90.822}}
+serialEvent(): posx = 90.822
+serialEvent(): inString = {"sr":{"posx":122.305}}
+serialEvent(): posx = 122.305
+serialEvent(): inString = {"sr":{"posx":153.602}}
+serialEvent(): posx = 153.602
+serialEvent(): inString = {"sr":{"posx":184.900}}
+serialEvent(): posx = 184.9
+serialEvent(): inString = {"sr":{"posx":216.197}}
+serialEvent(): posx = 216.197
+serialEvent(): inString = {"sr":{"posx":247.494}}
+serialEvent(): posx = 247.494
+serialEvent(): inString = {"sr":{"posx":278.604}}
+serialEvent(): posx = 278.604
+serialEvent(): inString = {"sr":{"posx":310.088}}
+serialEvent(): posx = 310.088
+serialEvent(): inString = {"sr":{"posx":341.215,"vel":6897.97}}
+serialEvent(): posx = 341.215
+serialEvent(): inString = {"sr":{"posx":349.858,"vel":554.50}}
+serialEvent(): posx = 349.858
+serialEvent(): inString = {"sr":{"posx":335.984,"vel":2014.27}}
+serialEvent(): posx = 335.984
+serialEvent(): inString = {"sr":{"posx":335.000,"posz":9.481,"vel":11859.14}}
+serialEvent(): posx = 335.0
+serialEvent(): posz = 9.481
+serialEvent(): inString = {"sr":{"posz":116.404,"vel":29642.69}}
+serialEvent(): posz = 116.404
+serialEvent(): inString = {"sr":{"posz":179.822,"vel":805.63}}
+serialEvent(): posz = 179.822
+serialEvent(): inString = {"sr":{"posx":343.957,"posz":180.000,"vel":6897.96}}
+serialEvent(): posx = 343.957
+serialEvent(): posz = 180.0
+serialEvent(): inString = {"sr":{"posx":369.312,"vel":1695.81}}
+serialEvent(): posx = 369.312
+serialEvent(): inString = {"sr":{"posx":370.000,"posy":416005.188,"vel":5597.14,"dist":1}}
+serialEvent(): posx = 370.0
+serialEvent(): posy = 416005.2
+serialEvent(): inString = {"sr":{"posy":416035.812,"vel":7500.00}}
+serialEvent(): posy = 416035.8
+serialEvent(): inString = {"sr":{"posy":416067.125}}
+serialEvent(): posy = 416067.12
+serialEvent(): inString = {"sr":{"posy":416098.438}}
+serialEvent(): posy = 416098.44
+serialEvent(): inString = {"sr":{"posy":416129.750}}
+serialEvent(): posy = 416129.75
+serialEvent(): inString = {"sr":{"posy":416158.031,"vel":3378.45}}
+serialEvent(): posy = 416158.03
+serialEvent(): inString = {"sr":{"posy":416160.000,"posz":175.185,"vel":7866.47,"dist":0}}
+serialEvent(): posy = 416160.0
+serialEvent(): posz = 175.185
+serialEvent(): inString = {"sr":{"posz":77.857,"vel":30310.40}}
+serialEvent(): posz = 77.857
+serialEvent(): inString = {"sr":{"posz":0.906,"vel":2537.88}}
+serialEvent(): posz = 0.906
+serialEvent(): inString = {"sr":{"posx":364.106,"posz":0.000,"vel":5936.79}}
+serialEvent(): posx = 364.106
+serialEvent(): posz = 0.0
+serialEvent(): inString = {"sr":{"posx":333.269,"vel":7500.00}}
+serialEvent(): posx = 333.269
+serialEvent(): inString = {"sr":{"posx":301.972}}
+serialEvent(): posx = 301.972
+serialEvent(): inString = {"sr":{"posx":270.675}}
+serialEvent(): posx = 270.675
+serialEvent(): inString = {"sr":{"posx":239.377}}
+serialEvent(): posx = 239.377
+serialEvent(): inString = {"sr":{"posx":208.080}}
+serialEvent(): posx = 208.08
+serialEvent(): inString = {"sr":{"posx":176.783}}
+serialEvent(): posx = 176.783
+serialEvent(): inString = {"sr":{"posx":145.673}}
+serialEvent(): posx = 145.673
+serialEvent(): inString = {"sr":{"posx":114.189}}
+serialEvent(): posx = 114.189
+serialEvent(): inString = {"sr":{"posx":82.893}}
+serialEvent(): posx = 82.893
+serialEvent(): inString = {"sr":{"posx":51.597}}
+serialEvent(): posx = 51.597
+serialEvent(): inString = {"sr":{"posx":20.369,"vel":7203.02}}
+serialEvent(): posx = 20.369
+serialEvent(): inString = {"sr":{"posx":10.049,"vel":260.30}}
+serialEvent(): posx = 10.049
+serialEvent(): inString = {"sr":{"posx":23.494,"vel":2651.51}}
+serialEvent(): posx = 23.494
+serialEvent(): inString = {"sr":{"posx":25.000,"posz":6.776,"vel":9579.74}}
+serialEvent(): posx = 25.0
+serialEvent(): posz = 6.776
+serialEvent(): inString = {"sr":{"posz":108.938,"vel":30101.49}}
+serialEvent(): posz = 108.938
+serialEvent(): inString = {"sr":{"posz":179.540,"vel":1578.63}}
+serialEvent(): posz = 179.54
+serialEvent(): inString = {"sr":{"posy":416167.219,"posz":180.000,"vel":6418.66,"dist":1}}
+serialEvent(): posy = 416167.22
+serialEvent(): posz = 180.0
+serialEvent(): inString = {"sr":{"posy":416198.250,"vel":7500.00}}
+serialEvent(): posy = 416198.25
+serialEvent(): inString = {"sr":{"posy":416229.562}}
+serialEvent(): posy = 416229.56
+serialEvent(): inString = {"sr":{"posy":416260.875}}
+serialEvent(): posy = 416260.88
+serialEvent(): inString = {"sr":{"posy":416292.000}}
+serialEvent(): posy = 416292.0
+serialEvent(): inString = {"sr":{"posy":416318.938,"vel":2342.78}}
+serialEvent(): posy = 416318.94
+serialEvent(): inString = {"sr":{"line":10011,"posy":416320.000,"vel":0.00,"stat":3}}
+serialEvent(): posy = 416320.0
+serialEvent(): line = 10011
+
+##### Completed Iteration # 12  time: 14.341001secs  Total time: 172.27701secs  at Fri Jan 29 16:30:56 EST 2016
+
+
+
+
+##### Begin Iteration # 13  at Fri Jan 29 16:30:56 EST 2016
+
+193	1	Sending to tinyG: g90
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+194	2	Sending to tinyG: g0x-10
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+195	3	Sending to tinyG: g0z0
+serialEvent(): inString = {"r":{},"f":[1,0,5]}
+196	4	Sending to tinyG: g0x350
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+197	5	Sending to tinyG: g0x335
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+198	6	Sending to tinyG: g0z180
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+199	7	Sending to tinyG: g0x370
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+200	8	Sending to tinyG: g91
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+201	9	Sending to tinyG: g0y160
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+202	10	Sending to tinyG: g90
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+203	11	Sending to tinyG: g0z0
+serialEvent(): inString = {"sr":{"line":0,"posx":18.656,"vel":6064.77,"dist":0,"stat":5}}
+serialEvent(): posx = 18.656
+serialEvent(): line = 0
+serialEvent(): inString = {"r":{},"f":[1,0,5]}
+204	12	Sending to tinyG: g0x10
+serialEvent(): inString = {"r":{},"f":[1,0,6]}
+205	13	Sending to tinyG: g0x25
+serialEvent(): inString = {"r":{},"f":[1,0,6]}
+206	14	Sending to tinyG: g0z180
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+207	15	Sending to tinyG: g91
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+208	16	Sending to tinyG: g0y160
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+serialEvent(): inString = {"sr":{"posx":-8.418,"vel":2890.23}}
+serialEvent(): posx = -8.418
+Sending to tinyG: n10012 (end marker)
+serialEvent(): inString = {"r":{},"f":[1,0,20]}
+serialEvent(): inString = {"sr":{"posx":-10.000,"posz":173.698,"vel":9140.79}}
+serialEvent(): posx = -10.0
+serialEvent(): posz = 173.698
+serialEvent(): inString = {"sr":{"posz":72.567,"vel":30162.89}}
+serialEvent(): posz = 72.567
+serialEvent(): inString = {"sr":{"posz":0.541,"vel":1769.96}}
+serialEvent(): posz = 0.541
+serialEvent(): inString = {"sr":{"posx":-3.035,"posz":0.000,"vel":6305.91}}
+serialEvent(): posx = -3.035
+serialEvent(): posz = 0.0
+serialEvent(): inString = {"sr":{"posx":27.855,"vel":7500.00}}
+serialEvent(): posx = 27.855
+serialEvent(): inString = {"sr":{"posx":59.151}}
+serialEvent(): posx = 59.151
+serialEvent(): inString = {"sr":{"posx":90.260}}
+serialEvent(): posx = 90.26
+serialEvent(): inString = {"sr":{"posx":121.743}}
+serialEvent(): posx = 121.743
+serialEvent(): inString = {"sr":{"posx":153.040}}
+serialEvent(): posx = 153.04
+serialEvent(): inString = {"sr":{"posx":184.337}}
+serialEvent(): posx = 184.337
+serialEvent(): inString = {"sr":{"posx":215.635}}
+serialEvent(): posx = 215.635
+serialEvent(): inString = {"sr":{"posx":246.932}}
+serialEvent(): posx = 246.932
+serialEvent(): inString = {"sr":{"posx":278.042}}
+serialEvent(): posx = 278.042
+serialEvent(): inString = {"sr":{"posx":309.526}}
+serialEvent(): posx = 309.526
+serialEvent(): inString = {"sr":{"posx":340.695,"vel":7013.09}}
+serialEvent(): posx = 340.695
+serialEvent(): inString = {"sr":{"posx":349.897,"vel":443.29}}
+serialEvent(): posx = 349.897
+serialEvent(): inString = {"sr":{"posx":336.144,"vel":2205.64}}
+serialEvent(): posx = 336.144
+serialEvent(): inString = {"sr":{"posx":335.000,"posz":8.609,"vel":11162.47}}
+serialEvent(): posx = 335.0
+serialEvent(): posz = 8.609
+serialEvent(): inString = {"sr":{"posz":114.177,"vel":29808.49}}
+serialEvent(): posz = 114.177
+serialEvent(): inString = {"sr":{"posz":179.757,"vel":1005.95}}
+serialEvent(): posz = 179.757
+serialEvent(): inString = {"sr":{"posx":343.443,"posz":180.000,"vel":6769.42}}
+serialEvent(): posx = 343.443
+serialEvent(): posz = 180.0
+serialEvent(): inString = {"sr":{"posx":369.180,"vel":1902.86}}
+serialEvent(): posx = 369.18
+serialEvent(): inString = {"sr":{"posx":370.000,"posy":416324.812,"vel":5381.16,"dist":1}}
+serialEvent(): posx = 370.0
+serialEvent(): posy = 416324.8
+serialEvent(): inString = {"sr":{"posy":416355.250,"vel":7500.00}}
+serialEvent(): posy = 416355.25
+serialEvent(): inString = {"sr":{"posy":416386.562}}
+serialEvent(): posy = 416386.56
+serialEvent(): inString = {"sr":{"posy":416417.875}}
+serialEvent(): posy = 416417.88
+serialEvent(): inString = {"sr":{"posy":416449.188}}
+serialEvent(): posy = 416449.2
+serialEvent(): inString = {"sr":{"posy":416477.750,"vel":3625.95}}
+serialEvent(): posy = 416477.75
+serialEvent(): inString = {"sr":{"posy":416480.000,"posz":175.744,"vel":7255.98,"dist":0}}
+serialEvent(): posy = 416480.0
+serialEvent(): posz = 175.744
+serialEvent(): inString = {"sr":{"posz":80.130,"vel":30346.15}}
+serialEvent(): posz = 80.13
+serialEvent(): inString = {"sr":{"posz":1.106,"vel":2785.30}}
+serialEvent(): posz = 1.106
+serialEvent(): inString = {"sr":{"posx":364.541,"posz":0.000,"vel":5736.22}}
+serialEvent(): posx = 364.541
+serialEvent(): posz = 0.0
+serialEvent(): inString = {"sr":{"posx":333.831,"vel":7500.00}}
+serialEvent(): posx = 333.831
+serialEvent(): inString = {"sr":{"posx":302.534}}
+serialEvent(): posx = 302.534
+serialEvent(): inString = {"sr":{"posx":271.237}}
+serialEvent(): posx = 271.237
+serialEvent(): inString = {"sr":{"posx":239.940}}
+serialEvent(): posx = 239.94
+serialEvent(): inString = {"sr":{"posx":208.642}}
+serialEvent(): posx = 208.642
+serialEvent(): inString = {"sr":{"posx":177.533}}
+serialEvent(): posx = 177.533
+serialEvent(): inString = {"sr":{"posx":146.235}}
+serialEvent(): posx = 146.235
+serialEvent(): inString = {"sr":{"posx":114.751}}
+serialEvent(): posx = 114.751
+serialEvent(): inString = {"sr":{"posx":83.455}}
+serialEvent(): posx = 83.455
+serialEvent(): inString = {"sr":{"posx":52.159}}
+serialEvent(): posx = 52.159
+serialEvent(): inString = {"sr":{"posx":20.910,"vel":7278.20}}
+serialEvent(): posx = 20.91
+serialEvent(): inString = {"sr":{"posx":10.032,"vel":188.72}}
+serialEvent(): posx = 10.032
+serialEvent(): inString = {"sr":{"posx":23.292,"vel":2838.57}}
+serialEvent(): posx = 23.292
+serialEvent(): inString = {"sr":{"posx":25.000,"posz":6.074,"vel":8923.84}}
+serialEvent(): posx = 25.0
+serialEvent(): posz = 6.074
+serialEvent(): inString = {"sr":{"posz":106.679,"vel":30190.17}}
+serialEvent(): posz = 106.679
+serialEvent(): inString = {"sr":{"posz":179.415,"vel":1870.30}}
+serialEvent(): posz = 179.415
+serialEvent(): inString = {"sr":{"posy":416486.750,"posz":180.000,"vel":6247.54,"dist":1}}
+serialEvent(): posy = 416486.75
+serialEvent(): posz = 180.0
+serialEvent(): inString = {"sr":{"posy":416517.688,"vel":7500.00}}
+serialEvent(): posy = 416517.7
+serialEvent(): inString = {"sr":{"posy":416549.000}}
+serialEvent(): posy = 416549.0
+serialEvent(): inString = {"sr":{"posy":416580.312}}
+serialEvent(): posy = 416580.3
+serialEvent(): inString = {"sr":{"posy":416611.438}}
+serialEvent(): posy = 416611.44
+serialEvent(): inString = {"sr":{"posy":416638.750,"vel":2573.62}}
+serialEvent(): posy = 416638.75
+serialEvent(): inString = {"sr":{"line":10012,"posy":416640.000,"vel":0.00,"stat":3}}
+serialEvent(): posy = 416640.0
+serialEvent(): line = 10012
+
+##### Completed Iteration # 13  time: 14.349001secs  Total time: 186.62701secs  at Fri Jan 29 16:31:10 EST 2016
+
+
+
+
+##### Begin Iteration # 14  at Fri Jan 29 16:31:11 EST 2016
+
+209	1	Sending to tinyG: g90
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+210	2	Sending to tinyG: g0x-10
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+211	3	Sending to tinyG: g0z0
+serialEvent(): inString = {"r":{},"f":[1,0,5]}
+212	4	Sending to tinyG: g0x350
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+213	5	Sending to tinyG: g0x335
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+214	6	Sending to tinyG: g0z180
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+215	7	Sending to tinyG: g0x370
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+216	8	Sending to tinyG: g91
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+217	9	Sending to tinyG: g0y160
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+218	10	Sending to tinyG: g90
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+219	11	Sending to tinyG: g0z0
+serialEvent(): inString = {"sr":{"line":0,"posx":18.503,"vel":6126.95,"dist":0,"stat":5}}
+serialEvent(): posx = 18.503
+serialEvent(): line = 0
+serialEvent(): inString = {"r":{},"f":[1,0,5]}
+220	12	Sending to tinyG: g0x10
+serialEvent(): inString = {"r":{},"f":[1,0,6]}
+221	13	Sending to tinyG: g0x25
+serialEvent(): inString = {"r":{},"f":[1,0,6]}
+222	14	Sending to tinyG: g0z180
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+223	15	Sending to tinyG: g91
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+224	16	Sending to tinyG: g0y160
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+Sending to tinyG: n10013 (end marker)
+serialEvent(): inString = {"sr":{"posx":-8.488,"vel":2810.26}}
+serialEvent(): posx = -8.488
+serialEvent(): inString = {"r":{},"f":[1,0,20]}
+serialEvent(): inString = {"sr":{"posx":-10.000,"posz":173.698,"vel":9140.79}}
+serialEvent(): posx = -10.0
+serialEvent(): posz = 173.698
+serialEvent(): inString = {"sr":{"posz":72.567,"vel":30162.89}}
+serialEvent(): posz = 72.567
+serialEvent(): inString = {"sr":{"posz":0.541,"vel":1769.96}}
+serialEvent(): posz = 0.541
+serialEvent(): inString = {"sr":{"posx":-3.035,"posz":0.000,"vel":6305.91}}
+serialEvent(): posx = -3.035
+serialEvent(): posz = 0.0
+serialEvent(): inString = {"sr":{"posx":27.855,"vel":7500.00}}
+serialEvent(): posx = 27.855
+serialEvent(): inString = {"sr":{"posx":59.339}}
+serialEvent(): posx = 59.339
+serialEvent(): inString = {"sr":{"posx":90.635}}
+serialEvent(): posx = 90.635
+serialEvent(): inString = {"sr":{"posx":121.931}}
+serialEvent(): posx = 121.931
+serialEvent(): inString = {"sr":{"posx":153.228}}
+serialEvent(): posx = 153.228
+serialEvent(): inString = {"sr":{"posx":184.525}}
+serialEvent(): posx = 184.525
+serialEvent(): inString = {"sr":{"posx":215.635}}
+serialEvent(): posx = 215.635
+serialEvent(): inString = {"sr":{"posx":247.119}}
+serialEvent(): posx = 247.119
+serialEvent(): inString = {"sr":{"posx":278.416}}
+serialEvent(): posx = 278.416
+serialEvent(): inString = {"sr":{"posx":309.714}}
+serialEvent(): posx = 309.714
+serialEvent(): inString = {"sr":{"posx":340.870,"vel":6976.22}}
+serialEvent(): posx = 340.87
+serialEvent(): inString = {"sr":{"posx":349.885,"vel":478.93}}
+serialEvent(): posx = 349.885
+serialEvent(): inString = {"sr":{"posx":336.089,"vel":2205.64}}
+serialEvent(): posx = 336.089
+serialEvent(): inString = {"sr":{"posx":335.000,"posz":8.609,"vel":11162.47}}
+serialEvent(): posx = 335.0
+serialEvent(): posz = 8.609
+serialEvent(): inString = {"sr":{"posz":114.177,"vel":29808.49}}
+serialEvent(): posz = 114.177
+serialEvent(): inString = {"sr":{"posz":179.757,"vel":1005.95}}
+serialEvent(): posz = 179.757
+serialEvent(): inString = {"sr":{"posx":343.443,"posz":180.000,"vel":6769.42}}
+serialEvent(): posx = 343.443
+serialEvent(): posz = 180.0
+serialEvent(): inString = {"sr":{"posx":369.180,"vel":1902.86}}
+serialEvent(): posx = 369.18
+serialEvent(): inString = {"sr":{"posx":370.000,"posy":416644.688,"vel":5381.16,"dist":1}}
+serialEvent(): posx = 370.0
+serialEvent(): posy = 416644.7
+serialEvent(): inString = {"sr":{"posy":416675.250,"vel":7500.00}}
+serialEvent(): posy = 416675.25
+serialEvent(): inString = {"sr":{"posy":416706.562}}
+serialEvent(): posy = 416706.56
+serialEvent(): inString = {"sr":{"posy":416737.875}}
+serialEvent(): posy = 416737.88
+serialEvent(): inString = {"sr":{"posy":416769.188}}
+serialEvent(): posy = 416769.2
+serialEvent(): inString = {"sr":{"posy":416797.750,"vel":3625.95}}
+serialEvent(): posy = 416797.75
+serialEvent(): inString = {"sr":{"posy":416800.000,"posz":175.562,"vel":7255.98,"dist":0}}
+serialEvent(): posy = 416800.0
+serialEvent(): posz = 175.562
+serialEvent(): inString = {"sr":{"posz":80.130,"vel":30346.15}}
+serialEvent(): posz = 80.13
+serialEvent(): inString = {"sr":{"posz":1.036,"vel":2785.30}}
+serialEvent(): posz = 1.036
+serialEvent(): inString = {"sr":{"posx":364.398,"posz":0.000,"vel":5736.22}}
+serialEvent(): posx = 364.398
+serialEvent(): posz = 0.0
+serialEvent(): inString = {"sr":{"posx":334.019,"vel":7500.00}}
+serialEvent(): posx = 334.019
+serialEvent(): inString = {"sr":{"posx":302.534}}
+serialEvent(): posx = 302.534
+serialEvent(): inString = {"sr":{"posx":271.237}}
+serialEvent(): posx = 271.237
+serialEvent(): inString = {"sr":{"posx":239.940}}
+serialEvent(): posx = 239.94
+serialEvent(): inString = {"sr":{"posx":208.642}}
+serialEvent(): posx = 208.642
+serialEvent(): inString = {"sr":{"posx":177.345}}
+serialEvent(): posx = 177.345
+serialEvent(): inString = {"sr":{"posx":146.048}}
+serialEvent(): posx = 146.048
+serialEvent(): inString = {"sr":{"posx":114.939}}
+serialEvent(): posx = 114.939
+serialEvent(): inString = {"sr":{"posx":83.455}}
+serialEvent(): posx = 83.455
+serialEvent(): inString = {"sr":{"posx":52.159}}
+serialEvent(): posx = 52.159
+serialEvent(): inString = {"sr":{"posx":20.910,"vel":7278.20}}
+serialEvent(): posx = 20.91
+serialEvent(): inString = {"sr":{"posx":10.032,"vel":188.72}}
+serialEvent(): posx = 10.032
+serialEvent(): inString = {"sr":{"posx":23.361,"vel":2776.66}}
+serialEvent(): posx = 23.361
+serialEvent(): inString = {"sr":{"posx":25.000,"posz":6.302,"vel":9140.79}}
+serialEvent(): posx = 25.0
+serialEvent(): posz = 6.302
+serialEvent(): inString = {"sr":{"posz":107.433,"vel":30162.89}}
+serialEvent(): posz = 107.433
+serialEvent(): inString = {"sr":{"posz":179.459,"vel":1769.96}}
+serialEvent(): posz = 179.459
+serialEvent(): inString = {"sr":{"posy":416806.906,"posz":180.000,"vel":6305.91,"dist":1}}
+serialEvent(): posy = 416806.9
+serialEvent(): posz = 180.0
+serialEvent(): inString = {"sr":{"posy":416837.875,"vel":7500.00}}
+serialEvent(): posy = 416837.88
+serialEvent(): inString = {"sr":{"posy":416869.000}}
+serialEvent(): posy = 416869.0
+serialEvent(): inString = {"sr":{"posy":416900.500}}
+serialEvent(): posy = 416900.5
+serialEvent(): inString = {"sr":{"posy":416931.812}}
+serialEvent(): posy = 416931.8
+serialEvent(): inString = {"sr":{"posy":416958.812,"vel":2495.97}}
+serialEvent(): posy = 416958.8
+serialEvent(): inString = {"sr":{"line":10013,"posy":416960.000,"vel":0.00,"stat":3}}
+serialEvent(): posy = 416960.0
+serialEvent(): line = 10013
+
+##### Completed Iteration # 14  time: 14.392001secs  Total time: 201.02secs  at Fri Jan 29 16:31:25 EST 2016
+
+
+
+
+##### Begin Iteration # 15  at Fri Jan 29 16:31:25 EST 2016
+
+225	1	Sending to tinyG: g90
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+226	2	Sending to tinyG: g0x-10
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+227	3	Sending to tinyG: g0z0
+serialEvent(): inString = {"r":{},"f":[1,0,5]}
+228	4	Sending to tinyG: g0x350
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+229	5	Sending to tinyG: g0x335
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+230	6	Sending to tinyG: g0z180
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+231	7	Sending to tinyG: g0x370
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+232	8	Sending to tinyG: g91
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+233	9	Sending to tinyG: g0y160
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+234	10	Sending to tinyG: g90
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+235	11	Sending to tinyG: g0z0
+serialEvent(): inString = {"sr":{"line":0,"posx":18.349,"vel":6247.54,"dist":0,"stat":5}}
+serialEvent(): posx = 18.349
+serialEvent(): line = 0
+serialEvent(): inString = {"r":{},"f":[1,0,5]}
+236	12	Sending to tinyG: g0x10
+serialEvent(): inString = {"r":{},"f":[1,0,6]}
+237	13	Sending to tinyG: g0x25
+serialEvent(): inString = {"r":{},"f":[1,0,6]}
+238	14	Sending to tinyG: g0z180
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+239	15	Sending to tinyG: g91
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+240	16	Sending to tinyG: g0y160
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+serialEvent(): inString = {"sr":{"posx":-8.622,"vel":2651.91}}
+serialEvent(): posx = -8.622
+Sending to tinyG: n10014 (end marker)
+serialEvent(): inString = {"r":{},"f":[1,0,20]}
+serialEvent(): inString = {"sr":{"posx":-10.000,"posz":172.979,"vel":9801.60}}
+serialEvent(): posx = -10.0
+serialEvent(): posz = 172.979
+serialEvent(): inString = {"sr":{"posz":70.310,"vel":30067.24}}
+serialEvent(): posz = 70.31
+serialEvent(): inString = {"sr":{"posz":0.423,"vel":1487.62}}
+serialEvent(): posz = 0.423
+serialEvent(): inString = {"sr":{"posx":-2.554,"posz":0.000,"vel":6473.00}}
+serialEvent(): posx = -2.554
+serialEvent(): posz = 0.0
+serialEvent(): inString = {"sr":{"posx":28.417,"vel":7500.00}}
+serialEvent(): posx = 28.417
+serialEvent(): inString = {"sr":{"posx":59.713}}
+serialEvent(): posx = 59.713
+serialEvent(): inString = {"sr":{"posx":90.822}}
+serialEvent(): posx = 90.822
+serialEvent(): inString = {"sr":{"posx":122.305}}
+serialEvent(): posx = 122.305
+serialEvent(): inString = {"sr":{"posx":153.602}}
+serialEvent(): posx = 153.602
+serialEvent(): inString = {"sr":{"posx":184.900}}
+serialEvent(): posx = 184.9
+serialEvent(): inString = {"sr":{"posx":216.197}}
+serialEvent(): posx = 216.197
+serialEvent(): inString = {"sr":{"posx":247.494}}
+serialEvent(): posx = 247.494
+serialEvent(): inString = {"sr":{"posx":278.604}}
+serialEvent(): posx = 278.604
+serialEvent(): inString = {"sr":{"posx":309.901}}
+serialEvent(): posx = 309.901
+serialEvent(): inString = {"sr":{"posx":341.215,"vel":6897.97}}
+serialEvent(): posx = 341.215
+serialEvent(): inString = {"sr":{"posx":349.858,"vel":554.50}}
+serialEvent(): posx = 349.858
+serialEvent(): inString = {"sr":{"posx":335.984,"vel":2014.27}}
+serialEvent(): posx = 335.984
+serialEvent(): inString = {"sr":{"posx":335.000,"posz":9.481,"vel":11859.14}}
+serialEvent(): posx = 335.0
+serialEvent(): posz = 9.481
+serialEvent(): inString = {"sr":{"posz":116.404,"vel":29642.69}}
+serialEvent(): posz = 116.404
+serialEvent(): inString = {"sr":{"posz":179.822,"vel":805.63}}
+serialEvent(): posz = 179.822
+serialEvent(): inString = {"sr":{"posx":343.957,"posz":180.000,"vel":6897.96}}
+serialEvent(): posx = 343.957
+serialEvent(): posz = 180.0
+serialEvent(): inString = {"sr":{"posx":369.312,"vel":1695.81}}
+serialEvent(): posx = 369.312
+serialEvent(): inString = {"sr":{"posx":370.000,"posy":416965.188,"vel":5597.14,"dist":1}}
+serialEvent(): posx = 370.0
+serialEvent(): posy = 416965.2
+serialEvent(): inString = {"sr":{"posy":416995.812,"vel":7500.00}}
+serialEvent(): posy = 416995.8
+serialEvent(): inString = {"sr":{"posy":417027.125}}
+serialEvent(): posy = 417027.12
+serialEvent(): inString = {"sr":{"posy":417058.438}}
+serialEvent(): posy = 417058.44
+serialEvent(): inString = {"sr":{"posy":417089.750}}
+serialEvent(): posy = 417089.75
+serialEvent(): inString = {"sr":{"posy":417118.031,"vel":3378.45}}
+serialEvent(): posy = 417118.03
+serialEvent(): inString = {"sr":{"posy":417120.000,"posz":175.185,"vel":7866.47,"dist":0}}
+serialEvent(): posy = 417120.0
+serialEvent(): posz = 175.185
+serialEvent(): inString = {"sr":{"posz":77.857,"vel":30310.40}}
+serialEvent(): posz = 77.857
+serialEvent(): inString = {"sr":{"posz":0.906,"vel":2537.88}}
+serialEvent(): posz = 0.906
+serialEvent(): inString = {"sr":{"posx":364.106,"posz":0.000,"vel":5936.79}}
+serialEvent(): posx = 364.106
+serialEvent(): posz = 0.0
+serialEvent(): inString = {"sr":{"posx":333.269,"vel":7500.00}}
+serialEvent(): posx = 333.269
+serialEvent(): inString = {"sr":{"posx":301.972}}
+serialEvent(): posx = 301.972
+serialEvent(): inString = {"sr":{"posx":270.675}}
+serialEvent(): posx = 270.675
+serialEvent(): inString = {"sr":{"posx":239.377}}
+serialEvent(): posx = 239.377
+serialEvent(): inString = {"sr":{"posx":208.080}}
+serialEvent(): posx = 208.08
+serialEvent(): inString = {"sr":{"posx":176.783}}
+serialEvent(): posx = 176.783
+serialEvent(): inString = {"sr":{"posx":145.673}}
+serialEvent(): posx = 145.673
+serialEvent(): inString = {"sr":{"posx":114.189}}
+serialEvent(): posx = 114.189
+serialEvent(): inString = {"sr":{"posx":82.893}}
+serialEvent(): posx = 82.893
+serialEvent(): inString = {"sr":{"posx":51.597}}
+serialEvent(): posx = 51.597
+serialEvent(): inString = {"sr":{"posx":20.369,"vel":7203.02}}
+serialEvent(): posx = 20.369
+serialEvent(): inString = {"sr":{"posx":10.049,"vel":260.30}}
+serialEvent(): posx = 10.049
+serialEvent(): inString = {"sr":{"posx":23.494,"vel":2651.51}}
+serialEvent(): posx = 23.494
+serialEvent(): inString = {"sr":{"posx":25.000,"posz":6.776,"vel":9579.74}}
+serialEvent(): posx = 25.0
+serialEvent(): posz = 6.776
+serialEvent(): inString = {"sr":{"posz":108.938,"vel":30101.49}}
+serialEvent(): posz = 108.938
+serialEvent(): inString = {"sr":{"posz":179.540,"vel":1578.63}}
+serialEvent(): posz = 179.54
+serialEvent(): inString = {"sr":{"posy":417127.219,"posz":180.000,"vel":6418.66,"dist":1}}
+serialEvent(): posy = 417127.22
+serialEvent(): posz = 180.0
+serialEvent(): inString = {"sr":{"posy":417158.250,"vel":7500.00}}
+serialEvent(): posy = 417158.25
+serialEvent(): inString = {"sr":{"posy":417189.562}}
+serialEvent(): posy = 417189.56
+serialEvent(): inString = {"sr":{"posy":417220.875}}
+serialEvent(): posy = 417220.88
+serialEvent(): inString = {"sr":{"posy":417252.000}}
+serialEvent(): posy = 417252.0
+serialEvent(): inString = {"sr":{"posy":417278.938,"vel":2342.78}}
+serialEvent(): posy = 417278.94
+serialEvent(): inString = {"sr":{"line":10014,"posy":417280.000,"vel":0.00,"stat":3}}
+serialEvent(): posy = 417280.0
+serialEvent(): line = 10014
+
+##### Completed Iteration # 15  time: 14.353001secs  Total time: 215.37302secs  at Fri Jan 29 16:31:39 EST 2016
+
+
+
+
+##### Begin Iteration # 16  at Fri Jan 29 16:31:39 EST 2016
+
+241	1	Sending to tinyG: g90
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+242	2	Sending to tinyG: g0x-10
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+243	3	Sending to tinyG: g0z0
+serialEvent(): inString = {"r":{},"f":[1,0,5]}
+244	4	Sending to tinyG: g0x350
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+245	5	Sending to tinyG: g0x335
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+246	6	Sending to tinyG: g0z180
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+247	7	Sending to tinyG: g0x370
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+248	8	Sending to tinyG: g91
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+249	9	Sending to tinyG: g0y160
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+250	10	Sending to tinyG: g90
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+251	11	Sending to tinyG: g0z0
+serialEvent(): inString = {"sr":{"line":0,"posx":18.808,"vel":6064.77,"dist":0,"stat":5}}
+serialEvent(): posx = 18.808
+serialEvent(): line = 0
+serialEvent(): inString = {"r":{},"f":[1,0,5]}
+252	12	Sending to tinyG: g0x10
+serialEvent(): inString = {"r":{},"f":[1,0,6]}
+253	13	Sending to tinyG: g0x25
+serialEvent(): inString = {"r":{},"f":[1,0,6]}
+254	14	Sending to tinyG: g0z180
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+255	15	Sending to tinyG: g91
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+256	16	Sending to tinyG: g0y160
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+serialEvent(): inString = {"sr":{"posx":-8.418,"vel":2890.23}}
+serialEvent(): posx = -8.418
+Sending to tinyG: n10015 (end marker)
+serialEvent(): inString = {"r":{},"f":[1,0,20]}
+serialEvent(): inString = {"sr":{"posx":-10.000,"posz":173.698,"vel":9140.79}}
+serialEvent(): posx = -10.0
+serialEvent(): posz = 173.698
+serialEvent(): inString = {"sr":{"posz":72.567,"vel":30162.89}}
+serialEvent(): posz = 72.567
+serialEvent(): inString = {"sr":{"posz":0.541,"vel":1769.96}}
+serialEvent(): posz = 0.541
+serialEvent(): inString = {"sr":{"posx":-3.035,"posz":0.000,"vel":6305.91}}
+serialEvent(): posx = -3.035
+serialEvent(): posz = 0.0
+serialEvent(): inString = {"sr":{"posx":27.855,"vel":7500.00}}
+serialEvent(): posx = 27.855
+serialEvent(): inString = {"sr":{"posx":58.964}}
+serialEvent(): posx = 58.964
+serialEvent(): inString = {"sr":{"posx":90.260}}
+serialEvent(): posx = 90.26
+serialEvent(): inString = {"sr":{"posx":121.743}}
+serialEvent(): posx = 121.743
+serialEvent(): inString = {"sr":{"posx":153.040}}
+serialEvent(): posx = 153.04
+serialEvent(): inString = {"sr":{"posx":184.337}}
+serialEvent(): posx = 184.337
+serialEvent(): inString = {"sr":{"posx":215.635}}
+serialEvent(): posx = 215.635
+serialEvent(): inString = {"sr":{"posx":246.932}}
+serialEvent(): posx = 246.932
+serialEvent(): inString = {"sr":{"posx":278.042}}
+serialEvent(): posx = 278.042
+serialEvent(): inString = {"sr":{"posx":309.526}}
+serialEvent(): posx = 309.526
+serialEvent(): inString = {"sr":{"posx":340.695,"vel":7013.09}}
+serialEvent(): posx = 340.695
+serialEvent(): inString = {"sr":{"posx":349.897,"vel":443.29}}
+serialEvent(): posx = 349.897
+serialEvent(): inString = {"sr":{"posx":336.144,"vel":2205.64}}
+serialEvent(): posx = 336.144
+serialEvent(): inString = {"sr":{"posx":335.000,"posz":8.609,"vel":11162.47}}
+serialEvent(): posx = 335.0
+serialEvent(): posz = 8.609
+serialEvent(): inString = {"sr":{"posz":114.177,"vel":29808.49}}
+serialEvent(): posz = 114.177
+serialEvent(): inString = {"sr":{"posz":179.757,"vel":1005.95}}
+serialEvent(): posz = 179.757
+serialEvent(): inString = {"sr":{"posx":343.443,"posz":180.000,"vel":6769.42}}
+serialEvent(): posx = 343.443
+serialEvent(): posz = 180.0
+serialEvent(): inString = {"sr":{"posx":369.180,"vel":1902.86}}
+serialEvent(): posx = 369.18
+serialEvent(): inString = {"sr":{"posx":370.000,"posy":417284.812,"vel":5381.16,"dist":1}}
+serialEvent(): posx = 370.0
+serialEvent(): posy = 417284.8
+serialEvent(): inString = {"sr":{"posy":417315.250,"vel":7500.00}}
+serialEvent(): posy = 417315.25
+serialEvent(): inString = {"sr":{"posy":417346.562}}
+serialEvent(): posy = 417346.56
+serialEvent(): inString = {"sr":{"posy":417377.875}}
+serialEvent(): posy = 417377.88
+serialEvent(): inString = {"sr":{"posy":417409.188}}
+serialEvent(): posy = 417409.2
+serialEvent(): inString = {"sr":{"posy":417437.656,"vel":3708.64}}
+serialEvent(): posy = 417437.66
+serialEvent(): inString = {"sr":{"posy":417440.000,"posz":175.562,"vel":7255.98,"dist":0}}
+serialEvent(): posy = 417440.0
+serialEvent(): posz = 175.562
+serialEvent(): inString = {"sr":{"posz":80.130,"vel":30335.81}}
+serialEvent(): posz = 80.13
+serialEvent(): inString = {"sr":{"posz":1.106,"vel":2913.64}}
+serialEvent(): posz = 1.106
+serialEvent(): inString = {"sr":{"posx":364.541,"posz":0.000,"vel":5736.22}}
+serialEvent(): posx = 364.541
+serialEvent(): posz = 0.0
+serialEvent(): inString = {"sr":{"posx":333.831,"vel":7500.00}}
+serialEvent(): posx = 333.831
+serialEvent(): inString = {"sr":{"posx":302.534}}
+serialEvent(): posx = 302.534
+serialEvent(): inString = {"sr":{"posx":271.237}}
+serialEvent(): posx = 271.237
+serialEvent(): inString = {"sr":{"posx":239.940}}
+serialEvent(): posx = 239.94
+serialEvent(): inString = {"sr":{"posx":208.642}}
+serialEvent(): posx = 208.642
+serialEvent(): inString = {"sr":{"posx":177.533}}
+serialEvent(): posx = 177.533
+serialEvent(): inString = {"sr":{"posx":146.048}}
+serialEvent(): posx = 146.048
+serialEvent(): inString = {"sr":{"posx":114.751}}
+serialEvent(): posx = 114.751
+serialEvent(): inString = {"sr":{"posx":83.455}}
+serialEvent(): posx = 83.455
+serialEvent(): inString = {"sr":{"posx":52.159}}
+serialEvent(): posx = 52.159
+serialEvent(): inString = {"sr":{"posx":20.910,"vel":7278.20}}
+serialEvent(): posx = 20.91
+serialEvent(): inString = {"sr":{"posx":10.032,"vel":188.72}}
+serialEvent(): posx = 10.032
+serialEvent(): inString = {"sr":{"posx":23.292,"vel":2838.57}}
+serialEvent(): posx = 23.292
+serialEvent(): inString = {"sr":{"posx":25.000,"posz":6.074,"vel":8923.84}}
+serialEvent(): posx = 25.0
+serialEvent(): posz = 6.074
+serialEvent(): inString = {"sr":{"posz":106.679,"vel":30190.17}}
+serialEvent(): posz = 106.679
+serialEvent(): inString = {"sr":{"posz":179.415,"vel":1870.30}}
+serialEvent(): posz = 179.415
+serialEvent(): inString = {"sr":{"posy":417446.750,"posz":180.000,"vel":6247.54,"dist":1}}
+serialEvent(): posy = 417446.75
+serialEvent(): posz = 180.0
+serialEvent(): inString = {"sr":{"posy":417477.688,"vel":7500.00}}
+serialEvent(): posy = 417477.7
+serialEvent(): inString = {"sr":{"posy":417509.000}}
+serialEvent(): posy = 417509.0
+serialEvent(): inString = {"sr":{"posy":417540.125}}
+serialEvent(): posy = 417540.12
+serialEvent(): inString = {"sr":{"posy":417571.438}}
+serialEvent(): posy = 417571.44
+serialEvent(): inString = {"sr":{"posy":417598.750,"vel":2573.62}}
+serialEvent(): posy = 417598.75
+serialEvent(): inString = {"sr":{"line":10015,"posy":417600.000,"vel":0.00,"stat":3}}
+serialEvent(): posy = 417600.0
+serialEvent(): line = 10015
+
+##### Completed Iteration # 16  time: 14.3550005secs  Total time: 229.72801secs  at Fri Jan 29 16:31:54 EST 2016
+
+
+
+
+##### Begin Iteration # 17  at Fri Jan 29 16:31:54 EST 2016
+
+257	1	Sending to tinyG: g90
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+258	2	Sending to tinyG: g0x-10
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+259	3	Sending to tinyG: g0z0
+serialEvent(): inString = {"r":{},"f":[1,0,5]}
+260	4	Sending to tinyG: g0x350
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+261	5	Sending to tinyG: g0x335
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+262	6	Sending to tinyG: g0z180
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+263	7	Sending to tinyG: g0x370
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+264	8	Sending to tinyG: g91
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+265	9	Sending to tinyG: g0y160
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+266	10	Sending to tinyG: g90
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+267	11	Sending to tinyG: g0z0
+serialEvent(): inString = {"sr":{"line":0,"posx":18.349,"vel":6247.54,"dist":0,"stat":5}}
+serialEvent(): posx = 18.349
+serialEvent(): line = 0
+serialEvent(): inString = {"r":{},"f":[1,0,5]}
+268	12	Sending to tinyG: g0x10
+serialEvent(): inString = {"r":{},"f":[1,0,6]}
+269	13	Sending to tinyG: g0x25
+serialEvent(): inString = {"r":{},"f":[1,0,6]}
+270	14	Sending to tinyG: g0z180
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+271	15	Sending to tinyG: g91
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+272	16	Sending to tinyG: g0y160
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+serialEvent(): inString = {"sr":{"posx":-8.622,"vel":2651.91}}
+serialEvent(): posx = -8.622
+Sending to tinyG: n10016 (end marker)
+serialEvent(): inString = {"r":{},"f":[1,0,20]}
+serialEvent(): inString = {"sr":{"posx":-10.000,"posz":172.979,"vel":9801.60}}
+serialEvent(): posx = -10.0
+serialEvent(): posz = 172.979
+serialEvent(): inString = {"sr":{"posz":70.310,"vel":30067.24}}
+serialEvent(): posz = 70.31
+serialEvent(): inString = {"sr":{"posz":0.423,"vel":1487.62}}
+serialEvent(): posz = 0.423
+serialEvent(): inString = {"sr":{"posx":-2.554,"posz":0.000,"vel":6473.00}}
+serialEvent(): posx = -2.554
+serialEvent(): posz = 0.0
+serialEvent(): inString = {"sr":{"posx":28.417,"vel":7500.00}}
+serialEvent(): posx = 28.417
+serialEvent(): inString = {"sr":{"posx":59.713}}
+serialEvent(): posx = 59.713
+serialEvent(): inString = {"sr":{"posx":90.822}}
+serialEvent(): posx = 90.822
+serialEvent(): inString = {"sr":{"posx":122.305}}
+serialEvent(): posx = 122.305
+serialEvent(): inString = {"sr":{"posx":153.602}}
+serialEvent(): posx = 153.602
+serialEvent(): inString = {"sr":{"posx":184.900}}
+serialEvent(): posx = 184.9
+serialEvent(): inString = {"sr":{"posx":216.197}}
+serialEvent(): posx = 216.197
+serialEvent(): inString = {"sr":{"posx":247.494}}
+serialEvent(): posx = 247.494
+serialEvent(): inString = {"sr":{"posx":278.604}}
+serialEvent(): posx = 278.604
+serialEvent(): inString = {"sr":{"posx":310.088}}
+serialEvent(): posx = 310.088
+serialEvent(): inString = {"sr":{"posx":341.215,"vel":6897.97}}
+serialEvent(): posx = 341.215
+serialEvent(): inString = {"sr":{"posx":349.858,"vel":554.50}}
+serialEvent(): posx = 349.858
+serialEvent(): inString = {"sr":{"posx":335.984,"vel":2014.27}}
+serialEvent(): posx = 335.984
+serialEvent(): inString = {"sr":{"posx":335.000,"posz":9.481,"vel":11859.14}}
+serialEvent(): posx = 335.0
+serialEvent(): posz = 9.481
+serialEvent(): inString = {"sr":{"posz":116.404,"vel":29642.69}}
+serialEvent(): posz = 116.404
+serialEvent(): inString = {"sr":{"posz":179.822,"vel":805.63}}
+serialEvent(): posz = 179.822
+serialEvent(): inString = {"sr":{"posx":343.957,"posz":180.000,"vel":6897.96}}
+serialEvent(): posx = 343.957
+serialEvent(): posz = 180.0
+serialEvent(): inString = {"sr":{"posx":369.312,"vel":1695.81}}
+serialEvent(): posx = 369.312
+serialEvent(): inString = {"sr":{"posx":370.000,"posy":417605.188,"vel":5597.14,"dist":1}}
+serialEvent(): posx = 370.0
+serialEvent(): posy = 417605.2
+serialEvent(): inString = {"sr":{"posy":417635.812,"vel":7500.00}}
+serialEvent(): posy = 417635.8
+serialEvent(): inString = {"sr":{"posy":417667.125}}
+serialEvent(): posy = 417667.12
+serialEvent(): inString = {"sr":{"posy":417698.438}}
+serialEvent(): posy = 417698.44
+serialEvent(): inString = {"sr":{"posy":417729.750}}
+serialEvent(): posy = 417729.75
+serialEvent(): inString = {"sr":{"posy":417758.031,"vel":3378.45}}
+serialEvent(): posy = 417758.03
+serialEvent(): inString = {"sr":{"posy":417760.000,"posz":175.185,"vel":7660.87,"dist":0}}
+serialEvent(): posy = 417760.0
+serialEvent(): posz = 175.185
+serialEvent(): inString = {"sr":{"posz":77.857,"vel":30310.40}}
+serialEvent(): posz = 77.857
+serialEvent(): inString = {"sr":{"posz":0.906,"vel":2537.88}}
+serialEvent(): posz = 0.906
+serialEvent(): inString = {"sr":{"posx":364.106,"posz":0.000,"vel":5871.05}}
+serialEvent(): posx = 364.106
+serialEvent(): posz = 0.0
+serialEvent(): inString = {"sr":{"posx":333.269,"vel":7500.00}}
+serialEvent(): posx = 333.269
+serialEvent(): inString = {"sr":{"posx":301.972}}
+serialEvent(): posx = 301.972
+serialEvent(): inString = {"sr":{"posx":270.675}}
+serialEvent(): posx = 270.675
+serialEvent(): inString = {"sr":{"posx":239.377}}
+serialEvent(): posx = 239.377
+serialEvent(): inString = {"sr":{"posx":208.080}}
+serialEvent(): posx = 208.08
+serialEvent(): inString = {"sr":{"posx":176.783}}
+serialEvent(): posx = 176.783
+serialEvent(): inString = {"sr":{"posx":145.673}}
+serialEvent(): posx = 145.673
+serialEvent(): inString = {"sr":{"posx":114.189}}
+serialEvent(): posx = 114.189
+serialEvent(): inString = {"sr":{"posx":82.893}}
+serialEvent(): posx = 82.893
+serialEvent(): inString = {"sr":{"posx":51.597}}
+serialEvent(): posx = 51.597
+serialEvent(): inString = {"sr":{"posx":20.369,"vel":7203.02}}
+serialEvent(): posx = 20.369
+serialEvent(): inString = {"sr":{"posx":10.049,"vel":260.30}}
+serialEvent(): posx = 10.049
+serialEvent(): inString = {"sr":{"posx":23.494,"vel":2651.51}}
+serialEvent(): posx = 23.494
+serialEvent(): inString = {"sr":{"posx":25.000,"posz":6.776,"vel":9579.74}}
+serialEvent(): posx = 25.0
+serialEvent(): posz = 6.776
+serialEvent(): inString = {"sr":{"posz":108.938,"vel":30101.49}}
+serialEvent(): posz = 108.938
+serialEvent(): inString = {"sr":{"posz":179.540,"vel":1578.63}}
+serialEvent(): posz = 179.54
+serialEvent(): inString = {"sr":{"posy":417767.219,"posz":180.000,"vel":6418.66,"dist":1}}
+serialEvent(): posy = 417767.22
+serialEvent(): posz = 180.0
+serialEvent(): inString = {"sr":{"posy":417798.250,"vel":7500.00}}
+serialEvent(): posy = 417798.25
+serialEvent(): inString = {"sr":{"posy":417829.562}}
+serialEvent(): posy = 417829.56
+serialEvent(): inString = {"sr":{"posy":417860.875}}
+serialEvent(): posy = 417860.88
+serialEvent(): inString = {"sr":{"posy":417892.000}}
+serialEvent(): posy = 417892.0
+serialEvent(): inString = {"sr":{"posy":417918.938,"vel":2342.78}}
+serialEvent(): posy = 417918.94
+serialEvent(): inString = {"sr":{"line":10016,"posy":417920.000,"vel":0.00,"stat":3}}
+serialEvent(): posy = 417920.0
+serialEvent(): line = 10016
+
+##### Completed Iteration # 17  time: 14.344001secs  Total time: 244.072secs  at Fri Jan 29 16:32:08 EST 2016
+
+
+
+
+##### Begin Iteration # 18  at Fri Jan 29 16:32:08 EST 2016
+
+273	1	Sending to tinyG: g90
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+274	2	Sending to tinyG: g0x-10
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+275	3	Sending to tinyG: g0z0
+serialEvent(): inString = {"r":{},"f":[1,0,5]}
+276	4	Sending to tinyG: g0x350
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+277	5	Sending to tinyG: g0x335
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+278	6	Sending to tinyG: g0z180
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+279	7	Sending to tinyG: g0x370
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+280	8	Sending to tinyG: g91
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+281	9	Sending to tinyG: g0y160
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+282	10	Sending to tinyG: g90
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+283	11	Sending to tinyG: g0z0
+serialEvent(): inString = {"sr":{"line":0,"posx":18.656,"vel":6064.77,"dist":0,"stat":5}}
+serialEvent(): posx = 18.656
+serialEvent(): line = 0
+serialEvent(): inString = {"r":{},"f":[1,0,5]}
+284	12	Sending to tinyG: g0x10
+serialEvent(): inString = {"r":{},"f":[1,0,6]}
+285	13	Sending to tinyG: g0x25
+serialEvent(): inString = {"r":{},"f":[1,0,6]}
+286	14	Sending to tinyG: g0z180
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+287	15	Sending to tinyG: g91
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+288	16	Sending to tinyG: g0y160
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+Sending to tinyG: n10017 (end marker)
+serialEvent(): inString = {"sr":{"posx":-8.418,"vel":2890.23}}
+serialEvent(): posx = -8.418
+serialEvent(): inString = {"r":{},"f":[1,0,20]}
+serialEvent(): inString = {"sr":{"posx":-10.000,"posz":173.698,"vel":9140.79}}
+serialEvent(): posx = -10.0
+serialEvent(): posz = 173.698
+serialEvent(): inString = {"sr":{"posz":72.567,"vel":30162.89}}
+serialEvent(): posz = 72.567
+serialEvent(): inString = {"sr":{"posz":0.541,"vel":1769.96}}
+serialEvent(): posz = 0.541
+serialEvent(): inString = {"sr":{"posx":-3.035,"posz":0.000,"vel":6305.91}}
+serialEvent(): posx = -3.035
+serialEvent(): posz = 0.0
+serialEvent(): inString = {"sr":{"posx":27.855,"vel":7500.00}}
+serialEvent(): posx = 27.855
+serialEvent(): inString = {"sr":{"posx":59.151}}
+serialEvent(): posx = 59.151
+serialEvent(): inString = {"sr":{"posx":90.447}}
+serialEvent(): posx = 90.447
+serialEvent(): inString = {"sr":{"posx":121.556}}
+serialEvent(): posx = 121.556
+serialEvent(): inString = {"sr":{"posx":153.040}}
+serialEvent(): posx = 153.04
+serialEvent(): inString = {"sr":{"posx":184.337}}
+serialEvent(): posx = 184.337
+serialEvent(): inString = {"sr":{"posx":215.635}}
+serialEvent(): posx = 215.635
+serialEvent(): inString = {"sr":{"posx":246.932}}
+serialEvent(): posx = 246.932
+serialEvent(): inString = {"sr":{"posx":278.229}}
+serialEvent(): posx = 278.229
+serialEvent(): inString = {"sr":{"posx":309.339}}
+serialEvent(): posx = 309.339
+serialEvent(): inString = {"sr":{"posx":340.695,"vel":7013.09}}
+serialEvent(): posx = 340.695
+serialEvent(): inString = {"sr":{"posx":349.897,"vel":443.29}}
+serialEvent(): posx = 349.897
+serialEvent(): inString = {"sr":{"posx":336.144,"vel":2269.63}}
+serialEvent(): posx = 336.144
+serialEvent(): inString = {"sr":{"posx":335.000,"posz":8.609,"vel":11162.47}}
+serialEvent(): posx = 335.0
+serialEvent(): posz = 8.609
+serialEvent(): inString = {"sr":{"posz":114.177,"vel":29808.49}}
+serialEvent(): posz = 114.177
+serialEvent(): inString = {"sr":{"posz":179.757,"vel":1005.95}}
+serialEvent(): posz = 179.757
+serialEvent(): inString = {"sr":{"posx":343.443,"posz":180.000,"vel":6769.42}}
+serialEvent(): posx = 343.443
+serialEvent(): posz = 180.0
+serialEvent(): inString = {"sr":{"posx":369.180,"vel":1902.86}}
+serialEvent(): posx = 369.18
+serialEvent(): inString = {"sr":{"posx":370.000,"posy":417924.688,"vel":5381.16,"dist":1}}
+serialEvent(): posx = 370.0
+serialEvent(): posy = 417924.7
+serialEvent(): inString = {"sr":{"posy":417955.250,"vel":7500.00}}
+serialEvent(): posy = 417955.25
+serialEvent(): inString = {"sr":{"posy":417986.562}}
+serialEvent(): posy = 417986.56
+serialEvent(): inString = {"sr":{"posy":418017.875}}
+serialEvent(): posy = 418017.88
+serialEvent(): inString = {"sr":{"posy":418049.188}}
+serialEvent(): posy = 418049.2
+serialEvent(): inString = {"sr":{"posy":418077.750,"vel":3625.95}}
+serialEvent(): posy = 418077.75
+serialEvent(): inString = {"sr":{"posy":418080.000,"posz":175.562,"vel":7255.98,"dist":0}}
+serialEvent(): posy = 418080.0
+serialEvent(): posz = 175.562
+serialEvent(): inString = {"sr":{"posz":80.130,"vel":30346.15}}
+serialEvent(): posz = 80.13
+serialEvent(): inString = {"sr":{"posz":1.106,"vel":2913.64}}
+serialEvent(): posz = 1.106
+serialEvent(): inString = {"sr":{"posx":364.398,"posz":0.000,"vel":5736.22}}
+serialEvent(): posx = 364.398
+serialEvent(): posz = 0.0
+serialEvent(): inString = {"sr":{"posx":334.019,"vel":7500.00}}
+serialEvent(): posx = 334.019
+serialEvent(): inString = {"sr":{"posx":302.534}}
+serialEvent(): posx = 302.534
+serialEvent(): inString = {"sr":{"posx":271.237}}
+serialEvent(): posx = 271.237
+serialEvent(): inString = {"sr":{"posx":239.940}}
+serialEvent(): posx = 239.94
+serialEvent(): inString = {"sr":{"posx":208.642}}
+serialEvent(): posx = 208.642
+serialEvent(): inString = {"sr":{"posx":177.345}}
+serialEvent(): posx = 177.345
+serialEvent(): inString = {"sr":{"posx":146.048}}
+serialEvent(): posx = 146.048
+serialEvent(): inString = {"sr":{"posx":114.939}}
+serialEvent(): posx = 114.939
+serialEvent(): inString = {"sr":{"posx":83.455}}
+serialEvent(): posx = 83.455
+serialEvent(): inString = {"sr":{"posx":52.159}}
+serialEvent(): posx = 52.159
+serialEvent(): inString = {"sr":{"posx":20.910,"vel":7278.20}}
+serialEvent(): posx = 20.91
+serialEvent(): inString = {"sr":{"posx":10.032,"vel":188.72}}
+serialEvent(): posx = 10.032
+serialEvent(): inString = {"sr":{"posx":23.292,"vel":2838.57}}
+serialEvent(): posx = 23.292
+serialEvent(): inString = {"sr":{"posx":25.000,"posz":6.074,"vel":8923.84}}
+serialEvent(): posx = 25.0
+serialEvent(): posz = 6.074
+serialEvent(): inString = {"sr":{"posz":106.679,"vel":30190.17}}
+serialEvent(): posz = 106.679
+serialEvent(): inString = {"sr":{"posz":179.415,"vel":1870.30}}
+serialEvent(): posz = 179.415
+serialEvent(): inString = {"sr":{"posy":418086.750,"posz":180.000,"vel":6247.54,"dist":1}}
+serialEvent(): posy = 418086.75
+serialEvent(): posz = 180.0
+serialEvent(): inString = {"sr":{"posy":418117.688,"vel":7500.00}}
+serialEvent(): posy = 418117.7
+serialEvent(): inString = {"sr":{"posy":418149.000}}
+serialEvent(): posy = 418149.0
+serialEvent(): inString = {"sr":{"posy":418180.312}}
+serialEvent(): posy = 418180.3
+serialEvent(): inString = {"sr":{"posy":418211.625}}
+serialEvent(): posy = 418211.62
+serialEvent(): inString = {"sr":{"posy":418238.688,"vel":2573.62}}
+serialEvent(): posy = 418238.7
+serialEvent(): inString = {"sr":{"line":10017,"posy":418240.000,"vel":0.00,"stat":3}}
+serialEvent(): posy = 418240.0
+serialEvent(): line = 10017
+
+##### Completed Iteration # 18  time: 14.339001secs  Total time: 258.411secs  at Fri Jan 29 16:32:22 EST 2016
+
+
+
+
+##### Begin Iteration # 19  at Fri Jan 29 16:32:22 EST 2016
+
+289	1	Sending to tinyG: g90
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+290	2	Sending to tinyG: g0x-10
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+291	3	Sending to tinyG: g0z0
+serialEvent(): inString = {"r":{},"f":[1,0,5]}
+292	4	Sending to tinyG: g0x350
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+293	5	Sending to tinyG: g0x335
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+294	6	Sending to tinyG: g0z180
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+295	7	Sending to tinyG: g0x370
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+296	8	Sending to tinyG: g91
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+297	9	Sending to tinyG: g0y160
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+298	10	Sending to tinyG: g90
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+299	11	Sending to tinyG: g0z0
+serialEvent(): inString = {"sr":{"line":0,"posx":18.349,"vel":6247.54,"dist":0,"stat":5}}
+serialEvent(): posx = 18.349
+serialEvent(): line = 0
+serialEvent(): inString = {"r":{},"f":[1,0,5]}
+300	12	Sending to tinyG: g0x10
+serialEvent(): inString = {"r":{},"f":[1,0,6]}
+301	13	Sending to tinyG: g0x25
+serialEvent(): inString = {"r":{},"f":[1,0,6]}
+302	14	Sending to tinyG: g0z180
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+303	15	Sending to tinyG: g91
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+304	16	Sending to tinyG: g0y160
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+Sending to tinyG: n10018 (end marker)
+serialEvent(): inString = {"sr":{"posx":-8.622,"vel":2651.91}}
+serialEvent(): posx = -8.622
+serialEvent(): inString = {"r":{},"f":[1,0,20]}
+serialEvent(): inString = {"sr":{"posx":-10.000,"posz":172.979,"vel":9801.60}}
+serialEvent(): posx = -10.0
+serialEvent(): posz = 172.979
+serialEvent(): inString = {"sr":{"posz":70.310,"vel":30067.24}}
+serialEvent(): posz = 70.31
+serialEvent(): inString = {"sr":{"posz":0.423,"vel":1487.62}}
+serialEvent(): posz = 0.423
+serialEvent(): inString = {"sr":{"posx":-2.554,"posz":0.000,"vel":6473.00}}
+serialEvent(): posx = -2.554
+serialEvent(): posz = 0.0
+serialEvent(): inString = {"sr":{"posx":28.417,"vel":7500.00}}
+serialEvent(): posx = 28.417
+serialEvent(): inString = {"sr":{"posx":59.713}}
+serialEvent(): posx = 59.713
+serialEvent(): inString = {"sr":{"posx":90.822}}
+serialEvent(): posx = 90.822
+serialEvent(): inString = {"sr":{"posx":122.305}}
+serialEvent(): posx = 122.305
+serialEvent(): inString = {"sr":{"posx":153.602}}
+serialEvent(): posx = 153.602
+serialEvent(): inString = {"sr":{"posx":184.900}}
+serialEvent(): posx = 184.9
+serialEvent(): inString = {"sr":{"posx":216.197}}
+serialEvent(): posx = 216.197
+serialEvent(): inString = {"sr":{"posx":247.494}}
+serialEvent(): posx = 247.494
+serialEvent(): inString = {"sr":{"posx":278.604}}
+serialEvent(): posx = 278.604
+serialEvent(): inString = {"sr":{"posx":309.901}}
+serialEvent(): posx = 309.901
+serialEvent(): inString = {"sr":{"posx":341.215,"vel":6897.97}}
+serialEvent(): posx = 341.215
+serialEvent(): inString = {"sr":{"posx":349.858,"vel":554.50}}
+serialEvent(): posx = 349.858
+serialEvent(): inString = {"sr":{"posx":335.984,"vel":2014.27}}
+serialEvent(): posx = 335.984
+serialEvent(): inString = {"sr":{"posx":335.000,"posz":9.481,"vel":11859.14}}
+serialEvent(): posx = 335.0
+serialEvent(): posz = 9.481
+serialEvent(): inString = {"sr":{"posz":116.404,"vel":29642.69}}
+serialEvent(): posz = 116.404
+serialEvent(): inString = {"sr":{"posz":179.822,"vel":805.63}}
+serialEvent(): posz = 179.822
+serialEvent(): inString = {"sr":{"posx":343.957,"posz":180.000,"vel":6897.96}}
+serialEvent(): posx = 343.957
+serialEvent(): posz = 180.0
+serialEvent(): inString = {"sr":{"posx":369.312,"vel":1695.81}}
+serialEvent(): posx = 369.312
+serialEvent(): inString = {"sr":{"posx":370.000,"posy":418245.188,"vel":5597.14,"dist":1}}
+serialEvent(): posx = 370.0
+serialEvent(): posy = 418245.2
+serialEvent(): inString = {"sr":{"posy":418275.812,"vel":7500.00}}
+serialEvent(): posy = 418275.8
+serialEvent(): inString = {"sr":{"posy":418307.125}}
+serialEvent(): posy = 418307.12
+serialEvent(): inString = {"sr":{"posy":418338.438}}
+serialEvent(): posy = 418338.44
+serialEvent(): inString = {"sr":{"posy":418369.750}}
+serialEvent(): posy = 418369.75
+serialEvent(): inString = {"sr":{"posy":418398.031,"vel":3378.45}}
+serialEvent(): posy = 418398.03
+serialEvent(): inString = {"sr":{"posy":418400.000,"posz":175.185,"vel":7866.47,"dist":0}}
+serialEvent(): posy = 418400.0
+serialEvent(): posz = 175.185
+serialEvent(): inString = {"sr":{"posz":77.857,"vel":30310.40}}
+serialEvent(): posz = 77.857
+serialEvent(): inString = {"sr":{"posz":0.906,"vel":2537.88}}
+serialEvent(): posz = 0.906
+serialEvent(): inString = {"sr":{"posx":364.106,"posz":0.000,"vel":5936.79}}
+serialEvent(): posx = 364.106
+serialEvent(): posz = 0.0
+serialEvent(): inString = {"sr":{"posx":333.269,"vel":7500.00}}
+serialEvent(): posx = 333.269
+serialEvent(): inString = {"sr":{"posx":301.972}}
+serialEvent(): posx = 301.972
+serialEvent(): inString = {"sr":{"posx":270.675}}
+serialEvent(): posx = 270.675
+serialEvent(): inString = {"sr":{"posx":239.377}}
+serialEvent(): posx = 239.377
+serialEvent(): inString = {"sr":{"posx":208.080}}
+serialEvent(): posx = 208.08
+serialEvent(): inString = {"sr":{"posx":176.783}}
+serialEvent(): posx = 176.783
+serialEvent(): inString = {"sr":{"posx":145.673}}
+serialEvent(): posx = 145.673
+serialEvent(): inString = {"sr":{"posx":114.189}}
+serialEvent(): posx = 114.189
+serialEvent(): inString = {"sr":{"posx":82.893}}
+serialEvent(): posx = 82.893
+serialEvent(): inString = {"sr":{"posx":51.597}}
+serialEvent(): posx = 51.597
+serialEvent(): inString = {"sr":{"posx":20.369,"vel":7203.02}}
+serialEvent(): posx = 20.369
+serialEvent(): inString = {"sr":{"posx":10.049,"vel":260.30}}
+serialEvent(): posx = 10.049
+serialEvent(): inString = {"sr":{"posx":23.494,"vel":2651.51}}
+serialEvent(): posx = 23.494
+serialEvent(): inString = {"sr":{"posx":25.000,"posz":6.776,"vel":9579.74}}
+serialEvent(): posx = 25.0
+serialEvent(): posz = 6.776
+serialEvent(): inString = {"sr":{"posz":108.938,"vel":30101.49}}
+serialEvent(): posz = 108.938
+serialEvent(): inString = {"sr":{"posz":179.540,"vel":1578.63}}
+serialEvent(): posz = 179.54
+serialEvent(): inString = {"sr":{"posy":418407.219,"posz":180.000,"vel":6418.66,"dist":1}}
+serialEvent(): posy = 418407.22
+serialEvent(): posz = 180.0
+serialEvent(): inString = {"sr":{"posy":418438.250,"vel":7500.00}}
+serialEvent(): posy = 418438.25
+serialEvent(): inString = {"sr":{"posy":418469.562}}
+serialEvent(): posy = 418469.56
+serialEvent(): inString = {"sr":{"posy":418500.875}}
+serialEvent(): posy = 418500.88
+serialEvent(): inString = {"sr":{"posy":418532.000}}
+serialEvent(): posy = 418532.0
+serialEvent(): inString = {"sr":{"posy":418558.938,"vel":2342.78}}
+serialEvent(): posy = 418558.94
+serialEvent(): inString = {"sr":{"line":10018,"posy":418560.000,"vel":0.00,"stat":3}}
+serialEvent(): posy = 418560.0
+serialEvent(): line = 10018
+
+##### Completed Iteration # 19  time: 14.341001secs  Total time: 272.752secs  at Fri Jan 29 16:32:37 EST 2016
+
+
+
+
+##### Begin Iteration # 20  at Fri Jan 29 16:32:37 EST 2016
+
+305	1	Sending to tinyG: g90
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+306	2	Sending to tinyG: g0x-10
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+307	3	Sending to tinyG: g0z0
+serialEvent(): inString = {"r":{},"f":[1,0,5]}
+308	4	Sending to tinyG: g0x350
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+309	5	Sending to tinyG: g0x335
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+310	6	Sending to tinyG: g0z180
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+311	7	Sending to tinyG: g0x370
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+312	8	Sending to tinyG: g91
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+313	9	Sending to tinyG: g0y160
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+314	10	Sending to tinyG: g90
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+315	11	Sending to tinyG: g0z0
+serialEvent(): inString = {"sr":{"line":0,"posx":18.193,"vel":6247.54,"dist":0,"stat":5}}
+serialEvent(): posx = 18.193
+serialEvent(): line = 0
+serialEvent(): inString = {"r":{},"f":[1,0,5]}
+316	12	Sending to tinyG: g0x10
+serialEvent(): inString = {"r":{},"f":[1,0,6]}
+317	13	Sending to tinyG: g0x25
+serialEvent(): inString = {"r":{},"f":[1,0,6]}
+318	14	Sending to tinyG: g0z180
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+319	15	Sending to tinyG: g91
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+320	16	Sending to tinyG: g0y160
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+serialEvent(): inString = {"sr":{"posx":-8.622,"vel":2651.91}}
+serialEvent(): posx = -8.622
+Sending to tinyG: n10019 (end marker)
+serialEvent(): inString = {"r":{},"f":[1,0,20]}
+serialEvent(): inString = {"sr":{"posx":-10.000,"posz":172.979,"vel":9801.60}}
+serialEvent(): posx = -10.0
+serialEvent(): posz = 172.979
+serialEvent(): inString = {"sr":{"posz":70.310,"vel":30067.24}}
+serialEvent(): posz = 70.31
+serialEvent(): inString = {"sr":{"posz":0.423,"vel":1487.62}}
+serialEvent(): posz = 0.423
+serialEvent(): inString = {"sr":{"posx":-2.554,"posz":0.000,"vel":6473.00}}
+serialEvent(): posx = -2.554
+serialEvent(): posz = 0.0
+serialEvent(): inString = {"sr":{"posx":28.417,"vel":7500.00}}
+serialEvent(): posx = 28.417
+serialEvent(): inString = {"sr":{"posx":59.713}}
+serialEvent(): posx = 59.713
+serialEvent(): inString = {"sr":{"posx":90.822}}
+serialEvent(): posx = 90.822
+serialEvent(): inString = {"sr":{"posx":122.305}}
+serialEvent(): posx = 122.305
+serialEvent(): inString = {"sr":{"posx":153.602}}
+serialEvent(): posx = 153.602
+serialEvent(): inString = {"sr":{"posx":184.900}}
+serialEvent(): posx = 184.9
+serialEvent(): inString = {"sr":{"posx":216.197}}
+serialEvent(): posx = 216.197
+serialEvent(): inString = {"sr":{"posx":247.494}}
+serialEvent(): posx = 247.494
+serialEvent(): inString = {"sr":{"posx":278.604}}
+serialEvent(): posx = 278.604
+serialEvent(): inString = {"sr":{"posx":309.901}}
+serialEvent(): posx = 309.901
+serialEvent(): inString = {"sr":{"posx":341.215,"vel":6897.97}}
+serialEvent(): posx = 341.215
+serialEvent(): inString = {"sr":{"posx":349.858,"vel":554.50}}
+serialEvent(): posx = 349.858
+serialEvent(): inString = {"sr":{"posx":335.984,"vel":2014.27}}
+serialEvent(): posx = 335.984
+serialEvent(): inString = {"sr":{"posx":335.000,"posz":9.481,"vel":11859.14}}
+serialEvent(): posx = 335.0
+serialEvent(): posz = 9.481
+serialEvent(): inString = {"sr":{"posz":116.404,"vel":29642.69}}
+serialEvent(): posz = 116.404
+serialEvent(): inString = {"sr":{"posz":179.822,"vel":805.63}}
+serialEvent(): posz = 179.822
+serialEvent(): inString = {"sr":{"posx":343.957,"posz":180.000,"vel":6897.96}}
+serialEvent(): posx = 343.957
+serialEvent(): posz = 180.0
+serialEvent(): inString = {"sr":{"posx":369.312,"vel":1695.81}}
+serialEvent(): posx = 369.312
+serialEvent(): inString = {"sr":{"posx":370.000,"posy":418565.188,"vel":5597.14,"dist":1}}
+serialEvent(): posx = 370.0
+serialEvent(): posy = 418565.2
+serialEvent(): inString = {"sr":{"posy":418595.812,"vel":7500.00}}
+serialEvent(): posy = 418595.8
+serialEvent(): inString = {"sr":{"posy":418627.125}}
+serialEvent(): posy = 418627.12
+serialEvent(): inString = {"sr":{"posy":418658.438}}
+serialEvent(): posy = 418658.44
+serialEvent(): inString = {"sr":{"posy":418689.750}}
+serialEvent(): posy = 418689.75
+serialEvent(): inString = {"sr":{"posy":418718.031,"vel":3378.45}}
+serialEvent(): posy = 418718.03
+serialEvent(): inString = {"sr":{"posy":418720.000,"posz":175.185,"vel":7866.47,"dist":0}}
+serialEvent(): posy = 418720.0
+serialEvent(): posz = 175.185
+serialEvent(): inString = {"sr":{"posz":77.857,"vel":30310.40}}
+serialEvent(): posz = 77.857
+serialEvent(): inString = {"sr":{"posz":0.906,"vel":2537.88}}
+serialEvent(): posz = 0.906
+serialEvent(): inString = {"sr":{"posx":364.106,"posz":0.000,"vel":5936.79}}
+serialEvent(): posx = 364.106
+serialEvent(): posz = 0.0
+serialEvent(): inString = {"sr":{"posx":333.269,"vel":7500.00}}
+serialEvent(): posx = 333.269
+serialEvent(): inString = {"sr":{"posx":301.972}}
+serialEvent(): posx = 301.972
+serialEvent(): inString = {"sr":{"posx":270.675}}
+serialEvent(): posx = 270.675
+serialEvent(): inString = {"sr":{"posx":239.377}}
+serialEvent(): posx = 239.377
+serialEvent(): inString = {"sr":{"posx":208.080}}
+serialEvent(): posx = 208.08
+serialEvent(): inString = {"sr":{"posx":176.783}}
+serialEvent(): posx = 176.783
+serialEvent(): inString = {"sr":{"posx":145.673}}
+serialEvent(): posx = 145.673
+serialEvent(): inString = {"sr":{"posx":114.189}}
+serialEvent(): posx = 114.189
+serialEvent(): inString = {"sr":{"posx":82.893}}
+serialEvent(): posx = 82.893
+serialEvent(): inString = {"sr":{"posx":51.597}}
+serialEvent(): posx = 51.597
+serialEvent(): inString = {"sr":{"posx":20.369,"vel":7203.02}}
+serialEvent(): posx = 20.369
+serialEvent(): inString = {"sr":{"posx":10.049,"vel":260.30}}
+serialEvent(): posx = 10.049
+serialEvent(): inString = {"sr":{"posx":23.494,"vel":2651.51}}
+serialEvent(): posx = 23.494
+serialEvent(): inString = {"sr":{"posx":25.000,"posz":6.776,"vel":9579.74}}
+serialEvent(): posx = 25.0
+serialEvent(): posz = 6.776
+serialEvent(): inString = {"sr":{"posz":108.938,"vel":30101.49}}
+serialEvent(): posz = 108.938
+serialEvent(): inString = {"sr":{"posz":179.540,"vel":1578.63}}
+serialEvent(): posz = 179.54
+serialEvent(): inString = {"sr":{"posy":418727.219,"posz":180.000,"vel":6418.66,"dist":1}}
+serialEvent(): posy = 418727.22
+serialEvent(): posz = 180.0
+serialEvent(): inString = {"sr":{"posy":418758.250,"vel":7500.00}}
+serialEvent(): posy = 418758.25
+serialEvent(): inString = {"sr":{"posy":418789.562}}
+serialEvent(): posy = 418789.56
+serialEvent(): inString = {"sr":{"posy":418820.875}}
+serialEvent(): posy = 418820.88
+serialEvent(): inString = {"sr":{"posy":418852.000}}
+serialEvent(): posy = 418852.0
+serialEvent(): inString = {"sr":{"posy":418878.938,"vel":2342.78}}
+serialEvent(): posy = 418878.94
+serialEvent(): inString = {"sr":{"line":10019,"posy":418880.000,"vel":0.00,"stat":3}}
+serialEvent(): posy = 418880.0
+serialEvent(): line = 10019
+
+##### Completed Iteration # 20  time: 14.384001secs  Total time: 287.13702secs  at Fri Jan 29 16:32:51 EST 2016
+
+
+
+
+##### Begin Iteration # 21  at Fri Jan 29 16:32:51 EST 2016
+
+321	1	Sending to tinyG: g90
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+322	2	Sending to tinyG: g0x-10
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+323	3	Sending to tinyG: g0z0
+serialEvent(): inString = {"r":{},"f":[1,0,5]}
+324	4	Sending to tinyG: g0x350
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+325	5	Sending to tinyG: g0x335
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+326	6	Sending to tinyG: g0z180
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+327	7	Sending to tinyG: g0x370
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+328	8	Sending to tinyG: g91
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+329	9	Sending to tinyG: g0y160
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+330	10	Sending to tinyG: g90
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+serialEvent(): inString = {"sr":{"line":0,"posx":19.823,"vel":5597.14,"dist":0,"stat":5}}
+serialEvent(): posx = 19.823
+serialEvent(): line = 0
+331	11	Sending to tinyG: g0z0
+serialEvent(): inString = {"r":{},"f":[1,0,5]}
+332	12	Sending to tinyG: g0x10
+serialEvent(): inString = {"r":{},"f":[1,0,6]}
+333	13	Sending to tinyG: g0x25
+serialEvent(): inString = {"r":{},"f":[1,0,6]}
+334	14	Sending to tinyG: g0z180
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+335	15	Sending to tinyG: g91
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+336	16	Sending to tinyG: g0y160
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+serialEvent(): inString = {"sr":{"posx":-7.870,"vel":3460.81}}
+serialEvent(): posx = -7.87
+Sending to tinyG: n10020 (end marker)
+serialEvent(): inString = {"r":{},"f":[1,0,20]}
+serialEvent(): inString = {"sr":{"posx":-10.000,"posz":175.185,"vel":7660.87}}
+serialEvent(): posx = -10.0
+serialEvent(): posz = 175.185
+serialEvent(): inString = {"sr":{"posz":77.857,"vel":30310.40}}
+serialEvent(): posz = 77.857
+serialEvent(): inString = {"sr":{"posz":0.906,"vel":2537.88}}
+serialEvent(): posz = 0.906
+serialEvent(): inString = {"sr":{"posx":-4.106,"posz":0.000,"vel":5871.05}}
+serialEvent(): posx = -4.106
+serialEvent(): posz = 0.0
+serialEvent(): inString = {"sr":{"posx":26.543,"vel":7500.00}}
+serialEvent(): posx = 26.543
+serialEvent(): inString = {"sr":{"posx":57.839}}
+serialEvent(): posx = 57.839
+serialEvent(): inString = {"sr":{"posx":88.948}}
+serialEvent(): posx = 88.948
+serialEvent(): inString = {"sr":{"posx":120.431}}
+serialEvent(): posx = 120.431
+serialEvent(): inString = {"sr":{"posx":151.728}}
+serialEvent(): posx = 151.728
+serialEvent(): inString = {"sr":{"posx":183.025}}
+serialEvent(): posx = 183.025
+serialEvent(): inString = {"sr":{"posx":214.323}}
+serialEvent(): posx = 214.323
+serialEvent(): inString = {"sr":{"posx":245.620}}
+serialEvent(): posx = 245.62
+serialEvent(): inString = {"sr":{"posx":276.730}}
+serialEvent(): posx = 276.73
+serialEvent(): inString = {"sr":{"posx":308.027}}
+serialEvent(): posx = 308.027
+serialEvent(): inString = {"sr":{"posx":339.451,"vel":7229.52}}
+serialEvent(): posx = 339.451
+serialEvent(): inString = {"sr":{"posx":349.957,"vel":234.97}}
+serialEvent(): posx = 349.957
+serialEvent(): inString = {"sr":{"posx":336.572,"vel":2651.51}}
+serialEvent(): posx = 336.572
+serialEvent(): inString = {"sr":{"posx":335.000,"posz":6.776,"vel":9579.74}}
+serialEvent(): posx = 335.0
+serialEvent(): posz = 6.776
+serialEvent(): inString = {"sr":{"posz":108.938,"vel":30101.49}}
+serialEvent(): posz = 108.938
+serialEvent(): inString = {"sr":{"posz":179.540,"vel":1578.63}}
+serialEvent(): posz = 179.54
+serialEvent(): inString = {"sr":{"posx":342.284,"posz":180.000,"vel":6418.66}}
+serialEvent(): posx = 342.284
+serialEvent(): posz = 180.0
+serialEvent(): inString = {"sr":{"posx":368.809,"vel":2419.01}}
+serialEvent(): posx = 368.809
+serialEvent(): inString = {"sr":{"posx":370.000,"posy":418883.938,"vel":4848.09,"dist":1}}
+serialEvent(): posx = 370.0
+serialEvent(): posy = 418883.94
+serialEvent(): inString = {"sr":{"posy":418913.938,"vel":7500.00}}
+serialEvent(): posy = 418913.94
+serialEvent(): inString = {"sr":{"posy":418945.250}}
+serialEvent(): posy = 418945.25
+serialEvent(): inString = {"sr":{"posy":418976.562}}
+serialEvent(): posy = 418976.56
+serialEvent(): inString = {"sr":{"posy":419007.875}}
+serialEvent(): posy = 419007.88
+serialEvent(): inString = {"sr":{"posy":419037.094,"vel":4203.69}}
+serialEvent(): posy = 419037.1
+serialEvent(): inString = {"sr":{"posy":419040.000,"posz":176.877,"vel":5910.33,"dist":0}}
+serialEvent(): posy = 419040.0
+serialEvent(): posz = 176.877
+serialEvent(): inString = {"sr":{"posz":85.443,"vel":30383.62}}
+serialEvent(): posz = 85.443
+serialEvent(): inString = {"sr":{"posz":1.687,"vel":3897.02}}
+serialEvent(): posz = 1.687
+serialEvent(): inString = {"sr":{"posx":365.495,"posz":0.000,"vel":5232.68}}
+serialEvent(): posx = 365.495
+serialEvent(): posz = 0.0
+serialEvent(): inString = {"sr":{"posx":335.143,"vel":7500.00}}
+serialEvent(): posx = 335.143
+serialEvent(): inString = {"sr":{"posx":303.846}}
+serialEvent(): posx = 303.846
+serialEvent(): inString = {"sr":{"posx":272.549}}
+serialEvent(): posx = 272.549
+serialEvent(): inString = {"sr":{"posx":241.252}}
+serialEvent(): posx = 241.252
+serialEvent(): inString = {"sr":{"posx":209.954}}
+serialEvent(): posx = 209.954
+serialEvent(): inString = {"sr":{"posx":178.657}}
+serialEvent(): posx = 178.657
+serialEvent(): inString = {"sr":{"posx":147.547}}
+serialEvent(): posx = 147.547
+serialEvent(): inString = {"sr":{"posx":116.063}}
+serialEvent(): posx = 116.063
+serialEvent(): inString = {"sr":{"posx":84.767}}
+serialEvent(): posx = 84.767
+serialEvent(): inString = {"sr":{"posx":53.471}}
+serialEvent(): posx = 53.471
+serialEvent(): inString = {"sr":{"posx":22.194,"vel":7405.39}}
+serialEvent(): posx = 22.194
+serialEvent(): inString = {"sr":{"posx":10.009,"vel":71.34}}
+serialEvent(): posx = 10.009
+serialEvent(): inString = {"sr":{"posx":22.767,"vel":3254.69}}
+serialEvent(): posx = 22.767
+serialEvent(): inString = {"sr":{"posx":25.000,"posz":4.624,"vel":7457.36}}
+serialEvent(): posx = 25.0
+serialEvent(): posz = 4.624
+serialEvent(): inString = {"sr":{"posz":101.386,"vel":30323.92}}
+serialEvent(): posz = 101.386
+serialEvent(): inString = {"sr":{"posz":179.030,"vel":2660.04}}
+serialEvent(): posz = 179.03
+serialEvent(): inString = {"sr":{"posy":419045.656,"posz":180.000,"vel":5804.19,"dist":1}}
+serialEvent(): posy = 419045.66
+serialEvent(): posz = 180.0
+serialEvent(): inString = {"sr":{"posy":419076.375,"vel":7500.00}}
+serialEvent(): posy = 419076.38
+serialEvent(): inString = {"sr":{"posy":419107.688}}
+serialEvent(): posy = 419107.7
+serialEvent(): inString = {"sr":{"posy":419139.000}}
+serialEvent(): posy = 419139.0
+serialEvent(): inString = {"sr":{"posy":419170.125}}
+serialEvent(): posy = 419170.12
+serialEvent(): inString = {"sr":{"posy":419198.312,"vel":3132.81}}
+serialEvent(): posy = 419198.3
+serialEvent(): inString = {"sr":{"line":10020,"posy":419200.000,"vel":0.00,"stat":3}}
+serialEvent(): posy = 419200.0
+serialEvent(): line = 10020
+
+##### Completed Iteration # 21  time: 14.354001secs  Total time: 301.492secs  at Fri Jan 29 16:33:05 EST 2016
+
+
+
+
+##### Begin Iteration # 22  at Fri Jan 29 16:33:05 EST 2016
+
+337	1	Sending to tinyG: g90
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+338	2	Sending to tinyG: g0x-10
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+339	3	Sending to tinyG: g0z0
+serialEvent(): inString = {"r":{},"f":[1,0,5]}
+340	4	Sending to tinyG: g0x350
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+341	5	Sending to tinyG: g0x335
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+342	6	Sending to tinyG: g0z180
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+343	7	Sending to tinyG: g0x370
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+344	8	Sending to tinyG: g91
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+345	9	Sending to tinyG: g0y160
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+346	10	Sending to tinyG: g90
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+347	11	Sending to tinyG: g0z0
+serialEvent(): inString = {"sr":{"line":0,"posx":18.656,"vel":6126.95,"dist":0,"stat":5}}
+serialEvent(): posx = 18.656
+serialEvent(): line = 0
+serialEvent(): inString = {"r":{},"f":[1,0,5]}
+348	12	Sending to tinyG: g0x10
+serialEvent(): inString = {"r":{},"f":[1,0,6]}
+349	13	Sending to tinyG: g0x25
+serialEvent(): inString = {"r":{},"f":[1,0,6]}
+350	14	Sending to tinyG: g0z180
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+351	15	Sending to tinyG: g91
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+352	16	Sending to tinyG: g0y160
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+Sending to tinyG: n10021 (end marker)
+serialEvent(): inString = {"sr":{"posx":-8.488,"vel":2810.26}}
+serialEvent(): posx = -8.488
+serialEvent(): inString = {"r":{},"f":[1,0,20]}
+serialEvent(): inString = {"sr":{"posx":-10.000,"posz":173.464,"vel":9359.45}}
+serialEvent(): posx = -10.0
+serialEvent(): posz = 173.464
+serialEvent(): inString = {"sr":{"posz":71.814,"vel":30133.35}}
+serialEvent(): posz = 71.814
+serialEvent(): inString = {"sr":{"posz":0.499,"vel":1672.74}}
+serialEvent(): posz = 0.499
+serialEvent(): inString = {"sr":{"posx":-2.876,"posz":0.000,"vel":6362.96}}
+serialEvent(): posx = -2.876
+serialEvent(): posz = 0.0
+serialEvent(): inString = {"sr":{"posx":28.042,"vel":7500.00}}
+serialEvent(): posx = 28.042
+serialEvent(): inString = {"sr":{"posx":59.339}}
+serialEvent(): posx = 59.339
+serialEvent(): inString = {"sr":{"posx":90.447}}
+serialEvent(): posx = 90.447
+serialEvent(): inString = {"sr":{"posx":121.931}}
+serialEvent(): posx = 121.931
+serialEvent(): inString = {"sr":{"posx":153.228}}
+serialEvent(): posx = 153.228
+serialEvent(): inString = {"sr":{"posx":184.525}}
+serialEvent(): posx = 184.525
+serialEvent(): inString = {"sr":{"posx":215.822}}
+serialEvent(): posx = 215.822
+serialEvent(): inString = {"sr":{"posx":247.119}}
+serialEvent(): posx = 247.119
+serialEvent(): inString = {"sr":{"posx":278.229}}
+serialEvent(): posx = 278.229
+serialEvent(): inString = {"sr":{"posx":309.714}}
+serialEvent(): posx = 309.714
+serialEvent(): inString = {"sr":{"posx":340.870,"vel":6976.22}}
+serialEvent(): posx = 340.87
+serialEvent(): inString = {"sr":{"posx":349.885,"vel":478.93}}
+serialEvent(): posx = 349.885
+serialEvent(): inString = {"sr":{"posx":336.089,"vel":2141.72}}
+serialEvent(): posx = 336.089
+serialEvent(): inString = {"sr":{"posx":335.000,"posz":8.894,"vel":11393.64}}
+serialEvent(): posx = 335.0
+serialEvent(): posz = 8.894
+serialEvent(): inString = {"sr":{"posz":114.921,"vel":29756.02}}
+serialEvent(): posz = 114.921
+serialEvent(): inString = {"sr":{"posz":179.780,"vel":936.23}}
+serialEvent(): posz = 179.78
+serialEvent(): inString = {"sr":{"posx":343.613,"posz":180.000,"vel":6813.75}}
+serialEvent(): posx = 343.613
+serialEvent(): posz = 180.0
+serialEvent(): inString = {"sr":{"posx":369.226,"vel":1832.80}}
+serialEvent(): posx = 369.226
+serialEvent(): inString = {"sr":{"posx":370.000,"posy":419204.938,"vel":5454.08,"dist":1}}
+serialEvent(): posx = 370.0
+serialEvent(): posy = 419204.94
+serialEvent(): inString = {"sr":{"posy":419235.438,"vel":7500.00}}
+serialEvent(): posy = 419235.44
+serialEvent(): inString = {"sr":{"posy":419266.750}}
+serialEvent(): posy = 419266.75
+serialEvent(): inString = {"sr":{"posy":419298.062}}
+serialEvent(): posy = 419298.06
+serialEvent(): inString = {"sr":{"posy":419329.375}}
+serialEvent(): posy = 419329.38
+serialEvent(): inString = {"sr":{"posy":419357.844,"vel":3543.32}}
+serialEvent(): posy = 419357.84
+serialEvent(): inString = {"sr":{"posy":419360.000,"posz":175.376,"vel":7457.36,"dist":0}}
+serialEvent(): posy = 419360.0
+serialEvent(): posz = 175.376
+serialEvent(): inString = {"sr":{"posz":79.372,"vel":30323.92}}
+serialEvent(): posz = 79.372
+serialEvent(): inString = {"sr":{"posz":1.036,"vel":2785.30}}
+serialEvent(): posz = 1.036
+serialEvent(): inString = {"sr":{"posx":364.398,"posz":0.000,"vel":5804.19}}
+serialEvent(): posx = 364.398
+serialEvent(): posz = 0.0
+serialEvent(): inString = {"sr":{"posx":333.644,"vel":7500.00}}
+serialEvent(): posx = 333.644
+serialEvent(): inString = {"sr":{"posx":302.347}}
+serialEvent(): posx = 302.347
+serialEvent(): inString = {"sr":{"posx":271.049}}
+serialEvent(): posx = 271.049
+serialEvent(): inString = {"sr":{"posx":239.752}}
+serialEvent(): posx = 239.752
+serialEvent(): inString = {"sr":{"posx":208.455}}
+serialEvent(): posx = 208.455
+serialEvent(): inString = {"sr":{"posx":177.345}}
+serialEvent(): posx = 177.345
+serialEvent(): inString = {"sr":{"posx":146.048}}
+serialEvent(): posx = 146.048
+serialEvent(): inString = {"sr":{"posx":114.564}}
+serialEvent(): posx = 114.564
+serialEvent(): inString = {"sr":{"posx":83.268}}
+serialEvent(): posx = 83.268
+serialEvent(): inString = {"sr":{"posx":51.972}}
+serialEvent(): posx = 51.972
+serialEvent(): inString = {"sr":{"posx":20.729,"vel":7254.57}}
+serialEvent(): posx = 20.729
+serialEvent(): inString = {"sr":{"posx":10.037,"vel":211.12}}
+serialEvent(): posx = 10.037
+serialEvent(): inString = {"sr":{"posx":23.361,"vel":2776.66}}
+serialEvent(): posx = 23.361
+serialEvent(): inString = {"sr":{"posx":25.000,"posz":6.302,"vel":9140.79}}
+serialEvent(): posx = 25.0
+serialEvent(): posz = 6.302
+serialEvent(): inString = {"sr":{"posz":107.433,"vel":30162.89}}
+serialEvent(): posz = 107.433
+serialEvent(): inString = {"sr":{"posz":179.459,"vel":1769.96}}
+serialEvent(): posz = 179.459
+serialEvent(): inString = {"sr":{"posy":419366.906,"posz":180.000,"vel":6305.91,"dist":1}}
+serialEvent(): posy = 419366.9
+serialEvent(): posz = 180.0
+serialEvent(): inString = {"sr":{"posy":419397.875,"vel":7500.00}}
+serialEvent(): posy = 419397.88
+serialEvent(): inString = {"sr":{"posy":419429.188}}
+serialEvent(): posy = 419429.2
+serialEvent(): inString = {"sr":{"posy":419460.500}}
+serialEvent(): posy = 419460.5
+serialEvent(): inString = {"sr":{"posy":419491.625}}
+serialEvent(): posy = 419491.62
+serialEvent(): inString = {"sr":{"posy":419518.812,"vel":2495.97}}
+serialEvent(): posy = 419518.8
+serialEvent(): inString = {"sr":{"line":10021,"posy":419520.000,"vel":0.00,"stat":3}}
+serialEvent(): posy = 419520.0
+serialEvent(): line = 10021
+
+##### Completed Iteration # 22  time: 14.341001secs  Total time: 315.833secs  at Fri Jan 29 16:33:20 EST 2016
+
+
+
+
+##### Begin Iteration # 23  at Fri Jan 29 16:33:20 EST 2016
+
+353	1	Sending to tinyG: g90
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+354	2	Sending to tinyG: g0x-10
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+355	3	Sending to tinyG: g0z0
+serialEvent(): inString = {"r":{},"f":[1,0,5]}
+356	4	Sending to tinyG: g0x350
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+357	5	Sending to tinyG: g0x335
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+358	6	Sending to tinyG: g0z180
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+359	7	Sending to tinyG: g0x370
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+360	8	Sending to tinyG: g91
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+361	9	Sending to tinyG: g0y160
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+362	10	Sending to tinyG: g90
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+363	11	Sending to tinyG: g0z0
+serialEvent(): inString = {"sr":{"line":0,"posx":18.193,"vel":6247.54,"dist":0,"stat":5}}
+serialEvent(): posx = 18.193
+serialEvent(): line = 0
+serialEvent(): inString = {"r":{},"f":[1,0,5]}
+364	12	Sending to tinyG: g0x10
+serialEvent(): inString = {"r":{},"f":[1,0,6]}
+365	13	Sending to tinyG: g0x25
+serialEvent(): inString = {"r":{},"f":[1,0,6]}
+366	14	Sending to tinyG: g0z180
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+367	15	Sending to tinyG: g91
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+368	16	Sending to tinyG: g0y160
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+Sending to tinyG: n10022 (end marker)
+serialEvent(): inString = {"sr":{"posx":-8.622,"vel":2651.91}}
+serialEvent(): posx = -8.622
+serialEvent(): inString = {"r":{},"f":[1,0,20]}
+serialEvent(): inString = {"sr":{"posx":-10.000,"posz":172.979,"vel":9801.60}}
+serialEvent(): posx = -10.0
+serialEvent(): posz = 172.979
+serialEvent(): inString = {"sr":{"posz":70.310,"vel":30067.24}}
+serialEvent(): posz = 70.31
+serialEvent(): inString = {"sr":{"posz":0.423,"vel":1487.62}}
+serialEvent(): posz = 0.423
+serialEvent(): inString = {"sr":{"posx":-2.554,"posz":0.000,"vel":6473.00}}
+serialEvent(): posx = -2.554
+serialEvent(): posz = 0.0
+serialEvent(): inString = {"sr":{"posx":28.417,"vel":7500.00}}
+serialEvent(): posx = 28.417
+serialEvent(): inString = {"sr":{"posx":59.713}}
+serialEvent(): posx = 59.713
+serialEvent(): inString = {"sr":{"posx":90.822}}
+serialEvent(): posx = 90.822
+serialEvent(): inString = {"sr":{"posx":122.305}}
+serialEvent(): posx = 122.305
+serialEvent(): inString = {"sr":{"posx":153.602}}
+serialEvent(): posx = 153.602
+serialEvent(): inString = {"sr":{"posx":184.900}}
+serialEvent(): posx = 184.9
+serialEvent(): inString = {"sr":{"posx":216.197}}
+serialEvent(): posx = 216.197
+serialEvent(): inString = {"sr":{"posx":247.494}}
+serialEvent(): posx = 247.494
+serialEvent(): inString = {"sr":{"posx":278.604}}
+serialEvent(): posx = 278.604
+serialEvent(): inString = {"sr":{"posx":309.901}}
+serialEvent(): posx = 309.901
+serialEvent(): inString = {"sr":{"posx":341.215,"vel":6897.97}}
+serialEvent(): posx = 341.215
+serialEvent(): inString = {"sr":{"posx":349.858,"vel":554.50}}
+serialEvent(): posx = 349.858
+serialEvent(): inString = {"sr":{"posx":335.984,"vel":2014.27}}
+serialEvent(): posx = 335.984
+serialEvent(): inString = {"sr":{"posx":335.000,"posz":9.481,"vel":11859.14}}
+serialEvent(): posx = 335.0
+serialEvent(): posz = 9.481
+serialEvent(): inString = {"sr":{"posz":116.404,"vel":29642.69}}
+serialEvent(): posz = 116.404
+serialEvent(): inString = {"sr":{"posz":179.822,"vel":805.63}}
+serialEvent(): posz = 179.822
+serialEvent(): inString = {"sr":{"posx":343.957,"posz":180.000,"vel":6897.96}}
+serialEvent(): posx = 343.957
+serialEvent(): posz = 180.0
+serialEvent(): inString = {"sr":{"posx":369.312,"vel":1695.81}}
+serialEvent(): posx = 369.312
+serialEvent(): inString = {"sr":{"posx":370.000,"posy":419525.188,"vel":5597.14,"dist":1}}
+serialEvent(): posx = 370.0
+serialEvent(): posy = 419525.2
+serialEvent(): inString = {"sr":{"posy":419555.812,"vel":7500.00}}
+serialEvent(): posy = 419555.8
+serialEvent(): inString = {"sr":{"posy":419587.125}}
+serialEvent(): posy = 419587.12
+serialEvent(): inString = {"sr":{"posy":419618.438}}
+serialEvent(): posy = 419618.44
+serialEvent(): inString = {"sr":{"posy":419649.750}}
+serialEvent(): posy = 419649.75
+serialEvent(): inString = {"sr":{"posy":419678.031,"vel":3378.45}}
+serialEvent(): posy = 419678.03
+serialEvent(): inString = {"sr":{"posy":419680.000,"posz":175.185,"vel":7866.47,"dist":0}}
+serialEvent(): posy = 419680.0
+serialEvent(): posz = 175.185
+serialEvent(): inString = {"sr":{"posz":77.857,"vel":30310.40}}
+serialEvent(): posz = 77.857
+serialEvent(): inString = {"sr":{"posz":0.906,"vel":2537.88}}
+serialEvent(): posz = 0.906
+serialEvent(): inString = {"sr":{"posx":364.106,"posz":0.000,"vel":5936.79}}
+serialEvent(): posx = 364.106
+serialEvent(): posz = 0.0
+serialEvent(): inString = {"sr":{"posx":333.269,"vel":7500.00}}
+serialEvent(): posx = 333.269
+serialEvent(): inString = {"sr":{"posx":301.972}}
+serialEvent(): posx = 301.972
+serialEvent(): inString = {"sr":{"posx":270.675}}
+serialEvent(): posx = 270.675
+serialEvent(): inString = {"sr":{"posx":239.377}}
+serialEvent(): posx = 239.377
+serialEvent(): inString = {"sr":{"posx":208.080}}
+serialEvent(): posx = 208.08
+serialEvent(): inString = {"sr":{"posx":176.783}}
+serialEvent(): posx = 176.783
+serialEvent(): inString = {"sr":{"posx":145.673}}
+serialEvent(): posx = 145.673
+serialEvent(): inString = {"sr":{"posx":114.189}}
+serialEvent(): posx = 114.189
+serialEvent(): inString = {"sr":{"posx":82.893}}
+serialEvent(): posx = 82.893
+serialEvent(): inString = {"sr":{"posx":51.597}}
+serialEvent(): posx = 51.597
+serialEvent(): inString = {"sr":{"posx":20.369,"vel":7203.02}}
+serialEvent(): posx = 20.369
+serialEvent(): inString = {"sr":{"posx":10.049,"vel":260.30}}
+serialEvent(): posx = 10.049
+serialEvent(): inString = {"sr":{"posx":23.494,"vel":2651.51}}
+serialEvent(): posx = 23.494
+serialEvent(): inString = {"sr":{"posx":25.000,"posz":6.776,"vel":9579.74}}
+serialEvent(): posx = 25.0
+serialEvent(): posz = 6.776
+serialEvent(): inString = {"sr":{"posz":108.938,"vel":30101.49}}
+serialEvent(): posz = 108.938
+serialEvent(): inString = {"sr":{"posz":179.540,"vel":1578.63}}
+serialEvent(): posz = 179.54
+serialEvent(): inString = {"sr":{"posy":419687.219,"posz":180.000,"vel":6418.66,"dist":1}}
+serialEvent(): posy = 419687.22
+serialEvent(): posz = 180.0
+serialEvent(): inString = {"sr":{"posy":419718.250,"vel":7500.00}}
+serialEvent(): posy = 419718.25
+serialEvent(): inString = {"sr":{"posy":419749.562}}
+serialEvent(): posy = 419749.56
+serialEvent(): inString = {"sr":{"posy":419780.875}}
+serialEvent(): posy = 419780.88
+serialEvent(): inString = {"sr":{"posy":419812.000}}
+serialEvent(): posy = 419812.0
+serialEvent(): inString = {"sr":{"posy":419838.938,"vel":2342.78}}
+serialEvent(): posy = 419838.94
+serialEvent(): inString = {"sr":{"line":10022,"posy":419840.000,"vel":0.00,"stat":3}}
+serialEvent(): posy = 419840.0
+serialEvent(): line = 10022
+
+##### Completed Iteration # 23  time: 14.35secs  Total time: 330.183secs  at Fri Jan 29 16:33:34 EST 2016
+
+
+
+
+##### Begin Iteration # 24  at Fri Jan 29 16:33:34 EST 2016
+
+369	1	Sending to tinyG: g90
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+370	2	Sending to tinyG: g0x-10
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+371	3	Sending to tinyG: g0z0
+serialEvent(): inString = {"r":{},"f":[1,0,5]}
+372	4	Sending to tinyG: g0x350
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+373	5	Sending to tinyG: g0x335
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+374	6	Sending to tinyG: g0z180
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+375	7	Sending to tinyG: g0x370
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+376	8	Sending to tinyG: g91
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+377	9	Sending to tinyG: g0y160
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+378	10	Sending to tinyG: g90
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+379	11	Sending to tinyG: g0z0
+serialEvent(): inString = {"sr":{"line":0,"posx":18.193,"vel":6247.54,"dist":0,"stat":5}}
+serialEvent(): posx = 18.193
+serialEvent(): line = 0
+serialEvent(): inString = {"r":{},"f":[1,0,5]}
+380	12	Sending to tinyG: g0x10
+serialEvent(): inString = {"r":{},"f":[1,0,6]}
+381	13	Sending to tinyG: g0x25
+serialEvent(): inString = {"r":{},"f":[1,0,6]}
+382	14	Sending to tinyG: g0z180
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+383	15	Sending to tinyG: g91
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+384	16	Sending to tinyG: g0y160
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+serialEvent(): inString = {"sr":{"posx":-8.622,"vel":2651.91}}
+serialEvent(): posx = -8.622
+Sending to tinyG: n10023 (end marker)
+serialEvent(): inString = {"r":{},"f":[1,0,20]}
+serialEvent(): inString = {"sr":{"posx":-10.000,"posz":172.979,"vel":9801.60}}
+serialEvent(): posx = -10.0
+serialEvent(): posz = 172.979
+serialEvent(): inString = {"sr":{"posz":70.310,"vel":30067.24}}
+serialEvent(): posz = 70.31
+serialEvent(): inString = {"sr":{"posz":0.423,"vel":1487.62}}
+serialEvent(): posz = 0.423
+serialEvent(): inString = {"sr":{"posx":-2.554,"posz":0.000,"vel":6473.00}}
+serialEvent(): posx = -2.554
+serialEvent(): posz = 0.0
+serialEvent(): inString = {"sr":{"posx":28.417,"vel":7500.00}}
+serialEvent(): posx = 28.417
+serialEvent(): inString = {"sr":{"posx":59.713}}
+serialEvent(): posx = 59.713
+serialEvent(): inString = {"sr":{"posx":90.822}}
+serialEvent(): posx = 90.822
+serialEvent(): inString = {"sr":{"posx":122.305}}
+serialEvent(): posx = 122.305
+serialEvent(): inString = {"sr":{"posx":153.602}}
+serialEvent(): posx = 153.602
+serialEvent(): inString = {"sr":{"posx":184.900}}
+serialEvent(): posx = 184.9
+serialEvent(): inString = {"sr":{"posx":216.197}}
+serialEvent(): posx = 216.197
+serialEvent(): inString = {"sr":{"posx":247.494}}
+serialEvent(): posx = 247.494
+serialEvent(): inString = {"sr":{"posx":278.604}}
+serialEvent(): posx = 278.604
+serialEvent(): inString = {"sr":{"posx":310.088}}
+serialEvent(): posx = 310.088
+serialEvent(): inString = {"sr":{"posx":341.215,"vel":6897.97}}
+serialEvent(): posx = 341.215
+serialEvent(): inString = {"sr":{"posx":349.858,"vel":554.50}}
+serialEvent(): posx = 349.858
+serialEvent(): inString = {"sr":{"posx":335.984,"vel":2014.27}}
+serialEvent(): posx = 335.984
+serialEvent(): inString = {"sr":{"posx":335.000,"posz":9.481,"vel":11859.14}}
+serialEvent(): posx = 335.0
+serialEvent(): posz = 9.481
+serialEvent(): inString = {"sr":{"posz":116.404,"vel":29642.69}}
+serialEvent(): posz = 116.404
+serialEvent(): inString = {"sr":{"posz":179.822,"vel":805.63}}
+serialEvent(): posz = 179.822
+serialEvent(): inString = {"sr":{"posx":343.957,"posz":180.000,"vel":6897.96}}
+serialEvent(): posx = 343.957
+serialEvent(): posz = 180.0
+serialEvent(): inString = {"sr":{"posx":369.312,"vel":1695.81}}
+serialEvent(): posx = 369.312
+serialEvent(): inString = {"sr":{"posx":370.000,"posy":419845.188,"vel":5597.14,"dist":1}}
+serialEvent(): posx = 370.0
+serialEvent(): posy = 419845.2
+serialEvent(): inString = {"sr":{"posy":419875.812,"vel":7500.00}}
+serialEvent(): posy = 419875.8
+serialEvent(): inString = {"sr":{"posy":419907.125}}
+serialEvent(): posy = 419907.12
+serialEvent(): inString = {"sr":{"posy":419938.438}}
+serialEvent(): posy = 419938.44
+serialEvent(): inString = {"sr":{"posy":419969.750}}
+serialEvent(): posy = 419969.75
+serialEvent(): inString = {"sr":{"posy":419998.031,"vel":3378.45}}
+serialEvent(): posy = 419998.03
+serialEvent(): inString = {"sr":{"posy":420000.000,"posz":175.185,"vel":7660.87,"dist":0}}
+serialEvent(): posy = 420000.0
+serialEvent(): posz = 175.185
+serialEvent(): inString = {"sr":{"posz":77.857,"vel":30310.40}}
+serialEvent(): posz = 77.857
+serialEvent(): inString = {"sr":{"posz":0.906,"vel":2537.88}}
+serialEvent(): posz = 0.906
+serialEvent(): inString = {"sr":{"posx":364.106,"posz":0.000,"vel":5871.05}}
+serialEvent(): posx = 364.106
+serialEvent(): posz = 0.0
+serialEvent(): inString = {"sr":{"posx":333.269,"vel":7500.00}}
+serialEvent(): posx = 333.269
+serialEvent(): inString = {"sr":{"posx":301.972}}
+serialEvent(): posx = 301.972
+serialEvent(): inString = {"sr":{"posx":270.675}}
+serialEvent(): posx = 270.675
+serialEvent(): inString = {"sr":{"posx":239.377}}
+serialEvent(): posx = 239.377
+serialEvent(): inString = {"sr":{"posx":208.080}}
+serialEvent(): posx = 208.08
+serialEvent(): inString = {"sr":{"posx":176.783}}
+serialEvent(): posx = 176.783
+serialEvent(): inString = {"sr":{"posx":145.673}}
+serialEvent(): posx = 145.673
+serialEvent(): inString = {"sr":{"posx":114.189}}
+serialEvent(): posx = 114.189
+serialEvent(): inString = {"sr":{"posx":82.893}}
+serialEvent(): posx = 82.893
+serialEvent(): inString = {"sr":{"posx":51.597}}
+serialEvent(): posx = 51.597
+serialEvent(): inString = {"sr":{"posx":20.369,"vel":7203.02}}
+serialEvent(): posx = 20.369
+serialEvent(): inString = {"sr":{"posx":10.049,"vel":260.30}}
+serialEvent(): posx = 10.049
+serialEvent(): inString = {"sr":{"posx":23.494,"vel":2651.51}}
+serialEvent(): posx = 23.494
+serialEvent(): inString = {"sr":{"posx":25.000,"posz":6.776,"vel":9579.74}}
+serialEvent(): posx = 25.0
+serialEvent(): posz = 6.776
+serialEvent(): inString = {"sr":{"posz":108.938,"vel":30101.49}}
+serialEvent(): posz = 108.938
+serialEvent(): inString = {"sr":{"posz":179.540,"vel":1578.63}}
+serialEvent(): posz = 179.54
+serialEvent(): inString = {"sr":{"posy":420007.219,"posz":180.000,"vel":6418.66,"dist":1}}
+serialEvent(): posy = 420007.22
+serialEvent(): posz = 180.0
+serialEvent(): inString = {"sr":{"posy":420038.250,"vel":7500.00}}
+serialEvent(): posy = 420038.25
+serialEvent(): inString = {"sr":{"posy":420069.562}}
+serialEvent(): posy = 420069.56
+serialEvent(): inString = {"sr":{"posy":420100.875}}
+serialEvent(): posy = 420100.88
+serialEvent(): inString = {"sr":{"posy":420132.000}}
+serialEvent(): posy = 420132.0
+serialEvent(): inString = {"sr":{"posy":420158.938,"vel":2342.78}}
+serialEvent(): posy = 420158.94
+serialEvent(): inString = {"sr":{"line":10023,"posy":420160.000,"vel":0.00,"stat":3}}
+serialEvent(): posy = 420160.0
+serialEvent(): line = 10023
+
+##### Completed Iteration # 24  time: 14.352secs  Total time: 344.536secs  at Fri Jan 29 16:33:48 EST 2016
+
+
+
+
+##### Begin Iteration # 25  at Fri Jan 29 16:33:48 EST 2016
+
+385	1	Sending to tinyG: g90
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+386	2	Sending to tinyG: g0x-10
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+387	3	Sending to tinyG: g0z0
+serialEvent(): inString = {"r":{},"f":[1,0,5]}
+388	4	Sending to tinyG: g0x350
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+389	5	Sending to tinyG: g0x335
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+390	6	Sending to tinyG: g0z180
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+391	7	Sending to tinyG: g0x370
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+392	8	Sending to tinyG: g91
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+393	9	Sending to tinyG: g0y160
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+394	10	Sending to tinyG: g90
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+serialEvent(): inString = {"sr":{"line":0,"posx":18.193,"vel":6247.54,"dist":0,"stat":5}}
+serialEvent(): posx = 18.193
+serialEvent(): line = 0
+395	11	Sending to tinyG: g0z0
+serialEvent(): inString = {"r":{},"f":[1,0,5]}
+396	12	Sending to tinyG: g0x10
+serialEvent(): inString = {"r":{},"f":[1,0,6]}
+397	13	Sending to tinyG: g0x25
+serialEvent(): inString = {"r":{},"f":[1,0,6]}
+398	14	Sending to tinyG: g0z180
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+399	15	Sending to tinyG: g91
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+400	16	Sending to tinyG: g0y160
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+serialEvent(): inString = {"sr":{"posx":-8.622,"vel":2651.91}}
+serialEvent(): posx = -8.622
+Sending to tinyG: n10024 (end marker)
+serialEvent(): inString = {"r":{},"f":[1,0,20]}
+serialEvent(): inString = {"sr":{"posx":-10.000,"posz":172.979,"vel":9801.60}}
+serialEvent(): posx = -10.0
+serialEvent(): posz = 172.979
+serialEvent(): inString = {"sr":{"posz":70.310,"vel":30067.24}}
+serialEvent(): posz = 70.31
+serialEvent(): inString = {"sr":{"posz":0.423,"vel":1487.62}}
+serialEvent(): posz = 0.423
+serialEvent(): inString = {"sr":{"posx":-2.554,"posz":0.000,"vel":6473.00}}
+serialEvent(): posx = -2.554
+serialEvent(): posz = 0.0
+serialEvent(): inString = {"sr":{"posx":28.417,"vel":7500.00}}
+serialEvent(): posx = 28.417
+serialEvent(): inString = {"sr":{"posx":59.713}}
+serialEvent(): posx = 59.713
+serialEvent(): inString = {"sr":{"posx":90.822}}
+serialEvent(): posx = 90.822
+serialEvent(): inString = {"sr":{"posx":122.305}}
+serialEvent(): posx = 122.305
+serialEvent(): inString = {"sr":{"posx":153.602}}
+serialEvent(): posx = 153.602
+serialEvent(): inString = {"sr":{"posx":184.900}}
+serialEvent(): posx = 184.9
+serialEvent(): inString = {"sr":{"posx":216.197}}
+serialEvent(): posx = 216.197
+serialEvent(): inString = {"sr":{"posx":247.494}}
+serialEvent(): posx = 247.494
+serialEvent(): inString = {"sr":{"posx":278.604}}
+serialEvent(): posx = 278.604
+serialEvent(): inString = {"sr":{"posx":309.901}}
+serialEvent(): posx = 309.901
+serialEvent(): inString = {"sr":{"posx":341.215,"vel":6897.97}}
+serialEvent(): posx = 341.215
+serialEvent(): inString = {"sr":{"posx":349.858,"vel":554.50}}
+serialEvent(): posx = 349.858
+serialEvent(): inString = {"sr":{"posx":335.984,"vel":2014.27}}
+serialEvent(): posx = 335.984
+serialEvent(): inString = {"sr":{"posx":335.000,"posz":9.481,"vel":11859.14}}
+serialEvent(): posx = 335.0
+serialEvent(): posz = 9.481
+serialEvent(): inString = {"sr":{"posz":116.404,"vel":29642.69}}
+serialEvent(): posz = 116.404
+serialEvent(): inString = {"sr":{"posz":179.822,"vel":805.63}}
+serialEvent(): posz = 179.822
+serialEvent(): inString = {"sr":{"posx":343.957,"posz":180.000,"vel":6897.96}}
+serialEvent(): posx = 343.957
+serialEvent(): posz = 180.0
+serialEvent(): inString = {"sr":{"posx":369.312,"vel":1695.81}}
+serialEvent(): posx = 369.312
+serialEvent(): inString = {"sr":{"posx":370.000,"posy":420165.188,"vel":5597.14,"dist":1}}
+serialEvent(): posx = 370.0
+serialEvent(): posy = 420165.2
+serialEvent(): inString = {"sr":{"posy":420195.812,"vel":7500.00}}
+serialEvent(): posy = 420195.8
+serialEvent(): inString = {"sr":{"posy":420227.125}}
+serialEvent(): posy = 420227.12
+serialEvent(): inString = {"sr":{"posy":420258.438}}
+serialEvent(): posy = 420258.44
+serialEvent(): inString = {"sr":{"posy":420289.750}}
+serialEvent(): posy = 420289.75
+serialEvent(): inString = {"sr":{"posy":420318.031,"vel":3378.45}}
+serialEvent(): posy = 420318.03
+serialEvent(): inString = {"sr":{"posy":420320.000,"posz":175.185,"vel":7866.47,"dist":0}}
+serialEvent(): posy = 420320.0
+serialEvent(): posz = 175.185
+serialEvent(): inString = {"sr":{"posz":77.857,"vel":30310.40}}
+serialEvent(): posz = 77.857
+serialEvent(): inString = {"sr":{"posz":0.906,"vel":2537.88}}
+serialEvent(): posz = 0.906
+serialEvent(): inString = {"sr":{"posx":364.106,"posz":0.000,"vel":5936.79}}
+serialEvent(): posx = 364.106
+serialEvent(): posz = 0.0
+serialEvent(): inString = {"sr":{"posx":333.269,"vel":7500.00}}
+serialEvent(): posx = 333.269
+serialEvent(): inString = {"sr":{"posx":301.972}}
+serialEvent(): posx = 301.972
+serialEvent(): inString = {"sr":{"posx":270.675}}
+serialEvent(): posx = 270.675
+serialEvent(): inString = {"sr":{"posx":239.377}}
+serialEvent(): posx = 239.377
+serialEvent(): inString = {"sr":{"posx":208.080}}
+serialEvent(): posx = 208.08
+serialEvent(): inString = {"sr":{"posx":176.783}}
+serialEvent(): posx = 176.783
+serialEvent(): inString = {"sr":{"posx":145.673}}
+serialEvent(): posx = 145.673
+serialEvent(): inString = {"sr":{"posx":114.189}}
+serialEvent(): posx = 114.189
+serialEvent(): inString = {"sr":{"posx":82.893}}
+serialEvent(): posx = 82.893
+serialEvent(): inString = {"sr":{"posx":51.597}}
+serialEvent(): posx = 51.597
+serialEvent(): inString = {"sr":{"posx":20.369,"vel":7203.02}}
+serialEvent(): posx = 20.369
+serialEvent(): inString = {"sr":{"posx":10.049,"vel":260.30}}
+serialEvent(): posx = 10.049
+serialEvent(): inString = {"sr":{"posx":23.494,"vel":2651.51}}
+serialEvent(): posx = 23.494
+serialEvent(): inString = {"sr":{"posx":25.000,"posz":6.776,"vel":9579.74}}
+serialEvent(): posx = 25.0
+serialEvent(): posz = 6.776
+serialEvent(): inString = {"sr":{"posz":108.938,"vel":30101.49}}
+serialEvent(): posz = 108.938
+serialEvent(): inString = {"sr":{"posz":179.540,"vel":1578.63}}
+serialEvent(): posz = 179.54
+serialEvent(): inString = {"sr":{"posy":420327.219,"posz":180.000,"vel":6418.66,"dist":1}}
+serialEvent(): posy = 420327.22
+serialEvent(): posz = 180.0
+serialEvent(): inString = {"sr":{"posy":420358.250,"vel":7500.00}}
+serialEvent(): posy = 420358.25
+serialEvent(): inString = {"sr":{"posy":420389.562}}
+serialEvent(): posy = 420389.56
+serialEvent(): inString = {"sr":{"posy":420420.875}}
+serialEvent(): posy = 420420.88
+serialEvent(): inString = {"sr":{"posy":420452.000}}
+serialEvent(): posy = 420452.0
+serialEvent(): inString = {"sr":{"posy":420478.938,"vel":2342.78}}
+serialEvent(): posy = 420478.94
+serialEvent(): inString = {"sr":{"line":10024,"posy":420480.000,"vel":0.00,"stat":3}}
+serialEvent(): posy = 420480.0
+serialEvent(): line = 10024
+
+##### Completed Iteration # 25  time: 14.354001secs  Total time: 358.89secs  at Fri Jan 29 16:34:03 EST 2016
+
+
+
+
+##### Begin Iteration # 26  at Fri Jan 29 16:34:03 EST 2016
+
+401	1	Sending to tinyG: g90
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+402	2	Sending to tinyG: g0x-10
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+403	3	Sending to tinyG: g0z0
+serialEvent(): inString = {"r":{},"f":[1,0,5]}
+404	4	Sending to tinyG: g0x350
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+405	5	Sending to tinyG: g0x335
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+406	6	Sending to tinyG: g0z180
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+407	7	Sending to tinyG: g0x370
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+408	8	Sending to tinyG: g91
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+409	9	Sending to tinyG: g0y160
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+410	10	Sending to tinyG: g90
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+411	11	Sending to tinyG: g0z0
+serialEvent(): inString = {"sr":{"line":0,"posx":18.193,"vel":6247.54,"dist":0,"stat":5}}
+serialEvent(): posx = 18.193
+serialEvent(): line = 0
+serialEvent(): inString = {"r":{},"f":[1,0,5]}
+412	12	Sending to tinyG: g0x10
+serialEvent(): inString = {"r":{},"f":[1,0,6]}
+413	13	Sending to tinyG: g0x25
+serialEvent(): inString = {"r":{},"f":[1,0,6]}
+414	14	Sending to tinyG: g0z180
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+415	15	Sending to tinyG: g91
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+416	16	Sending to tinyG: g0y160
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+Sending to tinyG: n10025 (end marker)
+serialEvent(): inString = {"sr":{"posx":-8.622,"vel":2651.91}}
+serialEvent(): posx = -8.622
+serialEvent(): inString = {"r":{},"f":[1,0,20]}
+serialEvent(): inString = {"sr":{"posx":-10.000,"posz":172.979,"vel":9801.60}}
+serialEvent(): posx = -10.0
+serialEvent(): posz = 172.979
+serialEvent(): inString = {"sr":{"posz":70.310,"vel":30067.24}}
+serialEvent(): posz = 70.31
+serialEvent(): inString = {"sr":{"posz":0.423,"vel":1487.62}}
+serialEvent(): posz = 0.423
+serialEvent(): inString = {"sr":{"posx":-2.554,"posz":0.000,"vel":6473.00}}
+serialEvent(): posx = -2.554
+serialEvent(): posz = 0.0
+serialEvent(): inString = {"sr":{"posx":28.417,"vel":7500.00}}
+serialEvent(): posx = 28.417
+serialEvent(): inString = {"sr":{"posx":59.713}}
+serialEvent(): posx = 59.713
+serialEvent(): inString = {"sr":{"posx":90.822}}
+serialEvent(): posx = 90.822
+serialEvent(): inString = {"sr":{"posx":122.305}}
+serialEvent(): posx = 122.305
+serialEvent(): inString = {"sr":{"posx":153.602}}
+serialEvent(): posx = 153.602
+serialEvent(): inString = {"sr":{"posx":184.900}}
+serialEvent(): posx = 184.9
+serialEvent(): inString = {"sr":{"posx":216.197}}
+serialEvent(): posx = 216.197
+serialEvent(): inString = {"sr":{"posx":247.494}}
+serialEvent(): posx = 247.494
+serialEvent(): inString = {"sr":{"posx":278.604}}
+serialEvent(): posx = 278.604
+serialEvent(): inString = {"sr":{"posx":309.901}}
+serialEvent(): posx = 309.901
+serialEvent(): inString = {"sr":{"posx":341.215,"vel":6897.97}}
+serialEvent(): posx = 341.215
+serialEvent(): inString = {"sr":{"posx":349.858,"vel":554.50}}
+serialEvent(): posx = 349.858
+serialEvent(): inString = {"sr":{"posx":335.984,"vel":2014.27}}
+serialEvent(): posx = 335.984
+serialEvent(): inString = {"sr":{"posx":335.000,"posz":9.481,"vel":11859.14}}
+serialEvent(): posx = 335.0
+serialEvent(): posz = 9.481
+serialEvent(): inString = {"sr":{"posz":116.404,"vel":29642.69}}
+serialEvent(): posz = 116.404
+serialEvent(): inString = {"sr":{"posz":179.822,"vel":805.63}}
+serialEvent(): posz = 179.822
+serialEvent(): inString = {"sr":{"posx":343.957,"posz":180.000,"vel":6897.96}}
+serialEvent(): posx = 343.957
+serialEvent(): posz = 180.0
+serialEvent(): inString = {"sr":{"posx":369.312,"vel":1695.81}}
+serialEvent(): posx = 369.312
+serialEvent(): inString = {"sr":{"posx":370.000,"posy":420485.188,"vel":5597.14,"dist":1}}
+serialEvent(): posx = 370.0
+serialEvent(): posy = 420485.2
+serialEvent(): inString = {"sr":{"posy":420515.812,"vel":7500.00}}
+serialEvent(): posy = 420515.8
+serialEvent(): inString = {"sr":{"posy":420547.125}}
+serialEvent(): posy = 420547.12
+serialEvent(): inString = {"sr":{"posy":420578.438}}
+serialEvent(): posy = 420578.44
+serialEvent(): inString = {"sr":{"posy":420609.750}}
+serialEvent(): posy = 420609.75
+serialEvent(): inString = {"sr":{"posy":420638.031,"vel":3378.45}}
+serialEvent(): posy = 420638.03
+serialEvent(): inString = {"sr":{"posy":420640.000,"posz":175.185,"vel":7866.47,"dist":0}}
+serialEvent(): posy = 420640.0
+serialEvent(): posz = 175.185
+serialEvent(): inString = {"sr":{"posz":77.857,"vel":30310.40}}
+serialEvent(): posz = 77.857
+serialEvent(): inString = {"sr":{"posz":0.906,"vel":2537.88}}
+serialEvent(): posz = 0.906
+serialEvent(): inString = {"sr":{"posx":364.106,"posz":0.000,"vel":5936.79}}
+serialEvent(): posx = 364.106
+serialEvent(): posz = 0.0
+serialEvent(): inString = {"sr":{"posx":333.269,"vel":7500.00}}
+serialEvent(): posx = 333.269
+serialEvent(): inString = {"sr":{"posx":301.972}}
+serialEvent(): posx = 301.972
+serialEvent(): inString = {"sr":{"posx":270.675}}
+serialEvent(): posx = 270.675
+serialEvent(): inString = {"sr":{"posx":239.377}}
+serialEvent(): posx = 239.377
+serialEvent(): inString = {"sr":{"posx":208.080}}
+serialEvent(): posx = 208.08
+serialEvent(): inString = {"sr":{"posx":176.783}}
+serialEvent(): posx = 176.783
+serialEvent(): inString = {"sr":{"posx":145.673}}
+serialEvent(): posx = 145.673
+serialEvent(): inString = {"sr":{"posx":114.189}}
+serialEvent(): posx = 114.189
+serialEvent(): inString = {"sr":{"posx":82.893}}
+serialEvent(): posx = 82.893
+serialEvent(): inString = {"sr":{"posx":51.597}}
+serialEvent(): posx = 51.597
+serialEvent(): inString = {"sr":{"posx":20.369,"vel":7203.02}}
+serialEvent(): posx = 20.369
+serialEvent(): inString = {"sr":{"posx":10.049,"vel":260.30}}
+serialEvent(): posx = 10.049
+serialEvent(): inString = {"sr":{"posx":23.494,"vel":2651.51}}
+serialEvent(): posx = 23.494
+serialEvent(): inString = {"sr":{"posx":25.000,"posz":6.776,"vel":9579.74}}
+serialEvent(): posx = 25.0
+serialEvent(): posz = 6.776
+serialEvent(): inString = {"sr":{"posz":108.938,"vel":30101.49}}
+serialEvent(): posz = 108.938
+serialEvent(): inString = {"sr":{"posz":179.540,"vel":1578.63}}
+serialEvent(): posz = 179.54
+serialEvent(): inString = {"sr":{"posy":420647.219,"posz":180.000,"vel":6418.66,"dist":1}}
+serialEvent(): posy = 420647.22
+serialEvent(): posz = 180.0
+serialEvent(): inString = {"sr":{"posy":420678.250,"vel":7500.00}}
+serialEvent(): posy = 420678.25
+serialEvent(): inString = {"sr":{"posy":420709.562}}
+serialEvent(): posy = 420709.56
+serialEvent(): inString = {"sr":{"posy":420740.875}}
+serialEvent(): posy = 420740.88
+serialEvent(): inString = {"sr":{"posy":420772.000}}
+serialEvent(): posy = 420772.0
+serialEvent(): inString = {"sr":{"posy":420798.938,"vel":2342.78}}
+serialEvent(): posy = 420798.94
+serialEvent(): inString = {"sr":{"line":10025,"posy":420800.000,"vel":0.00,"stat":3}}
+serialEvent(): posy = 420800.0
+serialEvent(): line = 10025
+
+##### Completed Iteration # 26  time: 14.352secs  Total time: 373.242secs  at Fri Jan 29 16:34:17 EST 2016
+
+
+
+
+##### Begin Iteration # 27  at Fri Jan 29 16:34:17 EST 2016
+
+417	1	Sending to tinyG: g90
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+418	2	Sending to tinyG: g0x-10
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+419	3	Sending to tinyG: g0z0
+serialEvent(): inString = {"r":{},"f":[1,0,5]}
+420	4	Sending to tinyG: g0x350
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+421	5	Sending to tinyG: g0x335
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+422	6	Sending to tinyG: g0z180
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+423	7	Sending to tinyG: g0x370
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+424	8	Sending to tinyG: g91
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+425	9	Sending to tinyG: g0y160
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+426	10	Sending to tinyG: g90
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+427	11	Sending to tinyG: g0z0
+serialEvent(): inString = {"sr":{"line":0,"posx":18.035,"vel":6305.91,"dist":0,"stat":5}}
+serialEvent(): posx = 18.035
+serialEvent(): line = 0
+serialEvent(): inString = {"r":{},"f":[1,0,5]}
+428	12	Sending to tinyG: g0x10
+serialEvent(): inString = {"r":{},"f":[1,0,6]}
+429	13	Sending to tinyG: g0x25
+serialEvent(): inString = {"r":{},"f":[1,0,6]}
+430	14	Sending to tinyG: g0z180
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+431	15	Sending to tinyG: g91
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+432	16	Sending to tinyG: g0y160
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+Sending to tinyG: n10026 (end marker)
+serialEvent(): inString = {"sr":{"posx":-8.687,"vel":2573.62}}
+serialEvent(): posx = -8.687
+serialEvent(): inString = {"r":{},"f":[1,0,20]}
+serialEvent(): inString = {"sr":{"posx":-10.000,"posz":172.729,"vel":10024.99}}
+serialEvent(): posx = -10.0
+serialEvent(): posz = 172.729
+serialEvent(): inString = {"sr":{"posz":70.310,"vel":30067.24}}
+serialEvent(): posz = 70.31
+serialEvent(): inString = {"sr":{"posz":0.423,"vel":1399.70}}
+serialEvent(): posz = 0.423
+serialEvent(): inString = {"sr":{"posx":-2.554,"posz":0.000,"vel":6525.96}}
+serialEvent(): posx = -2.554
+serialEvent(): posz = 0.0
+serialEvent(): inString = {"sr":{"posx":28.604,"vel":7500.00}}
+serialEvent(): posx = 28.604
+serialEvent(): inString = {"sr":{"posx":59.901}}
+serialEvent(): posx = 59.901
+serialEvent(): inString = {"sr":{"posx":91.197}}
+serialEvent(): posx = 91.197
+serialEvent(): inString = {"sr":{"posx":122.493}}
+serialEvent(): posx = 122.493
+serialEvent(): inString = {"sr":{"posx":153.790}}
+serialEvent(): posx = 153.79
+serialEvent(): inString = {"sr":{"posx":184.900}}
+serialEvent(): posx = 184.9
+serialEvent(): inString = {"sr":{"posx":216.197}}
+serialEvent(): posx = 216.197
+serialEvent(): inString = {"sr":{"posx":247.681}}
+serialEvent(): posx = 247.681
+serialEvent(): inString = {"sr":{"posx":278.979}}
+serialEvent(): posx = 278.979
+serialEvent(): inString = {"sr":{"posx":310.276}}
+serialEvent(): posx = 310.276
+serialEvent(): inString = {"sr":{"posx":341.387,"vel":6856.61}}
+serialEvent(): posx = 341.387
+serialEvent(): inString = {"sr":{"posx":349.843,"vel":594.40}}
+serialEvent(): posx = 349.843
+serialEvent(): inString = {"sr":{"posx":335.934,"vel":2014.27}}
+serialEvent(): posx = 335.934
+serialEvent(): inString = {"sr":{"posx":335.000,"posz":9.481,"vel":11859.14}}
+serialEvent(): posx = 335.0
+serialEvent(): posz = 9.481
+serialEvent(): inString = {"sr":{"posz":116.404,"vel":29642.69}}
+serialEvent(): posz = 116.404
+serialEvent(): inString = {"sr":{"posz":179.822,"vel":805.63}}
+serialEvent(): posz = 179.822
+serialEvent(): inString = {"sr":{"posx":343.957,"posz":180.000,"vel":6897.96}}
+serialEvent(): posx = 343.957
+serialEvent(): posz = 180.0
+serialEvent(): inString = {"sr":{"posx":369.312,"vel":1695.81}}
+serialEvent(): posx = 369.312
+serialEvent(): inString = {"sr":{"posx":370.000,"posy":420805.188,"vel":5597.14,"dist":1}}
+serialEvent(): posx = 370.0
+serialEvent(): posy = 420805.2
+serialEvent(): inString = {"sr":{"posy":420835.812,"vel":7500.00}}
+serialEvent(): posy = 420835.8
+serialEvent(): inString = {"sr":{"posy":420867.125}}
+serialEvent(): posy = 420867.12
+serialEvent(): inString = {"sr":{"posy":420898.438}}
+serialEvent(): posy = 420898.44
+serialEvent(): inString = {"sr":{"posy":420929.750}}
+serialEvent(): posy = 420929.75
+serialEvent(): inString = {"sr":{"posy":420958.031,"vel":3378.45}}
+serialEvent(): posy = 420958.03
+serialEvent(): inString = {"sr":{"posy":420960.000,"posz":175.185,"vel":7660.87,"dist":0}}
+serialEvent(): posy = 420960.0
+serialEvent(): posz = 175.185
+serialEvent(): inString = {"sr":{"posz":77.857,"vel":30310.40}}
+serialEvent(): posz = 77.857
+serialEvent(): inString = {"sr":{"posz":0.906,"vel":2537.88}}
+serialEvent(): posz = 0.906
+serialEvent(): inString = {"sr":{"posx":364.106,"posz":0.000,"vel":5871.05}}
+serialEvent(): posx = 364.106
+serialEvent(): posz = 0.0
+serialEvent(): inString = {"sr":{"posx":333.269,"vel":7500.00}}
+serialEvent(): posx = 333.269
+serialEvent(): inString = {"sr":{"posx":301.972}}
+serialEvent(): posx = 301.972
+serialEvent(): inString = {"sr":{"posx":270.675}}
+serialEvent(): posx = 270.675
+serialEvent(): inString = {"sr":{"posx":239.377}}
+serialEvent(): posx = 239.377
+serialEvent(): inString = {"sr":{"posx":208.080}}
+serialEvent(): posx = 208.08
+serialEvent(): inString = {"sr":{"posx":176.783}}
+serialEvent(): posx = 176.783
+serialEvent(): inString = {"sr":{"posx":145.673}}
+serialEvent(): posx = 145.673
+serialEvent(): inString = {"sr":{"posx":114.189}}
+serialEvent(): posx = 114.189
+serialEvent(): inString = {"sr":{"posx":82.893}}
+serialEvent(): posx = 82.893
+serialEvent(): inString = {"sr":{"posx":51.597}}
+serialEvent(): posx = 51.597
+serialEvent(): inString = {"sr":{"posx":20.369,"vel":7203.02}}
+serialEvent(): posx = 20.369
+serialEvent(): inString = {"sr":{"posx":10.049,"vel":260.30}}
+serialEvent(): posx = 10.049
+serialEvent(): inString = {"sr":{"posx":23.494,"vel":2651.51}}
+serialEvent(): posx = 23.494
+serialEvent(): inString = {"sr":{"posx":25.000,"posz":6.776,"vel":9579.74}}
+serialEvent(): posx = 25.0
+serialEvent(): posz = 6.776
+serialEvent(): inString = {"sr":{"posz":108.938,"vel":30101.49}}
+serialEvent(): posz = 108.938
+serialEvent(): inString = {"sr":{"posz":179.540,"vel":1578.63}}
+serialEvent(): posz = 179.54
+serialEvent(): inString = {"sr":{"posy":420967.219,"posz":180.000,"vel":6418.66,"dist":1}}
+serialEvent(): posy = 420967.22
+serialEvent(): posz = 180.0
+serialEvent(): inString = {"sr":{"posy":420998.250,"vel":7500.00}}
+serialEvent(): posy = 420998.25
+serialEvent(): inString = {"sr":{"posy":421029.562}}
+serialEvent(): posy = 421029.56
+serialEvent(): inString = {"sr":{"posy":421060.875}}
+serialEvent(): posy = 421060.88
+serialEvent(): inString = {"sr":{"posy":421092.000}}
+serialEvent(): posy = 421092.0
+serialEvent(): inString = {"sr":{"posy":421118.938,"vel":2342.78}}
+serialEvent(): posy = 421118.94
+serialEvent(): inString = {"sr":{"line":10026,"posy":421120.000,"vel":0.00,"stat":3}}
+serialEvent(): posy = 421120.0
+serialEvent(): line = 10026
+
+##### Completed Iteration # 27  time: 14.352secs  Total time: 387.59503secs  at Fri Jan 29 16:34:31 EST 2016
+
+
+
+
+##### Begin Iteration # 28  at Fri Jan 29 16:34:31 EST 2016
+
+433	1	Sending to tinyG: g90
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+434	2	Sending to tinyG: g0x-10
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+435	3	Sending to tinyG: g0z0
+serialEvent(): inString = {"r":{},"f":[1,0,5]}
+436	4	Sending to tinyG: g0x350
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+437	5	Sending to tinyG: g0x335
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+438	6	Sending to tinyG: g0z180
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+439	7	Sending to tinyG: g0x370
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+440	8	Sending to tinyG: g91
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+441	9	Sending to tinyG: g0y160
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+442	10	Sending to tinyG: g90
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+443	11	Sending to tinyG: g0z0
+serialEvent(): inString = {"sr":{"line":0,"posx":18.349,"vel":6187.88,"dist":0,"stat":5}}
+serialEvent(): posx = 18.349
+serialEvent(): line = 0
+serialEvent(): inString = {"r":{},"f":[1,0,5]}
+444	12	Sending to tinyG: g0x10
+serialEvent(): inString = {"r":{},"f":[1,0,6]}
+445	13	Sending to tinyG: g0x25
+serialEvent(): inString = {"r":{},"f":[1,0,6]}
+446	14	Sending to tinyG: g0z180
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+447	15	Sending to tinyG: g91
+serialEvent(): inString = {"r":{},"f":[1,0,4]}
+448	16	Sending to tinyG: g0y160
+serialEvent(): inString = {"r":{},"f":[1,0,7]}
+serialEvent(): inString = {"sr":{"posx":-8.556,"vel":2730.81}}
+serialEvent(): posx = -8.556
+Sending to tinyG: n10027 (end marker)
+serialEvent(): inString = {"r":{},"f":[1,0,20]}
+serialEvent(): inString = {"sr":{"posx":-10.000,"posz":173.224,"vel":9579.74}}
+serialEvent(): posx = -10.0
+serialEvent(): posz = 173.224
+serialEvent(): inString = {"sr":{"posz":71.814,"vel":30101.49}}
+serialEvent(): posz = 71.814
+serialEvent(): inString = {"sr":{"posz":0.499,"vel":1578.63}}
+serialEvent(): posz = 0.499
+serialEvent(): inString = {"sr":{"posx":-2.876,"posz":0.000,"vel":6418.66}}
+serialEvent(): posx = -2.876
+serialEvent(): posz = 0.0
+serialEvent(): inString = {"sr":{"posx":28.229,"vel":7500.00}}
+serialEvent(): posx = 28.229
+serialEvent(): inString = {"sr":{"posx":59.526}}
+serialEvent(): posx = 59.526
+serialEvent(): inString = {"sr":{"posx":90.822}}
+serialEvent(): posx = 90.822
+serialEvent(): inString = {"sr":{"posx":122.118}}
+serialEvent(): posx = 122.118
+serialEvent(): inString = {"sr":{"posx":153.415}}
+serialEvent(): posx = 153.415
+serialEvent(): inString = {"sr":{"posx":184.525}}
+serialEvent(): posx = 184.525
+serialEvent(): inString = {"sr":{"posx":216.009}}
+serialEvent(): posx = 216.009
+serialEvent(): inString = {"sr":{"posx":247.307}}
+serialEvent(): posx = 247.307
+serialEvent(): inString = {"sr":{"posx":278.604}}
+serialEvent(): posx = 278.604
+serialEvent(): inString = {"sr":{"posx":309.901}}
+serialEvent(): posx = 309.901
+serialEvent(): inString = {"sr":{"posx":341.043,"vel":6937.84}}
+serialEvent(): posx = 341.043
+serialEvent(): inString = {"sr":{"posx":349.872,"vel":516.00}}
+serialEvent(): posx = 349.872
+serialEvent(): inString = {"sr":{"posx":336.036,"vel":2141.72}}
+serialEvent(): posx = 336.036
+serialEvent(): inString = {"sr":{"posx":335.000,"posz":8.894,"vel":11393.64}}
+serialEvent(): posx = 335.0
+serialEvent(): posz = 8.894
+serialEvent(): inString = {"sr":{"posz":114.921,"vel":29756.02}}
+serialEvent(): posz = 114.921
+serialEvent(): inString = {"sr":{"posz":179.780,"vel":936.23}}
+serialEvent(): posz = 179.78
+serialEvent(): inString = {"sr":{"posx":343.613,"posz":180.000,"vel":6813.75}}
+serialEvent(): posx = 343.613
+serialEvent(): posz = 180.0
+serialEvent(): inString = {"sr":{"posx":369.226,"vel":1832.80}}
+serialEvent(): posx = 369.226
+serialEvent(): inString = {"sr":{"posx":370.000,"posy":421124.938,"vel":5454.08,"dist":1}}
+serialEvent(): posx = 370.0
+serialEvent(): posy = 421124.94
+serialEvent(): inString = {"sr":{"posy":421155.438,"vel":7500.00}}
+serialEvent(): posy = 421155.44
+serialEvent(): inString = {"sr":{"posy":421186.750}}
+serialEvent(): posy = 421186.75
+serialEvent(): inString = {"sr":{"posy":421218.062}}
+serialEvent(): posy = 421218.06
+serialEvent(): inString = {"sr":{"posy":421249.375}}
+serialEvent(): posy = 421249.38
